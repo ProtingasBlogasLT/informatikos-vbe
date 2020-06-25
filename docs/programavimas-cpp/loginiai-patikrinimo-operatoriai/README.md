@@ -1,0 +1,1 @@
+# Loginiai patikrinimo operatoriai

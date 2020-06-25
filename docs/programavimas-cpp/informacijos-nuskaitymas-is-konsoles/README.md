@@ -1,0 +1,1 @@
+# Informacijos nuskaitymas iš konsolės

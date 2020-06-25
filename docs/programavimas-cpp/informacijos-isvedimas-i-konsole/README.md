@@ -1,0 +1,2 @@
+# Informacijos išvedimas į konsolę
+

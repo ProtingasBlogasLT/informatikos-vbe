@@ -1,0 +1,1 @@
+# Patikrinimo sąlyga if

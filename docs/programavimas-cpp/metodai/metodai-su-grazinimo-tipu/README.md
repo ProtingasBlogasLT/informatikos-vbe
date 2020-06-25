@@ -1,0 +1,1 @@
+# Metodai su grąžinimo tipu

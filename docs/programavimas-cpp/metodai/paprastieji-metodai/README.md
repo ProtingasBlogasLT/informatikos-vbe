@@ -1,0 +1,1 @@
+# Paprastieji metodai
