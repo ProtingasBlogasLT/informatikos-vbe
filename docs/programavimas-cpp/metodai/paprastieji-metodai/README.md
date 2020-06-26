@@ -1,3 +1,0 @@
-# Paprastieji metodai
-
-Informacija ruošiama.

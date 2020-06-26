@@ -1,3 +1,3 @@
-# Metodai (funkcijos)
+# Funkcijos
 
 Informacija ruošiama.

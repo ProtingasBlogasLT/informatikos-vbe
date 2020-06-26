@@ -45,30 +45,78 @@ module.exports = {
           path: '/programavimas-cpp/',
           children: [
             '',
-            'kodo-tvarkingumas/',
-            'kintamieji/',
-            'informacijos-isvedimas-i-konsole/',
-            'aritmetiniai-veiksmai/',
-            'informacijos-nuskaitymas-is-konsoles/',
-            'patikrinimo-salyga-if/',
-            'loginiai-patikrinimo-operatoriai/',
-            'patikrinimo-salyga-switch/',
-            'ciklai/',
-            'ciklai/for/',
-            'ciklai/while/',
-            'ciklai/do-while/',
-            'papildomos-uzduotys-1/',
-            'masyvai/',
-            'masyvai/vienmaciai-masyvai/',
-            'masyvai/dvimaciai-masyvai/',
-            'darbas-su-duomenu-failais/',
-            'metodai/',
-            'metodai/paprastieji-metodai/',
-            'metodai/metodai-su-argumentais/',
-            'metodai/metodai-su-grazinimo-tipu/',
-            'objektinis-programavimas/',
           ]
-        }
+        },
+        {
+          title: 'Pradžiamokslis',
+          path: '/programavimas-cpp/kodo-tvarkingumas/',
+          children: [
+            '/programavimas-cpp/kodo-tvarkingumas/',
+            '/programavimas-cpp/kintamieji/',
+            '/programavimas-cpp/informacijos-isvedimas-i-konsole/',
+            '/programavimas-cpp/aritmetiniai-veiksmai/',
+            '/programavimas-cpp/informacijos-nuskaitymas-is-konsoles/',
+          ]
+        },
+        {
+          title: 'Patikrinimo sąlygos',
+          path: '/programavimas-cpp/patikrinimo-salyga-if/',
+          children: [
+            '/programavimas-cpp/patikrinimo-salyga-if/',
+            '/programavimas-cpp/loginiai-patikrinimo-operatoriai/',
+            '/programavimas-cpp/patikrinimo-salyga-switch/',
+          ]
+        },
+        {
+          title: 'Ciklai',
+          path: '/programavimas-cpp/ciklai/',
+          children: [
+            '/programavimas-cpp/ciklai/',
+            '/programavimas-cpp/ciklai/for/',
+            '/programavimas-cpp/ciklai/while/',
+            '/programavimas-cpp/ciklai/do-while/',
+          ]
+        },
+        {
+          title: 'Papildomos užduotys #1',
+          path: '/programavimas-cpp/papildomos-uzduotys-1/',
+          children: [
+            '/programavimas-cpp/papildomos-uzduotys-1/',
+          ]
+        },
+        {
+          title: 'Masyvai',
+          path: '/programavimas-cpp/masyvai/',
+          children: [
+            '/programavimas-cpp/masyvai/',
+            '/programavimas-cpp/masyvai/vienmaciai-masyvai/',
+            '/programavimas-cpp/masyvai/dvimaciai-masyvai/',
+          ]
+        },
+        {
+          title: 'Darbas su duomenų failais',
+          path: '/programavimas-cpp/darbas-su-duomenu-failais/',
+          children: [
+            '/programavimas-cpp/darbas-su-duomenu-failais/'
+          ]
+        },
+        {
+          title: 'Funkcijos',
+          path: '/programavimas-cpp/funkcijos/',
+          children: [
+            '/programavimas-cpp/funkcijos/',
+            '/programavimas-cpp/funkcijos/paprastosios-funkcijos/',
+            '/programavimas-cpp/funkcijos/funkcijos-su-argumentais/',
+            '/programavimas-cpp/funkcijos/funkcijos-su-grazinimo-tipu/',
+          ]
+        },
+        {
+          title: 'Objektinis programavimas',
+          path: '/programavimas-cpp/objektinis-programavimas/',
+          children: [
+            '/programavimas-cpp/objektinis-programavimas/',
+          ]
+        },
       ],
       '/egzaminu-uzduotys/': [
         {
