@@ -1,2 +1,3 @@
 # Kintamieji
 
+Informacija ruošiama.

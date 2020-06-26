@@ -1,1 +1,3 @@
 # Ciklas for
+
+Informacija ruošiama.

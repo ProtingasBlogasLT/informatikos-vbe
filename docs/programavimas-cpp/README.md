@@ -1,3 +1,3 @@
-# Pradžia
+# Programavimas C++
 
-
+Informacija ruošiama.

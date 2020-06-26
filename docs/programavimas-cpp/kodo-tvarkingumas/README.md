@@ -1,1 +1,3 @@
 # Kodo tvarkingumas
+
+Informacija ruošiama.

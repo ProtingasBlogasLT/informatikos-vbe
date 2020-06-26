@@ -1,1 +1,3 @@
 # Masyvai
+
+Informacija ruošiama.

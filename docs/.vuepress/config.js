@@ -32,38 +32,54 @@ module.exports = {
     docsDir: '',
     editLinkText: '',
     lastUpdated: true,
-    sidebar: [
-      {
-        title: 'Programavimas C++',
-        path: '/programavimas-cpp/',
-        collapsable: false,
-        children: [
-          '/programavimas-cpp/',
-          '/programavimas-cpp/kodo-tvarkingumas/',
-          '/programavimas-cpp/kintamieji/',
-          '/programavimas-cpp/informacijos-isvedimas-i-konsole/',
-          '/programavimas-cpp/aritmetiniai-veiksmai/',
-          '/programavimas-cpp/informacijos-nuskaitymas-is-konsoles/',
-          '/programavimas-cpp/patikrinimo-salyga-if/',
-          '/programavimas-cpp/loginiai-patikrinimo-operatoriai/',
-          '/programavimas-cpp/patikrinimo-salyga-switch/',
-          '/programavimas-cpp/ciklai/',
-          '/programavimas-cpp/ciklai/for/',
-          '/programavimas-cpp/ciklai/while/',
-          '/programavimas-cpp/ciklai/do-while/',
-          '/programavimas-cpp/papildomos-uzduotys-1/',
-          '/programavimas-cpp/masyvai/',
-          '/programavimas-cpp/masyvai/vienmaciai-masyvai/',
-          '/programavimas-cpp/masyvai/dvimaciai-masyvai/',
-          '/programavimas-cpp/darbas-su-duomenu-failais/',
-          '/programavimas-cpp/metodai/',
-          '/programavimas-cpp/metodai/paprastieji-metodai/',
-          '/programavimas-cpp/metodai/metodai-su-argumentais/',
-          '/programavimas-cpp/metodai/metodai-su-grazinimo-tipu/',
-          '/programavimas-cpp/objektinis-programavimas/',
-        ]
-      },
+    smoothScroll: true,
+    lastUpdated: 'Paskutinį kartą atnaujinta',
+    nav: [
+      { text: 'Programavimas C++', link: '/programavimas-cpp/' },
+      { text: 'Egzaminų užduotys', link: '/egzaminu-uzduotys/' },
     ],
+    sidebar: {
+      '/programavimas-cpp/': [
+        {
+          title: 'Programavimas C++',
+          path: '/programavimas-cpp/',
+          children: [
+            '',
+            'kodo-tvarkingumas/',
+            'kintamieji/',
+            'informacijos-isvedimas-i-konsole/',
+            'aritmetiniai-veiksmai/',
+            'informacijos-nuskaitymas-is-konsoles/',
+            'patikrinimo-salyga-if/',
+            'loginiai-patikrinimo-operatoriai/',
+            'patikrinimo-salyga-switch/',
+            'ciklai/',
+            'ciklai/for/',
+            'ciklai/while/',
+            'ciklai/do-while/',
+            'papildomos-uzduotys-1/',
+            'masyvai/',
+            'masyvai/vienmaciai-masyvai/',
+            'masyvai/dvimaciai-masyvai/',
+            'darbas-su-duomenu-failais/',
+            'metodai/',
+            'metodai/paprastieji-metodai/',
+            'metodai/metodai-su-argumentais/',
+            'metodai/metodai-su-grazinimo-tipu/',
+            'objektinis-programavimas/',
+          ]
+        }
+      ],
+      '/egzaminu-uzduotys/': [
+        {
+          title: 'Egzaminų užduotys',
+          path: '/egzaminu-uzduotys/',
+          children: [
+            '',
+          ]
+        }
+      ],
+    }
   },
 
   /**

@@ -1,3 +1,3 @@
-# Ciklas do while
+# Egzaminų užduotys
 
 Informacija ruošiama.
