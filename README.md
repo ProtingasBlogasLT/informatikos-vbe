@@ -1,13 +1,12 @@
-# cpp-greitai-pries-egzamina
+# Pasiruošimas IT VBE (C++)
 
-> Pasiruošimas IT VBE (C++)
+Teorija, pavyzdžiai, užduotys
 
-## Development
+## Projekto paleidimas
+
+Per konsolę naudojamos komandos paleidimui ar projekto parengimui talpinti:
 
 ```bash
-yarn dev
-yarn build
+npm dev
+npm build
 ```
-
-For more details, please head VuePress's [documentation](https://v1.vuepress.vuejs.org/).
-
