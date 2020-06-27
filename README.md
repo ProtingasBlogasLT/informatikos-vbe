@@ -1,4 +1,4 @@
-# Pasiruošimas IT VBE (C++)
+# Pasiruošimas IT VBE
 
 Teorija, pavyzdžiai, užduotys
 
