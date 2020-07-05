@@ -48,13 +48,37 @@ module.exports = {
           ]
         },
         {
-          title: 'Pradžiamokslis',
+          title: 'Kodo tvarkingumas',
           path: '/programavimas-cpp/kodo-tvarkingumas/',
           children: [
             '/programavimas-cpp/kodo-tvarkingumas/',
+          ]
+        },
+        {
+          title: 'Kintamieji',
+          path: '/programavimas-cpp/kintamieji/',
+          children: [
             '/programavimas-cpp/kintamieji/',
+          ]
+        },
+        {
+          title: 'Informacijos išvedimas į konsolę',
+          path: '/programavimas-cpp/kodo-tvarkingumas/',
+          children: [
             '/programavimas-cpp/informacijos-isvedimas-i-konsole/',
+          ]
+        },
+        {
+          title: 'Aritmetiniai veiksmai',
+          path: '/programavimas-cpp/kodo-tvarkingumas/',
+          children: [
             '/programavimas-cpp/aritmetiniai-veiksmai/',
+          ]
+        },
+        {
+          title: 'Informacijos nuskaitymas iš konsolės',
+          path: '/programavimas-cpp/kodo-tvarkingumas/',
+          children: [
             '/programavimas-cpp/informacijos-nuskaitymas-is-konsoles/',
           ]
         },
