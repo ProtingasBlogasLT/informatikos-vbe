@@ -67,6 +67,7 @@ module.exports = {
           children: [
             '/programavimas-cpp/informacijos-isvedimas-i-konsole/',
             '/programavimas-cpp/informacijos-isvedimas-i-konsole/paprasto-teksto-isvedimas/',
+            '/programavimas-cpp/informacijos-isvedimas-i-konsole/kintamuju-isvedimas/',
           ]
         },
         {
