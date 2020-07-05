@@ -66,6 +66,7 @@ module.exports = {
           path: '/programavimas-cpp/kodo-tvarkingumas/',
           children: [
             '/programavimas-cpp/informacijos-isvedimas-i-konsole/',
+            '/programavimas-cpp/informacijos-isvedimas-i-konsole/paprasto-teksto-isvedimas/',
           ]
         },
         {
