@@ -222,6 +222,32 @@ Rezultatas:
 Petras45
 ```
 
+### Pavyzdys 9
+
+Kodas:
+
+```cpp
+#include <iostream>
+using namespace std;
+
+int main()
+{
+	int skaicius = 45;
+	cout << skaicius << endl;
+
+	skaicius = 30;
+	cout << skaicius << endl;
+}
+```
+
+Rezultatas:
+
+```
+45
+30
+
+```
+
 ## Užduotys
 
 ### Užduotis 1
