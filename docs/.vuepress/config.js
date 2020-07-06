@@ -95,6 +95,9 @@ module.exports = {
           path: '/programavimas-cpp/patikrinimo-salyga-if/',
           children: [
             '/programavimas-cpp/patikrinimo-salyga-if/',
+            '/programavimas-cpp/patikrinimo-salyga-if/if-dalis/',
+            '/programavimas-cpp/patikrinimo-salyga-if/else-if-dalis/',
+            '/programavimas-cpp/patikrinimo-salyga-if/else-dalis/',
             '/programavimas-cpp/loginiai-patikrinimo-operatoriai/',
             '/programavimas-cpp/patikrinimo-salyga-switch/',
           ]
@@ -107,13 +110,6 @@ module.exports = {
             '/programavimas-cpp/ciklai/for/',
             '/programavimas-cpp/ciklai/while/',
             '/programavimas-cpp/ciklai/do-while/',
-          ]
-        },
-        {
-          title: 'Papildomos užduotys #1',
-          path: '/programavimas-cpp/papildomos-uzduotys-1/',
-          children: [
-            '/programavimas-cpp/papildomos-uzduotys-1/',
           ]
         },
         {
