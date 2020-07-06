@@ -8,7 +8,7 @@ Informacija ruošiama.
 
 - Norint išvesti paprastą tekstą, tokį koks jis yra, jį reikia rašyti tarp dvigubų kabučių.
 - Šis tekstas dažniausiai bus naudojamas apibūdinti gautus rezultatus.
-- Tekste galima įrašyti \n kas padėtų naują eilutę nurodytoje vietoje.
+- Tekste galima įrašyti `\n` kas padėtų naują eilutę nurodytoje vietoje.
 
 ## Pavyzdžiai
 
@@ -251,7 +251,7 @@ Išveskite bet kokį eilėraštį, kurį sudarytų bent 5 eilutės.
 
 ### Užduotis 3
 
-Išveskite 3x3 dydžio tuščiavidurį kvadratą iš * simbolio. Galutinio rezultato pavyzdys:
+Išveskite 3x3 dydžio tuščiavidurį kvadratą iš `*` simbolio. Galutinio rezultato pavyzdys:
 
 ```
 ***

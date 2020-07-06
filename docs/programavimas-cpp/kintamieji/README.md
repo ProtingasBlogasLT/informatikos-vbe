@@ -25,12 +25,12 @@ Informacija ruošiama.
 
 | Kintamojo tipas | Apibūdinimas | Pavyzdinė reikšmė |
 | --------------- | ------------ | ----------------- |
-| int | sveikasis skaičius | 4 |
-| float | skaičius per kablelį | 8.6584845 |
-| double | skaičius per kablelį, 2x tikslesnis už float | 6.15788728245154 |
-| char | raidė, simbolis | 'n' |
-| string | keli simboliai, žodis, tekstas | "pastatas" |
-| bool | tiesa / netiesa, tik true arba false | true |
+| `int` | sveikasis skaičius | `4` |
+| `float` | skaičius per kablelį | `8.6584845` |
+| `double` | skaičius per kablelį, 2x tikslesnis už `float` | `6.15788728245154` |
+| `char` | raidė, simbolis | `'n'` |
+| `string` | keli simboliai, žodis, tekstas | `"pastatas"` |
+| `bool` | tiesa / netiesa, tik `true` arba `false` | `true` |
 
 ## Pavyzdžiai
 
