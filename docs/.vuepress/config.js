@@ -83,6 +83,8 @@ module.exports = {
           path: '/programavimas-cpp/kodo-tvarkingumas/',
           children: [
             '/programavimas-cpp/informacijos-nuskaitymas-is-konsoles/',
+            '/programavimas-cpp/informacijos-nuskaitymas-is-konsoles/paprasto-teksto-nuskaitymas/',
+            '/programavimas-cpp/informacijos-nuskaitymas-is-konsoles/skaiciu-nuskaitymas/',
           ]
         },
         {
