@@ -55,7 +55,7 @@ int main()
 }
 ```
 
-Rezultatai:
+Rezultatas 1:
 
 ```
 Iveskite norima teksta:
@@ -63,6 +63,17 @@ abc
 
 Ivestas tekstas:
 abc
+
+```
+
+Rezultatas 2:
+
+```
+Iveskite norima teksta:
+shdtfg  s h df
+
+Ivestas tekstas:
+shdtfg
 
 ```
 
