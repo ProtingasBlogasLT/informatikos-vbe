@@ -243,7 +243,7 @@ liekana: 1
 ```
 
 ::: tip Patarimas
-Prisiminkite kaip vyksta dalyba kartu ir bus lengviau suprasti kokiu būdu yra randama liekana.
+Prisiminkite kaip vyksta dalyba kampu ir bus lengviau suprasti kokiu būdu yra randama liekana.
 :::
 
 ### Pavyzdys 8
