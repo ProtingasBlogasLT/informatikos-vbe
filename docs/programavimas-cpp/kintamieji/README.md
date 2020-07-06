@@ -14,7 +14,7 @@ Informacija ruošiama.
 
 ## Taisyklės kuriant kintamuosius
 
-- Kintamojo pavadinimas prasideda su žodžiu var arba jo tipo pavadinimu, iškart po kurio seka kintamojo pavadinimas.
+- Kintamojo pavadinimas prasideda su jo tipo pavadinimu, iškart po kurio seka kintamojo pavadinimas.
 - Kintamojo pavadinimą gali sudaryti raidės, skaičiai ir apatinis brūkšnelis (`A-z`, `0-9`, `_`).
 - Kintamojo pavadinimas gali prasidėti tik raide arba apatiniu brūkšneliu.
 - Kintamųjų pavadinimai yra jautrūs mažosioms/didžiosioms raidėms. A didžioji ir a mažoji nėra tas pats, todėl kintamasis pavadinimu `age` ir kintamasis pavadinimu `AGE` nėra tas pats.
