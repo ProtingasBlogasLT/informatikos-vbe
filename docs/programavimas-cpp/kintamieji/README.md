@@ -10,7 +10,7 @@ Informacija ruošiama.
 - Šie duomenys gali būti įvairūs skaičiai, simboliai, tekstas ar kita.
 - Jie gali būti panaudojami, pakeičiami.
 - Su kintamaisiais galite saugoti bet kokią programai reikalingą informaciją. Pavyzdžiui duomenis apie žmones, daiktus, užsakymus ar kita.
-- Sintaksė: `var pavadinimas = reikšmė;` arba `tipas pavadinimas = reikšmė;`
+- Sintaksė: `tipas pavadinimas = reikšmė;`
 
 ## Taisyklės kuriant kintamuosius
 
