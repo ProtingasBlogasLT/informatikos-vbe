@@ -98,6 +98,7 @@ module.exports = {
             '/programavimas-cpp/patikrinimo-salyga-if/if-dalis/',
             '/programavimas-cpp/patikrinimo-salyga-if/else-if-dalis/',
             '/programavimas-cpp/patikrinimo-salyga-if/else-dalis/',
+            '/programavimas-cpp/patikrinimo-salyga-if/pilna-if-salyga/',
             '/programavimas-cpp/loginiai-patikrinimo-operatoriai/',
             '/programavimas-cpp/patikrinimo-salyga-switch/',
           ]
