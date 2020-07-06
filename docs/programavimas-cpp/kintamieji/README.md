@@ -85,7 +85,7 @@ int main()
 ### Pavyzdys 4
 
 ```cpp
-#include<string>
+#include <string>
 using namespace std;
 
 int main()
@@ -111,6 +111,42 @@ int main()
 	float aukstis = 7.4;
 	float storis = 0.8;
 	bool sula = false;
+}
+```
+
+### Pavyzdys 6
+
+```cpp
+using namespace std;
+
+int main()
+{
+	int skaicius1, skaicius2, skaicius3;
+}
+```
+
+### Pavyzdys 7
+
+```cpp
+using namespace std;
+
+int main()
+{
+	int skaicius1 = 5,
+		skaicius2 = 7,
+		skaicius3 = 3;
+}
+```
+
+### Pavyzdys 8
+
+```cpp
+using namespace std;
+
+int main()
+{
+	int sk1, sk2;
+	sk1 = sk2 = 5;
 }
 ```
 
