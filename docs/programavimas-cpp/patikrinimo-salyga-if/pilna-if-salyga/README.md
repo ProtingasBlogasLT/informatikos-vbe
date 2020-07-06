@@ -151,7 +151,7 @@ Liepkite vartotojui įvesti skaičių. Patikrinkite:
 
 ### Užduotis 2
 
-iepkite vartotojui įvesti du skaičius. Patikrinkite:
+Liepkite vartotojui įvesti du skaičius. Patikrinkite:
 
 - Ar pirmas skaičius didesnis už antrą?
 - Ar antras skaičius didesnis už pirmą?
