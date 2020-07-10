@@ -1,6 +1,8 @@
 # Pasiruošimas IT VBE
 
-Teorija, pavyzdžiai, užduotys
+Teorija, pavyzdžiai, užduotys.
+
+Projektas talpinamas adresu: http://informatikosvbe.lt
 
 ## Projekto paleidimas
 
