@@ -7,6 +7,6 @@ Teorija, pavyzdžiai, užduotys
 Per konsolę naudojamos komandos paleidimui ar projekto parengimui talpinti:
 
 ```bash
-npm dev
-npm build
+npm run dev
+npm run build
 ```
