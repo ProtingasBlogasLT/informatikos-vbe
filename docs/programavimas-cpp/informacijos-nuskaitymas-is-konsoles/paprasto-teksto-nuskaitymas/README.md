@@ -4,11 +4,6 @@
 
 Informacija ruošiama.
 
-## Apie paprasto teksto nuskaitymą
-
-- Paprasto teksto nuskaitymui geriausiai naudoti Console.ReadLine();, nes ši komanda nuskaitys visą suvestą eilutę ir ją grąžins kaip string tipo atsakymą.
-- Gautą atsakymą galima išsaugoti į kintamąjį, arba iškart išvesti.
-
 ## Pavyzdžiai
 
 ### Pavyzdys 1
