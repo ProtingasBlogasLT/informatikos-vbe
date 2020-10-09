@@ -35,8 +35,13 @@ module.exports = {
     smoothScroll: true,
     lastUpdated: 'Paskutinį kartą atnaujinta',
     nav: [
+      { text: 'Pradžia', link: '/' },
+      { text: 'Testas', link: '/testas/' },
+      { text: 'Word', link: '/word/' },
+      { text: 'Excel', link: '/excel/' },
       { text: 'Programavimas C++', link: '/programavimas-cpp/' },
       { text: 'Egzaminų užduotys', link: '/egzaminu-uzduotys/' },
+      { text: 'Apie projektą', link: '/apie-projekta/' },
     ],
     sidebar: {
       '/programavimas-cpp/': [
@@ -151,6 +156,42 @@ module.exports = {
         {
           title: 'Egzaminų užduotys',
           path: '/egzaminu-uzduotys/',
+          children: [
+            '',
+          ]
+        }
+      ],
+      '/apie-projekta/': [
+        {
+          title: 'Apie projektą',
+          path: '/apie-projekta/',
+          children: [
+            '',
+          ]
+        }
+      ],
+      '/testas/': [
+        {
+          title: 'Testas',
+          path: '/testas/',
+          children: [
+            '',
+          ]
+        }
+      ],
+      '/word/': [
+        {
+          title: 'Microsoft Word',
+          path: '/word/',
+          children: [
+            '',
+          ]
+        }
+      ],
+      '/excel/': [
+        {
+          title: 'Microsoft Excel',
+          path: '/excel/',
           children: [
             '',
           ]
