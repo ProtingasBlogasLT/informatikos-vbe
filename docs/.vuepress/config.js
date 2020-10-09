@@ -42,6 +42,7 @@ module.exports = {
       { text: 'Programavimas C++', link: '/programavimas-cpp/' },
       // { text: 'Egzaminų užduotys', link: '/egzaminu-uzduotys/' },
       // { text: 'Apie projektą', link: '/apie-projekta/' },
+      { text: 'Naujienos', link: '/naujienos/' },
     ],
     sidebar: {
       '/programavimas-cpp/': [
@@ -199,6 +200,15 @@ module.exports = {
         {
           title: 'Microsoft Excel',
           path: '/excel/',
+          children: [
+            '',
+          ]
+        }
+      ],
+      '/naujienos/': [
+        {
+          title: 'Naujienos',
+          path: '/naujienos/',
           children: [
             '',
           ]
