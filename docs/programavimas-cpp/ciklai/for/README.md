@@ -8,7 +8,7 @@ Informacija ruošiama.
 
 Šis ciklas dažniausiai naudojamas kai yra žinoma kiek kartų jis turi būti vykdomas.
 
-## `for` ciklo sintaksė
+## Ciklo `for` sintaksė
 
 ```
 for (kintamasis; sąlyga; operacija)
