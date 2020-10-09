@@ -119,6 +119,13 @@ module.exports = {
           ]
         },
         {
+          title: 'Papildomos užduotys',
+          path: '/programavimas-cpp/papildomos-uzduotys-1/',
+          children: [
+            '/programavimas-cpp/papildomos-uzduotys-1/'
+          ]
+        },
+        {
           title: 'Masyvai',
           path: '/programavimas-cpp/masyvai/',
           children: [
