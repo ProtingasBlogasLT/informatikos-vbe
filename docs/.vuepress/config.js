@@ -36,12 +36,12 @@ module.exports = {
     lastUpdated: 'Paskutinį kartą atnaujinta',
     nav: [
       { text: 'Pradžia', link: '/' },
-      { text: 'Testas', link: '/testas/' },
-      { text: 'Word', link: '/word/' },
-      { text: 'Excel', link: '/excel/' },
+      // { text: 'Testas', link: '/testas/' },
+      // { text: 'Word', link: '/word/' },
+      // { text: 'Excel', link: '/excel/' },
       { text: 'Programavimas C++', link: '/programavimas-cpp/' },
-      { text: 'Egzaminų užduotys', link: '/egzaminu-uzduotys/' },
-      { text: 'Apie projektą', link: '/apie-projekta/' },
+      // { text: 'Egzaminų užduotys', link: '/egzaminu-uzduotys/' },
+      // { text: 'Apie projektą', link: '/apie-projekta/' },
     ],
     sidebar: {
       '/programavimas-cpp/': [
