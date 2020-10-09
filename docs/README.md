@@ -3,6 +3,6 @@ home: true
 heroImage: /main-image.png
 tagline: Teorija, pavyzdžiai, užduotys
 actionText: Pradėti →
-actionLink: /programavimas-cpp/
+actionLink: /testas/
 footer: Nuo Ieva Jakšaitytė su ❤️
 ---
