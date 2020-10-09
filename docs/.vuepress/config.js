@@ -205,15 +205,15 @@ module.exports = {
           ]
         }
       ],
-      '/naujienos/': [
-        {
-          title: 'Naujienos',
-          path: '/naujienos/',
-          children: [
-            '',
-          ]
-        }
-      ],
+      // '/naujienos/': [
+      //   {
+      //     title: 'Naujienos',
+      //     path: '/naujienos/',
+      //     children: [
+      //       '',
+      //     ]
+      //   }
+      // ],
     }
   },
 
