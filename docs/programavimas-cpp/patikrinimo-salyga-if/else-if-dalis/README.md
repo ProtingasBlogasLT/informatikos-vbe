@@ -1,4 +1,4 @@
-# `else if` dalis
+# Patikrinimo sąlyga if: else if dalis
 
 ## Vaizdo pamoka
 

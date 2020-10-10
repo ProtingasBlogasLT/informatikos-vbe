@@ -1,4 +1,4 @@
-# `if` dalis
+# Patikrinimo sąlyga if: if dalis
 
 ## Vaizdo pamoka
 

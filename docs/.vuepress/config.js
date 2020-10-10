@@ -68,7 +68,7 @@ module.exports = {
           ]
         },
         {
-          title: 'Informacijos išvedimas į konsolę',
+          title: 'Informacijos išvedimas į konsolę (cout)',
           path: '/programavimas-cpp/kodo-tvarkingumas/',
           children: [
             '/programavimas-cpp/informacijos-isvedimas-i-konsole/',
@@ -85,7 +85,7 @@ module.exports = {
           ]
         },
         {
-          title: 'Informacijos nuskaitymas iš konsolės',
+          title: 'Informacijos nuskaitymas iš konsolės (cin)',
           path: '/programavimas-cpp/kodo-tvarkingumas/',
           children: [
             '/programavimas-cpp/informacijos-nuskaitymas-is-konsoles/',
@@ -97,7 +97,7 @@ module.exports = {
           ]
         },
         {
-          title: 'Patikrinimo sąlygos',
+          title: 'Patikrinimo sąlygos (if, switch)',
           path: '/programavimas-cpp/patikrinimo-salyga-if/',
           children: [
             '/programavimas-cpp/patikrinimo-salyga-if/',
@@ -110,7 +110,7 @@ module.exports = {
           ]
         },
         {
-          title: 'Ciklai',
+          title: 'Ciklai (for, while, do while)',
           path: '/programavimas-cpp/ciklai/',
           children: [
             '/programavimas-cpp/ciklai/',

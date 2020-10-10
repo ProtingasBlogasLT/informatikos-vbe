@@ -1,4 +1,4 @@
-# Patikrinimo sąlyga `switch`
+# Patikrinimo sąlyga switch
 
 ## Vaizdo pamoka
 

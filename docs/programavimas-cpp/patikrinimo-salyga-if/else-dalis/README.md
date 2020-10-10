@@ -1,5 +1,5 @@
 
-# `else` dalis
+# Patikrinimo sąlyga if: else dalis
 
 ## Vaizdo pamoka
 

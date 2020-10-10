@@ -1,4 +1,4 @@
-# Pilna `if` sąlyga
+# Patikrinimo sąlyga if: pilna sąlyga
 
 ## Vaizdo pamoka
 

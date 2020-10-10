@@ -1,5 +1,7 @@
 # Naujienos
 
+**2020-10-10** Nedideli pataisymai.
+
 **2020-10-09** Atnaujinta struktūra. Pridėta medžiagos apie ciklus. Pridėta papildomų užduočių. Pridėta naujienų skiltis.
 
 **2020-07-21** Nedideli pataisymai.

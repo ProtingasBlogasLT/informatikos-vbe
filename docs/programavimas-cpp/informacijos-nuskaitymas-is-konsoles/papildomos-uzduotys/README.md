@@ -1,6 +1,8 @@
 # Papildomos užduotys
 
-## Užduotis 1
+## Užduotys
+
+### Užduotis 1
 
 Nuskaitykite iš konsolės šiuos duomenis apie darbuotoją: `vardas`; `pavardė`; `gimimo metai`; `specialybė`; `etatas` (nuo 0 iki 1); `gaunama alga`. Iš turimų gimimo metų paskaičiuokite koks darbuotojo amžius. Išveskite visą šią informaciją ekrane sakinio pavidalu. Pavyzdžiui:
 
@@ -8,7 +10,7 @@ Nuskaitykite iš konsolės šiuos duomenis apie darbuotoją: `vardas`; `pavardė
 Algis Algiausias (52 m.) dirba policininku 0.5 etatu ir uždirba 500 eur/mėn.
 ```
 
-## Užduotis 2
+### Užduotis 2
 
 Nuskaitykite iš konsolės šiuos duomenis apie studentą: `vardas`; `pavardė`; `grupės kodas`; `aukštosios mokyklos pavadinimas`; `norimą kiekį pažymių` (pavyzdžiui 3 pažymius). Raskite vidurkį iš turimų pažymių. Visą informaciją norima forma išveskite ekrane.
 
