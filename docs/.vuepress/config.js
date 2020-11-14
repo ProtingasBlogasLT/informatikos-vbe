@@ -98,15 +98,15 @@ module.exports = {
         },
         {
           title: 'Patikrinimo sąlygos (if, switch)',
-          path: '/programavimas-cpp/patikrinimo-salyga-if/',
+          path: '/programavimas-cpp/patikrinimo-salygos/if/',
           children: [
-            '/programavimas-cpp/patikrinimo-salyga-if/',
-            '/programavimas-cpp/patikrinimo-salyga-if/if-dalis/',
-            '/programavimas-cpp/patikrinimo-salyga-if/else-if-dalis/',
-            '/programavimas-cpp/patikrinimo-salyga-if/else-dalis/',
-            '/programavimas-cpp/patikrinimo-salyga-if/pilna-if-salyga/',
-            '/programavimas-cpp/loginiai-patikrinimo-operatoriai/',
-            '/programavimas-cpp/patikrinimo-salyga-switch/',
+            '/programavimas-cpp/patikrinimo-salygos/if/',
+            '/programavimas-cpp/patikrinimo-salygos/if/if-dalis/',
+            '/programavimas-cpp/patikrinimo-salygos/if/else-if-dalis/',
+            '/programavimas-cpp/patikrinimo-salygos/if/else-dalis/',
+            '/programavimas-cpp/patikrinimo-salygos/if/pilna-if-salyga/',
+            '/programavimas-cpp/patikrinimo-salygos/loginiai-patikrinimo-operatoriai/',
+            '/programavimas-cpp/patikrinimo-salygos/switch/',
           ]
         },
         {
