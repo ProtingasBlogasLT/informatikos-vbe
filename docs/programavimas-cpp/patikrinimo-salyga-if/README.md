@@ -15,7 +15,7 @@ If sąlyga skirta norint ką nors patikrinti ar palyginti. Pavyzdžiui:
 - Ar failas egzistuoja?
 …
 
-Kai sąlyga teisinga (užduotas klausimas yra tiesa (true)), tuomet yra vykdomas atitinkamas kodas.
+Kai sąlyga teisinga (užduotas klausimas yra tiesa (`true`)), tuomet yra vykdomas atitinkamas kodas.
 
 ## Palyginimo operatoriai
 
@@ -33,5 +33,5 @@ Kai sąlyga teisinga (užduotas klausimas yra tiesa (true)), tuomet yra vykdomas
 If sąlyga gali susidėti iš kelių dalių:
 
 - `if` - būtinoji dalis.
-- `else if` - jeigu reikia tikrinti daugiau sąlygų, galima rašyti tiek `else` if dalių kiek tik reikia.
+- `else if` - jeigu reikia tikrinti daugiau sąlygų, galima rašyti tiek `else if` dalių kiek tik reikia.
 - `else` - jei reikia galima rašyti, rašosi pačiame gale, vieną kartą.

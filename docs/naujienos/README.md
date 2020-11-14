@@ -1,5 +1,7 @@
 # Naujienos
 
+**2020-11-14** Įvairūs nedideli atnaujinimai.
+
 **2020-10-10** Įvairūs nedideli atnaujinimai.
 
 **2020-10-09** Atnaujinta struktūra. Pridėta medžiagos apie ciklus. Pridėta papildomų užduočių. Pridėta naujienų skiltis.

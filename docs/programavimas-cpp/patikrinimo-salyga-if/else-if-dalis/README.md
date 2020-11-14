@@ -11,7 +11,7 @@ Informacija ruošiama.
   - Ar vartotojui yra 18 metų? Jei ne - sekantis tikrinimas: o gal vartotojui yra 16 metų? Jei ne - sekantis tikrinimas - o gal vartotojui mažiau nei 16?
 - Galima naudoti tiek `else if` dalių kiek tik reikia.
 - Kiekviena `else if` dalis atsakinga už naujos sąlygos patikrinimą.
-- Jei tikrinant skirtingas sąlygas (einant per if ir `else if` dalis) yra randama teisinga, tuomet jai priskirtas kodas yra įvykdomas ir sekančios sąlygos nebetikrinamos. T.y. yra vykdoma tik pirma teisinga sąlyga.
+- Jei tikrinant skirtingas sąlygas (einant per `if` ir `else if` dalis) yra randama teisinga, tuomet jai priskirtas kodas yra įvykdomas ir sekančios sąlygos nebetikrinamos. T.y. yra vykdoma tik pirma teisinga sąlyga.
 
 ## `else if` dalies sintaksė
 
@@ -316,7 +316,7 @@ Liepkite vartotojui įvesti tris skaičius. Parašykite šiuos patikrinimus, nau
 
 ### Užduotis 2
 
-iepkite vartotojui įvesti egzamino pažymį [0-10]. Naudojant `else if` dalis patikrinkite šias sąlygas ir išveskite atitinkamą tekstą:
+Liepkite vartotojui įvesti egzamino pažymį [0-10]. Naudojant `else if` dalis patikrinkite šias sąlygas ir išveskite atitinkamą tekstą:
 
 - Jei pažymys yra lygus 10 išvesti "puiku".
 - Jei pažymys yra lygus 9 išvesti "labai gerai".

@@ -700,7 +700,7 @@ Išveskite visus skaičius nuo 1 iki 50. Prie kiekvieno lyginio skaičiaus para�
 
 ### Užduotis 3
 
-Nekeliant į naujas eilutes, kiekvieną skaičių atskiriant kableliu išveskite visus skaičius nuo 1 iki 100.
+Išveskite visus skaičius nuo 1 iki 100, kiekvieną skaičių atskiriant kableliu, bei nekeliant skaičių į naujas eilutes.
 
 ### Užduotis 4
 

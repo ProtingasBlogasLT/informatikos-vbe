@@ -64,21 +64,21 @@ Loginiai operatoriai naudojami norint patikrinti kelias sąlygas vienu metu (o n
 
 Kaip manote, kokius atsakymus (`true` / `false`) gausime prie tokių klausimų?
 
-- `(10 > 9) && ( 9 > 10) = ???`
-- `(10 > 9) || ( 9 > 10) = ???`
+- `(10 > 9) && (9 > 10) = ???`
+- `(10 > 9) || (9 > 10) = ???`
 - `!true = ???`
-- `(10 > 9) && (!( 9 > 10)) = ???`
+- `(10 > 9) && (!(9 > 10)) = ???`
 
-### Panagrinėkime: `(10 > 9) && ( 9 > 10) = ???`
+### Panagrinėkime: `(10 > 9) && (9 > 10) = ???`
 
-1. `(10 > 9) && ( 9 > 10) = ???`
+1. `(10 > 9) && (9 > 10) = ???`
 2. `true && false = ???`
 3. `true && false = false`
 4. `false`
 
-### Panagrinėkime: `(10 > 9) || ( 9 > 10) = ???`
+### Panagrinėkime: `(10 > 9) || (9 > 10) = ???`
 
-1. `(10 > 9) || ( 9 > 10) = ???`
+1. `(10 > 9) || (9 > 10) = ???`
 2. `true || false = ???`
 3. `true || false = true`
 4. `true`
@@ -89,9 +89,9 @@ Kaip manote, kokius atsakymus (`true` / `false`) gausime prie tokių klausimų?
 2. `!true = false`
 3. `false`
 
-### Panagrinėkime: `(10 > 9) && (!( 9 > 10)) = ???`
+### Panagrinėkime: `(10 > 9) && (!(9 > 10)) = ???`
 
-1. `(10 > 9) && (!( 9 > 10)) = ???`
+1. `(10 > 9) && (!(9 > 10)) = ???`
 2. `true && (!(false)) = ???`
 3. `true && true = ???`
 4. `true && true = true`

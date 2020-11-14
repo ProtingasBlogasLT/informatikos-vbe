@@ -580,11 +580,11 @@ Parašyti for, kuris išvestų kas antrą skaičių pradedant 0 ir baigiant 15. 
 
 ### Užduotis 3
 
-Parašyti for, kuris išvestų kas trečią skaičių, pradedant 1 ir baigiant 20. Kiekvieną skaičių išvesti toje pačioje eilutėje tačiau apskliaudžiant laužtiniais skliaustais. Pvz.: [1][4][7]...
+Parašyti for, kuris išvestų kas trečią skaičių, pradedant 1 ir baigiant 20. Kiekvieną skaičių išvesti toje pačioje eilutėje tačiau apskliaudžiant laužtiniais skliaustais. Pvz.: `[1][4][7]`...
 
 ### Užduotis 4
 
-Parašyti for, kuris eitų pro kiekvieną skaičių nuo 1 iki 10. Jame apsirašyti if sąlygą, kuri patikrintų ar dabartinis skaičius yra lyginis, jei taip tai šį skaičių išvesti.
+Parašyti `for`, kuris eitų pro kiekvieną skaičių nuo 1 iki 10. Jame apsirašyti if sąlygą, kuri patikrintų ar dabartinis skaičius yra lyginis, jei taip tai šį skaičių išvesti.
 
 ### Užduotis 5
 
@@ -695,7 +695,7 @@ Viena iš populiarų programavimo patikrinimo užduočių vadinama "Fizz-Buzz". 
 
 ### Užduotis 13 (sudėtingesnė)
 
-Parašykite for ciklą, kuris išvestų norimą kiekį fibonačiaus skaičių į ekraną. Fibonačiaus sekoje kiekvienas skaičius yra lygus prieš jį ėjusių dviejų skaičių sumai: 1, 1, 2, 3, 5, 8, 13, 21...
+Parašykite for ciklą, kuris išvestų norimą kiekį fibonačiaus skaičių į ekraną. Fibonačiaus sekoje kiekvienas skaičius yra lygus prieš jį ėjusių dviejų skaičių sumai: `1, 1, 2, 3, 5, 8, 13, 21`...
 
 Pagalba kaip atlikti užduotį:
 
