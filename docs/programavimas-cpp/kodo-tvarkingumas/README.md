@@ -8,20 +8,21 @@ Informacija ruošiama.
 
 ```cpp
 #include <iostream>
+using namespace std;
 
 int main()
 {
-    std::cout << "pradzia!\n";
+    cout << "pradzia!\n";
 
 	if (true)
 	{
 		for (int i = 0; i < 10; i++)
 		{
-			std::cout << i << std::endl;
+			cout << i << endl;
 		}
 	}
 
-	std::cout << "pabaiga" << std::endl;
+	cout << "pabaiga" << endl;
 }
 ```
 
@@ -29,6 +30,7 @@ int main()
 
 ```cpp
 #include <iostream>
+using namespace std;
 
 int main()
 {
@@ -36,7 +38,7 @@ int main()
 	kodą 5 kartus */
 	for (int i = 0; i < 5; i++)
 	{
-		std::cout << i << std::endl; // išveda skaičių
+		cout << i << endl; // išveda skaičių
 	}
 }
 ```

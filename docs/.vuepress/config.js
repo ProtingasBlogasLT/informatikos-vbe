@@ -40,6 +40,7 @@ module.exports = {
       // { text: 'Word', link: '/word/' },
       // { text: 'Excel', link: '/excel/' },
       { text: 'Programavimas C++', link: '/programavimas-cpp/' },
+      { text: 'Paskaitos', link: '/paskaitos/2020m/' },
       // { text: 'Egzaminų užduotys', link: '/egzaminu-uzduotys/' },
       // { text: 'Apie projektą', link: '/apie-projekta/' },
       { text: 'Naujienos', link: '/naujienos/' },
@@ -51,6 +52,13 @@ module.exports = {
           path: '/programavimas-cpp/',
           children: [
             '',
+          ]
+        },
+        {
+          title: 'Darbo aplinka',
+          path: '/programavimas-cpp/darbo-aplinka/',
+          children: [
+            '/programavimas-cpp/darbo-aplinka/',
           ]
         },
         {
@@ -160,48 +168,58 @@ module.exports = {
           ]
         },
       ],
-      '/egzaminu-uzduotys/': [
+      // '/egzaminu-uzduotys/': [
+      //   {
+      //     title: 'Egzaminų užduotys',
+      //     path: '/egzaminu-uzduotys/',
+      //     children: [
+      //       '',
+      //     ]
+      //   }
+      // ],
+      // '/apie-projekta/': [
+      //   {
+      //     title: 'Apie projektą',
+      //     path: '/apie-projekta/',
+      //     children: [
+      //       '',
+      //     ]
+      //   }
+      // ],
+      // '/testas/': [
+      //   {
+      //     title: 'Testas',
+      //     path: '/testas/',
+      //     children: [
+      //       '',
+      //     ]
+      //   }
+      // ],
+      // '/word/': [
+      //   {
+      //     title: 'Microsoft Word',
+      //     path: '/word/',
+      //     children: [
+      //       '',
+      //     ]
+      //   }
+      // ],
+      // '/excel/': [
+      //   {
+      //     title: 'Microsoft Excel',
+      //     path: '/excel/',
+      //     children: [
+      //       '',
+      //     ]
+      //   }
+      // ],
+      '/paskaitos/': [
         {
-          title: 'Egzaminų užduotys',
-          path: '/egzaminu-uzduotys/',
+          title: 'Paskaitos',
+          path: '/paskaitos/',
           children: [
-            '',
-          ]
-        }
-      ],
-      '/apie-projekta/': [
-        {
-          title: 'Apie projektą',
-          path: '/apie-projekta/',
-          children: [
-            '',
-          ]
-        }
-      ],
-      '/testas/': [
-        {
-          title: 'Testas',
-          path: '/testas/',
-          children: [
-            '',
-          ]
-        }
-      ],
-      '/word/': [
-        {
-          title: 'Microsoft Word',
-          path: '/word/',
-          children: [
-            '',
-          ]
-        }
-      ],
-      '/excel/': [
-        {
-          title: 'Microsoft Excel',
-          path: '/excel/',
-          children: [
-            '',
+            // '',
+            '/paskaitos/2020m/',
           ]
         }
       ],
