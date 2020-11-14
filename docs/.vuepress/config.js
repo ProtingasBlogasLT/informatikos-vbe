@@ -131,8 +131,8 @@ module.exports = {
           path: '/programavimas-cpp/masyvai/',
           children: [
             '/programavimas-cpp/masyvai/',
-            '/programavimas-cpp/masyvai/vienmaciai-masyvai/',
-            '/programavimas-cpp/masyvai/dvimaciai-masyvai/',
+            '/programavimas-cpp/masyvai/vienmaciai/',
+            '/programavimas-cpp/masyvai/dvimaciai/',
           ]
         },
         {
