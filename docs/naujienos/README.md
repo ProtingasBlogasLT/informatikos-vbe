@@ -2,7 +2,7 @@
 
 **2020-11-15.** Įvairūs nedideli atnaujinimai.
 
-**2020-11-14.** Įvairūs nedideli atnaujinimai. Pridėta dalis medžiagos bendrai apie masyvus ir apie vienmačius masyvus.
+**2020-11-14.** Įvairūs nedideli atnaujinimai. Pridėta dalis medžiagos bendrai apie masyvus ir apie vienmačius masyvus. Pridėtas preliminarus 2020-2021 m. m. paskaitų tvarkaraštis.
 
 **2020-10-10.** Įvairūs nedideli atnaujinimai.
 
