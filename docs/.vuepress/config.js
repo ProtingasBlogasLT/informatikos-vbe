@@ -31,7 +31,7 @@ module.exports = {
     // repoLabel: 'Contribute!',
     editLinks: true,
     docsDir: 'docs',
-    editLinkText: 'Atnaujinti šį puslapį!',
+    editLinkText: 'Atnaujinti šio puslapio informaciją',
     lastUpdated: true,
     smoothScroll: true,
     lastUpdated: 'Paskutinį kartą atnaujinta',
