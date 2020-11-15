@@ -10,7 +10,16 @@ Informacija ruošiama.
 - Šie duomenys gali būti įvairūs skaičiai, simboliai, tekstas ar kita.
 - Jie gali būti panaudojami, pakeičiami.
 - Su kintamaisiais galite saugoti bet kokią programai reikalingą informaciją. Pavyzdžiui duomenis apie žmones, daiktus, užsakymus ar kita.
-- Sintaksė: `tipas pavadinimas = reikšmė;`
+
+## Kintamųjų sintaksė
+
+```cpp
+<tipas> <pavadinimas> = <reikšmė>;
+```
+
+- **tipas** - tai kas nurodo kokio tipo duomenys (tekstas, skaičiai, ar pan.) bus saugumo šiame kintamąjame. Galima pasirinkti tik iš anksto numatytų tipų.
+- **pavadinimas** - kaip šis kintamasis bus pasiekiamas programoje (norint pakeisti ar gauti reikšmę). Bei kokią informaciją jis saugo, pavyzdžiui, vardas, pavardė, kilometrai, ar pan.
+- **reikšmė** - kokią informaciją saugo šis kintamasis. Pavyzdžiui, skaičius - 4, tekstas - "Jonas" ar pan.
 
 ## Taisyklės kuriant kintamuosius
 
