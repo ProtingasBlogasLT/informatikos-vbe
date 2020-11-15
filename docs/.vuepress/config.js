@@ -27,10 +27,11 @@ module.exports = {
    * ref：https://v1.vuepress.vuejs.org/theme/default-theme-config.html
    */
   themeConfig: {
-    repo: '',
-    editLinks: false,
-    docsDir: '',
-    editLinkText: '',
+    repo: 'ProtingasBlogasLT/informatikos-vbe',
+    // repoLabel: 'Contribute!',
+    editLinks: true,
+    docsDir: 'docs',
+    editLinkText: 'Atnaujinti šį puslapį!',
     lastUpdated: true,
     smoothScroll: true,
     lastUpdated: 'Paskutinį kartą atnaujinta',
@@ -140,6 +141,9 @@ module.exports = {
           children: [
             '/programavimas-cpp/masyvai/',
             '/programavimas-cpp/masyvai/vienmaciai/',
+            '/programavimas-cpp/masyvai/vienmaciai/ivedimas-isvedimas/',
+            '/programavimas-cpp/masyvai/vienmaciai/skaiciavimai/',
+            '/programavimas-cpp/masyvai/vienmaciai/rikiavimas/',
             '/programavimas-cpp/masyvai/dvimaciai/',
           ]
         },
@@ -239,7 +243,21 @@ module.exports = {
    * Apply plugins，ref：https://v1.vuepress.vuejs.org/zh/plugin/
    */
   plugins: [
-    '@vuepress/plugin-back-to-top',
-    '@vuepress/plugin-medium-zoom',
+    [
+      '@vuepress/google-analytics',
+      {
+        'ga': 'G-XDVTG3JS66' // UA-00000000-0
+      },
+    ],
+    // ['@vuepress/plugin-back-to-top'],
+    // ['@vuepress/plugin-medium-zoom'],
+    // [
+    //   '@vuepress/last-updated',
+    //   {
+    //     dateOptions:{
+    //       hour12: false
+    //     }
+    //   }
+    // ]
   ]
 }
