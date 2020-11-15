@@ -10,7 +10,7 @@ Informacija ruošiama.
 
 ## Ciklo `for` sintaksė
 
-```
+```cpp
 for (kintamasis; sąlyga; operacija)
 {
     // kodas

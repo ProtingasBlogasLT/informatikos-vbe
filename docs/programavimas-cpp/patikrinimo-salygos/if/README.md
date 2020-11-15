@@ -4,18 +4,18 @@
 
 Informacija ruošiama.
 
-## Apie patikrinimo sąlygą if
+## Apie patikrinimo sąlygą `if`
 
-If sąlyga skirta norint ką nors patikrinti ar palyginti. Pavyzdžiui:
+`if` sąlyga skirta norint ką nors patikrinti ar palyginti. Pavyzdžiui:
 
 - Ar skaičiai lygūs?
 - Ar vartotojo amžius yra didesnis už 18?
 - Ar vartotojas prisijungęs?
 - Ar vartotojo rolė yra tinkama norint pasiekti turinį?
 - Ar failas egzistuoja?
-…
+- ...
 
-Kai sąlyga teisinga (užduotas klausimas yra tiesa (`true`)), tuomet yra vykdomas atitinkamas kodas.
+Kai sąlyga teisinga (kai užduotas klausimas yra tiesa (`true`)), tuomet yra vykdomas atitinkamas kodas.
 
 ## Palyginimo operatoriai
 
@@ -28,9 +28,9 @@ Kai sąlyga teisinga (užduotas klausimas yra tiesa (`true`)), tuomet yra vykdom
 | `==` | lygu | `x == y` | grąžina `true` jei `x` ir `y` yra lygūs |
 | `!=` | nelygu | `x != y` | grąžina `true` jei `x` ir `y` yra nelygūs |
 
-## if sąlygos dalys
+## `if` sąlygos dalys
 
-If sąlyga gali susidėti iš kelių dalių:
+`if` sąlyga gali susidėti iš kelių dalių:
 
 - `if` - būtinoji dalis.
 - `else if` - jeigu reikia tikrinti daugiau sąlygų, galima rašyti tiek `else if` dalių kiek tik reikia.

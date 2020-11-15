@@ -12,7 +12,7 @@ Informacija ruošiama.
   - automobilių markės;
   - ūgiai;
   - kiekvienos dienos temperatūros;
-  - …
+  - ...
 - Viename vienmatyje masyve saugoma tokio paties duomenų tipo informacija (tik int, string ar pan.).
 
 ## Masyvo narių indeksavimas

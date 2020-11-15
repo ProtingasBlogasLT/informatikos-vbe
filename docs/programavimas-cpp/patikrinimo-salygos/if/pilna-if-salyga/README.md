@@ -10,6 +10,30 @@ Pilnoje `if` sąlygoje naudosite visas galimas `if` sąlygos dalis (`if`, `else 
 
 Šiuo atveju patikrinsite kelias galimas sąlygas, bei jei niekas netiks - vistiek kažką padarysite su `else` dalimi.
 
+## Pilnos `if` sąlygos sintaksė
+
+```cpp
+if (pirma sąlyga)
+{
+    // jeigu pirma salyga true - vykdomas čia esantis kodas
+}
+else if (antra sąlyga)
+{
+    // jeigu antra salyga true - vykdomas čia esantis kodas
+}
+else if (trečia sąlyga)
+{
+    // jeigu trečia salyga true - vykdomas čia esantis kodas
+}
+else {
+	// jeigu sąlyga false - vykdomas čia esantis kodas
+}
+```
+
+:::tip Dėl else if dalies
+else if dalių galima dėti tiek kiek reikia. Todėl gali būti viena dalis, dvi dalys, ar daugiau, nei parodyta šiame pavyzdyje.
+:::
+
 ## Pavyzdžiai
 
 ### Pavyzdys 1

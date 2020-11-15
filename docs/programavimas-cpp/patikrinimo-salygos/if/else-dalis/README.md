@@ -16,7 +16,7 @@ Informacija ruošiama.
   - leisti kartoti veiksmą;
   - įrašyti klaidą į "log" failus;
   - atlikti kitus veiksmus, kurie nėra priskiriami jokiai tikrintai sąlygai;
-  - …
+  - ...
 
 ## `else` dalies sintaksė
 

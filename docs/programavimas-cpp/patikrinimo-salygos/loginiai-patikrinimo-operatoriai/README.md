@@ -13,6 +13,30 @@ Loginiai operatoriai naudojami norint patikrinti kelias sąlygas vienu metu (o n
 - Ar studentas turi užtektinai pinigų ant bilieto **IR** turi galiojantį LSP?
 - Ar skaičius patenka į rėžius (yra didesnis už pradžią **IR** yra mažesnis už pabaigą)?
 - Ar prie produkto yra įrašyta kaina **ARBA** produktas pažymėtas kaip nemokamas?
+- ...
+
+## Sintaksė naudojant loginius patikrinimo operatorius
+
+```cpp
+<sąlyga> <operatorius> <sąlyga>
+```
+
+- **sąlyga** - bet kokia sąlyga, kuri grąžina `true` arba `false` atsakymą. Pavyzdžius: `4 > 2`, gražina `true` atsakymą.
+- **operatorius** - iš anksto numatytas operatorius, leidžiantis apjungti kelias sąlygas norimu būdu.
+
+Galima apjungti ir daugiau sąlygų:
+
+```cpp
+<sąlyga> <operatorius> <sąlyga> <operatorius> <sąlyga>
+```
+
+Taip pat, galima su skliaustais nurodyti prioritetus apjungiant sąlygas:
+
+```cpp
+<sąlyga> <operatorius> (<sąlyga> <operatorius> <sąlyga>)
+```
+
+Pirma bus patikrintos sąlygos, esančios tarp skliaustų, o vėliau likusi dalis.
 
 ## Loginiai operatoriai
 
@@ -22,7 +46,7 @@ Loginiai operatoriai naudojami norint patikrinti kelias sąlygas vienu metu (o n
 | `||` | arba | `x || y` | grąžins `true` jei `x` arba `y` bus teisingas |
 | `!` | ne | `!x` | grąžins `true` jei `x` nėra `true` |
 
-## Operatorius && (ir)
+## Operatorius `&& `(ir)
 
 - `false && false = false`
 - `false && true = false`
@@ -36,7 +60,7 @@ Loginiai operatoriai naudojami norint patikrinti kelias sąlygas vienu metu (o n
 | 1 | 0 | 0 |
 | 1 | 1 | 1 |
 
-## Operatorius || (arba)
+## Operatorius `||` (arba)
 
 - `false || false = false`
 - `false || true = true`
@@ -50,7 +74,7 @@ Loginiai operatoriai naudojami norint patikrinti kelias sąlygas vienu metu (o n
 | 1 | 0 | 1 |
 | 1 | 1 | 1 |
 
-## Operatorius ! (ne)
+## Operatorius `!` (ne)
 
 - `!true = false`
 - `!false = true`
@@ -62,40 +86,43 @@ Loginiai operatoriai naudojami norint patikrinti kelias sąlygas vienu metu (o n
 
 ## Pasitikrinkite
 
-Kaip manote, kokius atsakymus (`true` / `false`) gausime prie tokių klausimų?
+Kaip manote, kam bus lygios (`true` / `false`) tokios sąlygos?
 
 - `(10 > 9) && (9 > 10) = ???`
 - `(10 > 9) || (9 > 10) = ???`
 - `!true = ???`
 - `(10 > 9) && (!(9 > 10)) = ???`
 
-### Panagrinėkime: `(10 > 9) && (9 > 10) = ???`
+### Kam bus lygus `(10 > 9) && (9 > 10)` ?
 
-1. `(10 > 9) && (9 > 10) = ???`
-2. `true && false = ???`
-3. `true && false = false`
-4. `false`
+1. `(10 > 9)` bus `true`, todėl: `true && (9 > 10)`
+2. `(9 > 10)` bus `false`, todėl: `true && false`
+3. Naudojant operatorių `&&` visos sąlygos dalys turi būti `true`, kad visa sąlyga būtų `true`, todėl galutinis rezultatas: `false`
 
-### Panagrinėkime: `(10 > 9) || (9 > 10) = ???`
+Apibendrinus: `(10 > 9) && (9 > 10) = false`
 
-1. `(10 > 9) || (9 > 10) = ???`
-2. `true || false = ???`
-3. `true || false = true`
-4. `true`
+### Kam bus lygus `(10 > 9) || (9 > 10)` ?
 
-### Panagrinėkime: `!true = ???`
+1. `(10 > 9)` bus `true`, todėl: `true || (9 > 10)`
+2. `(9 > 10)` bus `false`, todėl: `true || false`
+3. Naudojant operatorių `||` bent viena sąlygos dalis turi būti `true`, kad visa sąlyga būtų `true`, todėl galutinis rezultatas: `true`
 
-1. `!true = ???`
-2. `!true = false`
-3. `false`
+Apibendrinus: `(10 > 9) || (9 > 10) = true`
 
-### Panagrinėkime: `(10 > 9) && (!(9 > 10)) = ???`
+### Kam bus lygus `!true` ?
 
-1. `(10 > 9) && (!(9 > 10)) = ???`
-2. `true && (!(false)) = ???`
-3. `true && true = ???`
-4. `true && true = true`
-5. `true`
+1. `!` dalis reiškia priešingą veiksmą, todėl `!true` keičiasi į tiesiog `false`
+
+Apibendrinus: `!true = false`
+
+### Kam bus lygus `(10 > 9) && (!(9 > 10))` ?
+
+1. `(10 > 9)` bus `true`, todėl: `true && (!(9 > 10))`
+2. `(9 > 10)` bus `false`, todėl: `true && (!false)`
+3. `(!false)` dalis verčiasi į priešingą jai, t. y. į `true`, todėl: `true && true`
+4. Naudojant operatorių `&&` visos sąlygos dalys turi būti `true`, kad visa sąlyga būtų `true`, todėl galutinis rezultatas: `true`
+
+Apibendrinus: `(10 > 9) && (!(9 > 10)) = true`
 
 ## Pavyzdžiai
 

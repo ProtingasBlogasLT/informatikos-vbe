@@ -15,7 +15,7 @@ Informacija ruošiama.
 
 ## Ciklo `while` sintaksė
 
-```
+```cpp
 while (sąlyga) {
     // kodas
 }

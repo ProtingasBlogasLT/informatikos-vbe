@@ -8,7 +8,7 @@ Informacija ruošiama.
 
 Šiuo metu dirbame su konsolės langu, todėl jeigu norime matyti kokius nors programos eigos aprašymus, ar pačius rezultatus, reikės į konsolę sugebėti išvesti tekstą ir kintamuosius.
 
-## Galimos komandos
+## Galimos komandos (sintaksė)
 
 Bus naudojamos `cout` ir `endl` komandos.
 

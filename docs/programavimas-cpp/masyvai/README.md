@@ -31,9 +31,9 @@ Masyvus galima įsivaizduoti kaip:
   - Visus duomenis lengvai ir greitai atspausdinti.
   - Atlikti tam tikrus skaičiavimus ar veiksmus, pavyzdžiui, surūšiuoti prekes pagal kainą.
   - Paimti tam tikrą, reikalingą elementą iš masyvo, pavyzdžiui tam tikrą prekę ir atvaizduoti tai kas susiję su ja.
-  - …
+  - ...
 
 ## Masyvų tipai
 
 - Vienmačiai.
-- Daugiamačiai.
+- Daugiamačiai (dvimačiai, trimačiai, ...).

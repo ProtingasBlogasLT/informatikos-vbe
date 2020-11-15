@@ -10,12 +10,12 @@ Informacija ruošiama.
   - Ar kodas yra lygus 1?
   - Ar kodas yra lygus 2?
   - Ar kodas yra lygus 3?
-  - …
+  - ...
 - Bus įvykdomas pirmos teisingos sąlygos kodas.
 
 ## `switch` sąlygos sintaksė
 
-```
+```cpp
 switch (kintamasis)
 {
 case tikrinimas1:

@@ -10,7 +10,7 @@ Informacija ruošiama.
 
 ## Ciklo `do while` sintaksė
 
-```
+```cpp
 do {
     // kodas
 } while (sąlyga);
