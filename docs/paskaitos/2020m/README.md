@@ -15,18 +15,18 @@ Paskaitų tvarkaraštis sudaromas tik norintiems mokytis ar pagilinti žinias pr
 | 2021-02-06 | Ciklai; ciklas for | Suplanuota |
 | 2021-02-13 | Ciklas while; ciklas do while | Suplanuota |
 | 2021-02-20 | Masyvai; vienmatis masyvas | Suplanuota |
-| 2021-02-27 | ... | ... |
-| 2021-03-06 | ... | ... |
-| 2021-03-13 | ... | ... |
-| 2021-03-20 | ... | ... |
-| 2021-03-27 | ... | ... |
-| 2021-04-03 | ... | ... |
-| 2021-04-10 | ... | ... |
-| 2021-04-17 | ... | ... |
-| 2021-04-24 | ... | ... |
-| 2021-05-01 | ... | ... |
-| 2021-05-08 | ... | ... |
-| 2021-05-15 | ... | ... |
+| 2021-02-27 | Vienmatis masyvas | Suplanuota |
+| 2021-03-06 | Dvimatis masyvas | Suplanuota |
+| 2021-03-13 | Darbas su duomenų failais | Suplanuota |
+| 2021-03-20 | Funkcijos | Suplanuota |
+| 2021-03-27 | Funkcijos | Suplanuota |
+| 2021-04-03 | Objektinis programavimas | Suplanuota |
+| 2021-04-10 | Objektinis programavimas | Suplanuota |
+| 2021-04-17 | Objektinis programavimas | Suplanuota |
+| 2021-04-24 | Jūsų pasiūlytos programos | Suplanuota |
+| 2021-05-01 | Ankstesnių metų egzaminų užduotys | Suplanuota |
+| 2021-05-08 | Ankstesnių metų egzaminų užduotys | Suplanuota |
+| 2021-05-15 | Ankstesnių metų egzaminų užduotys | Suplanuota |
 | 2021-05-22 | ... | ... |
 | 2021-05-29 | ... | ... |
 | 2021-06-05 | ... | ... |
