@@ -26,7 +26,7 @@ Masyvus galima įsivaizduoti kaip:
   - Automobilių markės.
   - Žmonių vardai.
   - Darbuotojų algos.
-  - Ar objektų masyvai. Pavyzdžiui: visų darbuotojų informacija (jų vardai, pavardės, algos, pareigos ir t.t.).
+  - Ar objektų masyvai. Pavyzdžiui: visų darbuotojų informacija (jų vardai, pavardės, algos, pareigos ir t. t.).
 - Kai turime visus duomenis masyvuose, juos lengva panaudoti. Pavyzdžiui:
   - Visus duomenis lengvai ir greitai atspausdinti.
   - Atlikti tam tikrus skaičiavimus ar veiksmus, pavyzdžiui, surūšiuoti prekes pagal kainą.
