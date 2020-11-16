@@ -1,3 +1,3 @@
-# Vienmačiai masyvai: filtravimas, paeiška
+# Vienmačiai masyvai: filtravimas, paieška
 
 Informacija ruošiama.
