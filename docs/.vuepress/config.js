@@ -143,6 +143,7 @@ module.exports = {
             '/programavimas-cpp/masyvai/vienmaciai/',
             '/programavimas-cpp/masyvai/vienmaciai/ivedimas-isvedimas/',
             '/programavimas-cpp/masyvai/vienmaciai/skaiciavimai/',
+            '/programavimas-cpp/masyvai/vienmaciai/filtravimas-paieska/',
             '/programavimas-cpp/masyvai/vienmaciai/keitimas/',
             '/programavimas-cpp/masyvai/vienmaciai/rikiavimas/',
             '/programavimas-cpp/masyvai/dvimaciai/',
@@ -218,16 +219,16 @@ module.exports = {
       //     ]
       //   }
       // ],
-      '/paskaitos/': [
-        {
-          title: 'Paskaitos',
-          path: '/paskaitos/',
-          children: [
-            // '',
-            '/paskaitos/2020m/',
-          ]
-        }
-      ],
+      // '/paskaitos/': [
+      //   {
+      //     title: 'Paskaitos',
+      //     path: '/paskaitos/',
+      //     children: [
+      //       // '',
+      //       '/paskaitos/2020m/',
+      //     ]
+      //   }
+      // ],
       // '/naujienos/': [
       //   {
       //     title: 'Naujienos',

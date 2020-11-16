@@ -1,5 +1,7 @@
 # Naujienos
 
+**2020-11-16.** Įvairūs nedideli atnaujinimai.
+
 **2020-11-15.** Įvairūs nedideli atnaujinimai. Pridėta dalis medžiagos apie vienmačius masyvus. Papildytas preliminarus 2020-2021 m. m. paskaitų tvarkaraštis. Pridėta galimybė atnaujinti kiekvieno puslapio informaciją.
 
 **2020-11-14.** Įvairūs nedideli atnaujinimai. Pridėta dalis medžiagos bendrai apie masyvus ir apie vienmačius masyvus. Pradėtas sudarinėti preliminarus 2020-2021 m. m. paskaitų tvarkaraštis.
