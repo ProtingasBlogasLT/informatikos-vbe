@@ -18,7 +18,13 @@ module.exports = {
   head: [
     ['meta', { name: 'theme-color', content: '#3eaf7c' }],
     ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
-    ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }]
+    ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }],
+    // ['link', { rel: 'icon', href: '/logo.png' }] // favicon
+    // ['script', { src: 'https://www.googletagmanager.com/gtag/js?id=G-XDVTG3JS66' }],
+    // ['script', {}, `window.dataLayer = window.dataLayer || [];
+    // function gtag(){dataLayer.push(arguments);}
+    // gtag('js', new Date());
+    // gtag('config', 'G-XDVTG3JS66');`]
   ],
 
   /**
@@ -50,35 +56,30 @@ module.exports = {
       '/programavimas-cpp/': [
         {
           title: 'Programavimas C++',
-          path: '/programavimas-cpp/',
           children: [
-            '',
+            '/programavimas-cpp/',
           ]
         },
         {
           title: 'Darbo aplinka',
-          path: '/programavimas-cpp/darbo-aplinka/',
           children: [
             '/programavimas-cpp/darbo-aplinka/',
           ]
         },
         {
           title: 'Kodo tvarkingumas',
-          path: '/programavimas-cpp/kodo-tvarkingumas/',
           children: [
             '/programavimas-cpp/kodo-tvarkingumas/',
           ]
         },
         {
           title: 'Kintamieji',
-          path: '/programavimas-cpp/kintamieji/',
           children: [
             '/programavimas-cpp/kintamieji/',
           ]
         },
         {
           title: 'Informacijos išvedimas į konsolę (cout)',
-          path: '/programavimas-cpp/kodo-tvarkingumas/',
           children: [
             '/programavimas-cpp/informacijos-isvedimas-i-konsole/',
             '/programavimas-cpp/informacijos-isvedimas-i-konsole/paprasto-teksto-isvedimas/',
@@ -88,14 +89,12 @@ module.exports = {
         },
         {
           title: 'Aritmetiniai veiksmai',
-          path: '/programavimas-cpp/kodo-tvarkingumas/',
           children: [
             '/programavimas-cpp/aritmetiniai-veiksmai/',
           ]
         },
         {
           title: 'Informacijos nuskaitymas iš konsolės (cin)',
-          path: '/programavimas-cpp/kodo-tvarkingumas/',
           children: [
             '/programavimas-cpp/informacijos-nuskaitymas-is-konsoles/',
             '/programavimas-cpp/informacijos-nuskaitymas-is-konsoles/paprasto-teksto-nuskaitymas/',
@@ -107,7 +106,6 @@ module.exports = {
         },
         {
           title: 'Patikrinimo sąlygos (if, switch)',
-          path: '/programavimas-cpp/patikrinimo-salygos/if/',
           children: [
             '/programavimas-cpp/patikrinimo-salygos/if/',
             '/programavimas-cpp/patikrinimo-salygos/if/if-dalis/',
@@ -120,7 +118,6 @@ module.exports = {
         },
         {
           title: 'Ciklai (for, while, do while)',
-          path: '/programavimas-cpp/ciklai/',
           children: [
             '/programavimas-cpp/ciklai/',
             '/programavimas-cpp/ciklai/for/',
@@ -130,14 +127,12 @@ module.exports = {
         },
         {
           title: 'Papildomos užduotys',
-          path: '/programavimas-cpp/papildomos-uzduotys-1/',
           children: [
             '/programavimas-cpp/papildomos-uzduotys-1/'
           ]
         },
         {
           title: 'Masyvai',
-          path: '/programavimas-cpp/masyvai/',
           children: [
             '/programavimas-cpp/masyvai/',
             '/programavimas-cpp/masyvai/vienmaciai/',
@@ -151,14 +146,12 @@ module.exports = {
         },
         {
           title: 'Darbas su duomenų failais',
-          path: '/programavimas-cpp/darbas-su-duomenu-failais/',
           children: [
             '/programavimas-cpp/darbas-su-duomenu-failais/'
           ]
         },
         {
           title: 'Funkcijos',
-          path: '/programavimas-cpp/funkcijos/',
           children: [
             '/programavimas-cpp/funkcijos/',
             '/programavimas-cpp/funkcijos/paprastosios-funkcijos/',
@@ -168,7 +161,6 @@ module.exports = {
         },
         {
           title: 'Objektinis programavimas',
-          path: '/programavimas-cpp/objektinis-programavimas/',
           children: [
             '/programavimas-cpp/objektinis-programavimas/',
           ]
@@ -244,22 +236,8 @@ module.exports = {
   /**
    * Apply plugins，ref：https://v1.vuepress.vuejs.org/zh/plugin/
    */
-  plugins: [
-    [
-      '@vuepress/google-analytics',
-      {
-        'ga': 'G-XDVTG3JS66' // UA-00000000-0
-      },
-    ],
+  // plugins: [
     // ['@vuepress/plugin-back-to-top'],
     // ['@vuepress/plugin-medium-zoom'],
-    // [
-    //   '@vuepress/last-updated',
-    //   {
-    //     dateOptions:{
-    //       hour12: false
-    //     }
-    //   }
-    // ]
-  ]
+  // ]
 }
