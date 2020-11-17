@@ -20,9 +20,14 @@ npm install
 
 ## Projekto paleidimas
 
-Per konsolę naudojamos komandos paleidimui ar projekto parengimui talpinti:
+Norint paleisti projektą jo kūrimui:
 
 ```bash
 npm run dev
+```
+
+Norint paruošti projektą talpinimui:
+
+```bash
 npm run build
 ```
