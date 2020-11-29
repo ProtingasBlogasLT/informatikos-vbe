@@ -154,7 +154,7 @@ module.exports = {
           title: 'Funkcijos',
           children: [
             '/programavimas-cpp/funkcijos/',
-            '/programavimas-cpp/funkcijos/paprastosios-funkcijos/',
+            '/programavimas-cpp/funkcijos/paprasciausios-funkcijos/',
             '/programavimas-cpp/funkcijos/funkcijos-su-argumentais/',
             '/programavimas-cpp/funkcijos/funkcijos-su-grazinimo-tipu/',
           ]
