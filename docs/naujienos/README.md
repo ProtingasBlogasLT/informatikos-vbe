@@ -1,5 +1,7 @@
 # Naujienos
 
+**2020-11-29**. Pridėta medžiagos apie funkcijas.
+
 **2020-11-17.** Įvairūs nedideli atnaujinimai.
 
 **2020-11-16.** Įvairūs nedideli atnaujinimai.

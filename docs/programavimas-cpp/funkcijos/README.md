@@ -30,3 +30,41 @@ Keletas pagrindinių minčių:
 - **argumentai / parametrai** - papildomi duomenys, kurie reikalingi funkcijos darbui bei kuriuos gauna funkcija.
 - **kodas** - kodas (ar veiksmų rinkinys), kurį atlieka funkcija užduoties įgyvendinimui.
 - **return** ir **reiksme** - glaudžiai susijusi su `<tipas>` dalimi, šioje vietoje yra grąžinamas atsakymas, tokio tipo, koks nurodytas `<tipas>` dalyje. Pavyzdžiui, jeigu `<tipas>` dalyje buvo nurodyta, kad ši funkcija turi grąžinti `int` tipo atsakymą, tuomet `return` dalyje turi būti grąžinta reikšmė arba kintamasis, kuris yra `int` tipo. Kai `<tipas>` yra `void`, tuomet ši return dalis išvis nesirašo.
+
+## Funkcijos aprašymas ir iškvietimas
+
+Funkcijas aprašyti ir iškviesti galima taip:
+
+```cpp
+#include <iostream>
+using namespace std;
+
+void funkcija(); // programa informuojama apie funkcijos egzistavimą
+
+int main()
+{
+	funkcija(); // funkcija iškviečiama
+}
+
+void funkcija() // aprašoma funkcija
+{
+	// funkcijos kodas
+}
+```
+
+Arba galima ir taip:
+
+```cpp
+#include <iostream>
+using namespace std;
+
+void funkcija() // aprašoma funkcija
+{
+	// funkcijos kodas
+}
+
+int main()
+{
+	funkcija(); // funkcija iškviečiama
+}
+```
