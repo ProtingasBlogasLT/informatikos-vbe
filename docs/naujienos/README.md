@@ -1,5 +1,7 @@
 # Naujienos
 
+**2021-02-21**. Papildyta informacija apie numatomas paskaitas, pridėta registracijos forma.
+
 **2021-02-20**. Atnaujintas numatomų paskaitų (2020-2021 m. m.) tvarkaraštis.
 
 **2020-11-29**. Pridėta medžiagos apie funkcijas.
