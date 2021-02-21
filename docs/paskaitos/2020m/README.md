@@ -6,22 +6,19 @@ sidebar: auto
 
 Paskaitos vyks nuotoliniu būdu, naudojant [Zoom](https://zoom.us/) platformą, taip pat, tiesioginę transliaciją žiūrėti bei rasti galutinius įrašus bus galima [mūsų Youtube kanale](https://www.youtube.com/channel/UCP3MANaEkoW4LXa74e1xzgQ). Dalyvauti gali visi norintis, paskaitos nemokamos.
 
-## Pagrindinės detalės
+## Pagrindinė informacija
 
-Pagrindinės detalės būtų tokios:
-
-- Paskaitos vyktų per **zoom**. Būtų daromi įrašai, kurie būtų vėliau pasiekiami per **youtube**. Todėl pačiose paskaitose būtų gerai, kad dalyvautų nebijantys kameros ir atsidūrimo youtubėj. Mano noras būtų toks, kad per zoom pamatyčiau vietoje kam kur dar neaiškumų būna ir vietoje atsakyčiau, o youtube palikti dėl ateities kartų, kad jie irgi turėtų galimybę pasimokyti papildomai, jei tik jaustų, kad to jiems trūksta.
-- **Visa medžiaga būtų pasiekiama internetiniame tinklalapyje**. Medžiagą (jei spėsiu) padarysiu **parsisiunčiamą pdf** formatu.
-- Paskaitos būtų nemokamos. Aš tai laikyčiau kaip mano "pro bono" (dėl visuomenės gerovės).
-- Vyktų pasirinktu laiku nuo **kovo kažkurios savaitės iki šių metų egzamino**. **Laiką susitartume** su tais, kurie pasiryžtų lankyti paskaitas realiu laiku (per zoom). Man tiktų jei tai būtų kažkuriais vakarais darbo dienomis arba savaitgaliais.
-- Optimaliausia **paskaitos trukmė 2-3 val.** (kiek mokius programavimo, tiek ši trukmė būdavo geriausia praktiškai visiems), žinoma, darant pertraukas. Tačiau jeigu matysim, kad nebeįmanoma sutalpinti daugiau žinių - bus galima daryti trumpesnes paskaitas, arba jeigu viskas gerai - ilginsim. Kaip sakant - viskas priklausys nuo pačių besimokančiųjų.
-- **Per savaitę būtų 1-3 paskaitos**. Tai susiderintume kartu.
-- **Būtų visos temos nuo pat pradžių** (per ką rašyti kodą, kintamieji, ...) **iki objektinio programavimo**. Tik noriu pabrėžti, kad kai aš mokau programavimo, tai mano pirmas dėmesys būna, kad žmonės išmoktų sintaksę, o tada sekantis žingsnis eiti ant logikos lavinimo, kai tuo tarpu kiti būna sumaklina viską į vieną ir dėl to būna sunkiau išmokti, kas muša per motyvaciją mokytis. Todėl čia tiktų ir jaunesniems nei 12-okai, bei tiems, kurie labai sunkiai gaudosi tai ką dabar mokosi, kurie nori iki kauliukų išnarplioti visas subtilybes ir pan.
+- Paskaitos vyktų per **zoom**. Būtų daromi įrašai, kurie būtų vėliau pasiekiami per **youtube**. Todėl pačiose paskaitose būtų gerai, kad dalyvautų nebijantys kameros ir atsidūrimo youtubėj, tačiau bus galimybė dalyvauti ir nesijungiant kameros ir/ar mikrofono. Zoom bus naudojamas paskaitos vedimui realiu laiku, kad būtų galima visus neaiškumus išspręsti vietoje, o youtube bus naudojamas palikti paskaitų įrašus dėl ateities kartų ar norintiems pasikartoti tą pačią medžiagą.
+- **Visa medžiaga bus pasiekiama šiame internetiniame tinklalapyje**. Ši medžiaga ateityje bus prieinama ir `*.pdf` formatu.
+- **Paskaitos nemokamos**.
+- Paskaitos vyktų pasirinktu laiku nuo **kovo kažkurios savaitės iki šių metų egzamino**. **Laiką susitartume** su tais, kurie pasiryžtų lankyti paskaitas realiu laiku (per zoom). Tikriausiai paskaitos vyktų kažkuriais vakarais darbo dienomis arba savaitgaliais.
+- **Numatoma paskaitos trukmė 2-3 val.**. Paskaitos trukmė pagrinde priklausys nuo pačių besimokančiųjų, kurie gali pavargti greičiau arba kaip tik dar būti pajėgūs mokytis ilgiau.
+- **Būtų visos temos nuo pat pradžių** (per ką rašyti kodą, kintamieji, ...) **iki objektinio programavimo**. Pirmas dėmesys bus skiriamas sintaksės išmokimui, o tada po lengva bus pereinama prie loginių uždavinių. Šis kursas turėtų tikti ir jaunesniems nei 12-okai, bei tiems, kurie labai sunkiai gaudosi tai ką dabar mokosi, bei tiems kurie nori iki kauliukų išnarplioti visas subtilybes ir pan.
 - **Spėjant - būtų duodama daugiau** ir įdomiau nei reikalauja mokyklų programa, kad parodyti kas dar galima ir t. t.
 
 ## Preliminarus paskaitų tvarkaraštis
 
-Paskaitų tvarkaraštis sudaromas tik norintiems mokytis ar pagilinti žinias programavime C++.
+Paskaitų tvarkaraštis sudaromas norintiems mokytis ar pagilinti žinias tik programavime C++.
 
 | Data | Paskaita (temos) | Būsena |
 |-|-|-|
@@ -43,10 +40,6 @@ Paskaitų tvarkaraštis sudaromas tik norintiems mokytis ar pagilinti žinias pr
 | ... | Ankstesnių metų egzaminų užduotys | Suplanuota |
 | ... | Ankstesnių metų egzaminų užduotys | Suplanuota |
 | ... | Ankstesnių metų egzaminų užduotys | Suplanuota |
-| ... | ... | ... |
-| ... | ... | ... |
-| ... | ... | ... |
-| ... | ... | ... |
 | ... | ... | ... |
 | ... | ... | ... |
 
