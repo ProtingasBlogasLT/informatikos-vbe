@@ -6,7 +6,11 @@ sidebar: auto
 
 Paskaitos vyks nuotoliniu būdu, naudojant [Zoom](https://zoom.us/) platformą, taip pat, tiesioginę transliaciją žiūrėti bei rasti galutinius įrašus bus galima [mūsų Youtube kanale](https://www.youtube.com/channel/UCP3MANaEkoW4LXa74e1xzgQ). Dalyvauti gali visi norintis, paskaitos nemokamos.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QEj41Spf0AE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Pagrindinė informacija
+
+![Pagrindinė informacija](./2021-03-08-poster.png)
 
 - Paskaitos vyktų per **zoom**. Būtų daromi įrašai, kurie būtų vėliau pasiekiami per **youtube**. Todėl pačiose paskaitose būtų gerai, kad dalyvautų nebijantys kameros ir atsidūrimo youtubėj, tačiau bus galimybė dalyvauti ir nesijungiant kameros ir/ar mikrofono. Zoom bus naudojamas paskaitos vedimui realiu laiku, kad būtų galima visus neaiškumus išspręsti vietoje, o youtube bus naudojamas palikti paskaitų įrašus dėl ateities kartų ar norintiems pasikartoti tą pačią medžiagą.
 - **Visa medžiaga bus pasiekiama šiame internetiniame tinklalapyje**. Ši medžiaga ateityje bus prieinama ir `*.pdf` formatu.
