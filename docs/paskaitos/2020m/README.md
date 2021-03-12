@@ -24,28 +24,33 @@ Paskaitos vyks nuotoliniu būdu, naudojant [Zoom](https://zoom.us/) platformą, 
 
 Paskaitų tvarkaraštis sudaromas norintiems mokytis ar pagilinti žinias tik programavime C++.
 
-| Data | Paskaita (temos) | Būsena |
-|-|-|-|
-| ... | Pradžia; aplinkos pasiruošimas; kodo tvarkingumas; kintamieji; informacijos išvedimas į konsolę | Suplanuota |
-| ... | Aritmetiniai veiksmai; informacijos nuskaitymas iš konsolės | Suplanuota |
-| ... | Patikrinimo sąlyga if | Suplanuota |
-| ... | Loginiai patikrinimo operatoriai; patikrinimo sąlyga switch | Suplanuota |
-| ... | Ciklai; ciklas for | Suplanuota |
-| ... | Ciklas while; ciklas do while | Suplanuota |
-| ... | Masyvai; vienmatis masyvas | Suplanuota |
-| ... | Dvimatis masyvas | Suplanuota |
-| ... | Darbas su duomenų failais | Suplanuota |
-| ... | Funkcijos | Suplanuota |
-| ... | Funkcijos | Suplanuota |
-| ... | Objektinis programavimas | Suplanuota |
-| ... | Objektinis programavimas | Suplanuota |
-| ... | Objektinis programavimas | Suplanuota |
-| ... | Jūsų pasiūlytos programos | Suplanuota |
-| ... | Ankstesnių metų egzaminų užduotys | Suplanuota |
-| ... | Ankstesnių metų egzaminų užduotys | Suplanuota |
-| ... | Ankstesnių metų egzaminų užduotys | Suplanuota |
-| ... | ... | ... |
-| ... | ... | ... |
+| Data | Laikas | Paskaita (temos) | Būsena |
+|-|-|-|-|
+| 2021-03-11 | - | Informacija apie C++ kursą | [Įrašas](https://www.youtube.com/watch?v=QEj41Spf0AE) |
+| 2021-03-11 | - | Darbo aplinka (Code Blocks) | [Įrašas](https://www.youtube.com/watch?v=z350Cnw7IB0) |
+| 2021-03-11 | - | Darbo aplinka (Visual Studio Community) | [Įrašas](https://www.youtube.com/watch?v=dkhjeOGf2h0) |
+| 2021-03-13 | 13 val. | Papildoma konsultacija, jeigu nepavyksta susitvarkyti darbo aplinkos | Vyks |
+| 2021-03-15 | 18 val. | Pradžia; aplinkos pasiruošimas; kodo tvarkingumas; kintamieji; informacijos išvedimas į konsolę | Vyks |
+| 2021-03-16 |18 val. | Aritmetiniai veiksmai; informacijos nuskaitymas iš konsolės | Vyks |
+| 2021-03-20 | 13 val. | Papildoma konsultacija | Vyks |
+| ... | ... | Patikrinimo sąlyga if | Suplanuota |
+| ... | ... | Loginiai patikrinimo operatoriai; patikrinimo sąlyga switch | Suplanuota |
+| ... | ... | Ciklai; ciklas for | Suplanuota |
+| ... | ... | Ciklas while; ciklas do while | Suplanuota |
+| ... | ... | Masyvai; vienmatis masyvas | Suplanuota |
+| ... | ... | Dvimatis masyvas | Suplanuota |
+| ... | ... | Darbas su duomenų failais | Suplanuota |
+| ... | ... | Funkcijos | Suplanuota |
+| ... | ... | Funkcijos | Suplanuota |
+| ... | ... | Objektinis programavimas | Suplanuota |
+| ... | ... | Objektinis programavimas | Suplanuota |
+| ... | ... | Objektinis programavimas | Suplanuota |
+| ... | ... | Jūsų pasiūlytos programos | Suplanuota |
+| ... | ... | Ankstesnių metų egzaminų užduotys | Suplanuota |
+| ... | ... | Ankstesnių metų egzaminų užduotys | Suplanuota |
+| ... | ... | Ankstesnių metų egzaminų užduotys | Suplanuota |
+| ... | ... | ... | ... |
+| ... | ... | ... | ... |
 
 ## Registracija
 
