@@ -47,7 +47,7 @@ module.exports = {
       // { text: 'Word', link: '/word/' },
       // { text: 'Excel', link: '/excel/' },
       { text: 'Programavimas C++', link: '/programavimas-cpp/' },
-      { text: 'Paskaitos', link: '/paskaitos/2020m/' },
+      { text: 'Paskaitos', link: '/paskaitos/2020-2021/' },
       // { text: 'Egzaminų užduotys', link: '/egzaminu-uzduotys/' },
       // { text: 'Apie projektą', link: '/apie-projekta/' },
       { text: 'Atnaujinimai', link: '/atnaujinimai/' },
