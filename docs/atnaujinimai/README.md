@@ -1,12 +1,12 @@
 # Atnaujinimai
 
-**2021-03-14**. Atnaujintas paskaitų (2020-2021 m. m.) paskaitų tvarkaraštis. Pridėta kontaktinė informacija.
+**2021-03-14**. Atnaujintas paskaitų (2020-2021 m. m.) tvarkaraštis. Pridėta kontaktinė informacija.
 
-**2021-03-12**. Pridėta informacija apie darbo aplinkas. Atnaujintas paskaitų (2020-2021 m. m.) paskaitų tvarkaraštis.
+**2021-03-12**. Pridėta informacija apie darbo aplinkas. Atnaujintas paskaitų (2020-2021 m. m.) tvarkaraštis.
 
 **2021-03-11**. Papildyta paskaitų (2020-2021 m. m.) informacija.
 
-**2021-02-21**. Papildyta informacija apie numatomas paskaitas, pridėta registracijos forma.
+**2021-02-21**. Papildyta informacija apie numatomas paskaitas (2020-2021 m. m.), pridėta registracijos forma.
 
 **2021-02-20**. Atnaujintas numatomų paskaitų (2020-2021 m. m.) tvarkaraštis.
 
