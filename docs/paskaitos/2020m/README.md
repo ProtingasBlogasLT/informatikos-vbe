@@ -10,7 +10,7 @@ Paskaitos vyks nuotoliniu būdu, naudojant [Zoom](https://zoom.us/) platformą, 
 
 ## Pagrindinė informacija
 
-![Pagrindinė informacija](./2021-03-08-poster.png)
+![Pagrindinė informacija](./2021-03-08-poster.jpg)
 
 - Paskaitos vyktų per **zoom**. Būtų daromi įrašai, kurie būtų vėliau pasiekiami per **youtube**. Todėl pačiose paskaitose būtų gerai, kad dalyvautų nebijantys kameros ir atsidūrimo youtubėj, tačiau bus galimybė dalyvauti ir nesijungiant kameros ir/ar mikrofono. Zoom bus naudojamas paskaitos vedimui realiu laiku, kad būtų galima visus neaiškumus išspręsti vietoje, o youtube bus naudojamas palikti paskaitų įrašus dėl ateities kartų ar norintiems pasikartoti tą pačią medžiagą.
 - **Visa medžiaga bus pasiekiama šiame internetiniame tinklalapyje**. Ši medžiaga ateityje bus prieinama ir `*.pdf` formatu.
