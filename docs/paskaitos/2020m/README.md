@@ -29,8 +29,8 @@ Paskaitų tvarkaraštis sudaromas norintiems mokytis ar pagilinti žinias tik pr
 | 2021-03-11 (ketvirtadienis) | - | Informacija apie C++ kursą | [Įrašas](https://www.youtube.com/watch?v=QEj41Spf0AE) |
 | 2021-03-11 (ketvirtadienis) | - | Darbo aplinka (Code Blocks) | [Įrašas](https://www.youtube.com/watch?v=z350Cnw7IB0) |
 | 2021-03-11 (ketvirtadienis) | - | Darbo aplinka (Visual Studio Community) | [Įrašas](https://www.youtube.com/watch?v=dkhjeOGf2h0) |
-| 2021-03-13 (šeštadienis) | 13 val. | Papildoma konsultacija, jeigu nepavyksta susitvarkyti darbo aplinkos | Vyks |
-| 2021-03-14 (sekmadienis) | 13 val. | Papildoma konsultacija, jeigu nepavyksta susitvarkyti darbo aplinkos | Vyks |
+| 2021-03-13 (šeštadienis) | 13 val. | Papildoma konsultacija, jeigu nepavyksta susitvarkyti darbo aplinkos | Įvyko |
+| 2021-03-14 (sekmadienis) | 13 val. | Papildoma konsultacija, jeigu nepavyksta susitvarkyti darbo aplinkos | Įvyko |
 | 2021-03-15 (pirmadienis) | 18 val. | Pradžia; aplinkos pasiruošimas; kodo tvarkingumas; kintamieji; informacijos išvedimas į konsolę | Vyks |
 | 2021-03-16 (antradienis) |18 val. | Aritmetiniai veiksmai; informacijos nuskaitymas iš konsolės | Vyks |
 | 2021-03-20 (šeštadienis) | 13 val. | Papildoma konsultacija | Vyks |

@@ -1,5 +1,7 @@
 # Naujienos
 
+**2021-03-14**. Atnaujintas paskaitų (2020-2021 m. m.) paskaitų tvarkaraštis.
+
 **2021-03-12**. Pridėta informacija apie darbo aplinkas. Atnaujintas paskaitų (2020-2021 m. m.) paskaitų tvarkaraštis.
 
 **2021-03-11**. Papildyta paskaitų (2020-2021 m. m.) informacija.
