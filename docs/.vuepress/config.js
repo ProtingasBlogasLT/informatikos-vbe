@@ -50,7 +50,8 @@ module.exports = {
       { text: 'Paskaitos', link: '/paskaitos/2020m/' },
       // { text: 'Egzaminų užduotys', link: '/egzaminu-uzduotys/' },
       // { text: 'Apie projektą', link: '/apie-projekta/' },
-      { text: 'Naujienos', link: '/naujienos/' },
+      { text: 'Atnaujinimai', link: '/atnaujinimai/' },
+      { text: 'Kontaktai', link: '/kontaktai/' },
     ],
     sidebar: {
       '/programavimas-cpp/': [
