@@ -336,4 +336,4 @@ skaičius - 25, rezultatas - 25 25 25 25 25
 
 Susikurkite kintamąjį, kuriame saugosite norimą simbolį (pavyzdžiui: `*`). Išveskite tuščiavidurį, norimo dydžio, kvadratą iš turimo simbolio.
 
-(papildomai) Pabandykite tai atlikti naudojant tik vieną `cout` nepamirškite, kad norint pereiti į naują eilutę, galima tarp dvigubų kabučių (teksto) naudoti užrašą `\n`.
+(papildomai) Pabandykite tai atlikti naudojant tik vieną `cout`. Nepamirškite, kad norint pereiti į naują eilutę, tarp dvigubų kabučių (teksto) galima naudoti užrašą `\n`.

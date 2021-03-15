@@ -1,5 +1,7 @@
 # Atnaujinimai
 
+**2021-03-15**. Pataisyta informacija prie teksto ir kintamųjų išvedimo užduočių.
+
 **2021-03-14**. Atnaujintas paskaitų (2020-2021 m. m.) tvarkaraštis. Pridėta kontaktinė informacija.
 
 **2021-03-12**. Pridėta informacija apie darbo aplinkas. Atnaujintas paskaitų (2020-2021 m. m.) tvarkaraštis.
