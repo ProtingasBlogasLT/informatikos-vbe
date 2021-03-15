@@ -31,8 +31,8 @@ Paskaitų tvarkaraštis sudaromas norintiems mokytis ar pagilinti žinias tik pr
 | 2021-03-11 (ketvirtadienis) | - | Darbo aplinka (Visual Studio Community) | [Įrašas](https://www.youtube.com/watch?v=dkhjeOGf2h0) |
 | 2021-03-13 (šeštadienis) | 13 val. | Papildoma konsultacija, jeigu nepavyksta susitvarkyti darbo aplinkos | Įvyko |
 | 2021-03-14 (sekmadienis) | 13 val. | Papildoma konsultacija, jeigu nepavyksta susitvarkyti darbo aplinkos | Įvyko |
-| **2021-03-15 (pirmadienis)** | **18 val.** | **Pradžia; aplinkos pasiruošimas; kodo tvarkingumas; kintamieji; informacijos išvedimas į konsolę** | **Vyks ([tiesioginę transliaciją rasite čia](https://www.youtube.com/channel/UCP3MANaEkoW4LXa74e1xzgQ))** |
-| 2021-03-16 (antradienis) |18 val. | Aritmetiniai veiksmai; informacijos nuskaitymas iš konsolės | Vyks |
+| 2021-03-15 (pirmadienis) | 18 val. | Pradžia; aplinkos pasiruošimas; kodo tvarkingumas; kintamieji; informacijos išvedimas į konsolę | [Įrašas](https://www.youtube.com/watch?v=Pg4cI3nXs-Q) |
+| **2021-03-16 (antradienis)** | **18 val.** | **Aritmetiniai veiksmai; informacijos nuskaitymas iš konsolės** | **Vyks ([tiesioginę transliaciją rasite čia](https://www.youtube.com/channel/UCP3MANaEkoW4LXa74e1xzgQ))** |
 | 2021-03-20 (šeštadienis) | 13 val. | Papildoma konsultacija | Vyks |
 | ... | ... | Patikrinimo sąlyga if | Suplanuota |
 | ... | ... | Loginiai patikrinimo operatoriai; patikrinimo sąlyga switch | Suplanuota |
