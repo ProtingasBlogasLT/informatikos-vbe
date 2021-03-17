@@ -20,7 +20,7 @@ Paskaitos vyks nuotoliniu būdu, naudojant [Zoom](https://zoom.us/) platformą, 
 - **Būtų visos temos nuo pat pradžių** (per ką rašyti kodą, kintamieji, ...) **iki objektinio programavimo**. Pirmas dėmesys bus skiriamas sintaksės išmokimui, o tada po lengva bus pereinama prie loginių uždavinių. Šis kursas turėtų tikti ir jaunesniems nei 12-okai, bei tiems, kurie labai sunkiai gaudosi tai ką dabar mokosi, bei tiems kurie nori iki kauliukų išnarplioti visas subtilybes ir pan.
 - **Spėjant - būtų duodama daugiau** ir įdomiau nei reikalauja mokyklų programa, kad parodyti kas dar galima ir t. t.
 
-## Preliminarus paskaitų tvarkaraštis, paskaitų įrašai
+## Preliminarus paskaitų tvarkaraštis ir paskaitų įrašai
 
 Paskaitų tvarkaraštis sudaromas norintiems mokytis ar pagilinti žinias tik programavime C++.
 
@@ -40,23 +40,38 @@ Paskaitų tvarkaraštis sudaromas norintiems mokytis ar pagilinti žinias tik pr
 | **2021-03-22 (pirmadienis)** | **18 val.** | **Informacijos nuskaitymas iš konsolės** | **Vyks ([tiesioginę transliaciją rasite čia](https://www.youtube.com/channel/UCP3MANaEkoW4LXa74e1xzgQ))** |
 | **2021-03-23 (antradienis)** | **18 val.** | **Patikrinimo sąlyga `if`** | **Vyks ([tiesioginę transliaciją rasite čia](https://www.youtube.com/channel/UCP3MANaEkoW4LXa74e1xzgQ))** |
 | **2021-03-27 (šeštadienis)** | **13 val.** | **Papildoma konsultacija** | **Vyks ([tiesioginę transliaciją rasite čia](https://www.youtube.com/channel/UCP3MANaEkoW4LXa74e1xzgQ))** |
-| ... | ... | Loginiai patikrinimo operatoriai; patikrinimo sąlyga switch | Suplanuota |
-| ... | ... | Ciklai; ciklas for | Suplanuota |
-| ... | ... | Ciklas while; ciklas do while | Suplanuota |
-| ... | ... | Masyvai; vienmatis masyvas | Suplanuota |
-| ... | ... | Dvimatis masyvas | Suplanuota |
-| ... | ... | Darbas su duomenų failais | Suplanuota |
-| ... | ... | Funkcijos | Suplanuota |
-| ... | ... | Funkcijos | Suplanuota |
-| ... | ... | Objektinis programavimas | Suplanuota |
-| ... | ... | Objektinis programavimas | Suplanuota |
-| ... | ... | Objektinis programavimas | Suplanuota |
-| ... | ... | Jūsų pasiūlytos programos | Suplanuota |
-| ... | ... | Ankstesnių metų egzaminų užduotys | Suplanuota |
-| ... | ... | Ankstesnių metų egzaminų užduotys | Suplanuota |
-| ... | ... | Ankstesnių metų egzaminų užduotys | Suplanuota |
-| ... | ... | ... | ... |
-| ... | ... | ... | ... |
+| 2021-03-29 (pirmadienis) | 18 val. | Loginiai patikrinimo operatoriai; patikrinimo sąlyga switch | Suplanuota |
+| 2021-03-30 (antradienis) | 18 val. | Ciklai; ciklas for | Suplanuota |
+| 2021-04-03 (šeštadienis) | 13 val. | Papildoma konsultacija | Suplanuota |
+| 2021-04-05 (pirmadienis) | 18 val. | Ciklas while; ciklas do while | Suplanuota |
+| 2021-04-06 (antradienis) | 18 val. | Masyvai; vienmatis masyvas | Suplanuota |
+| 2021-04-10 (šeštadienis) | 13 val. | Papildoma konsultacija | Suplanuota |
+| 2021-04-12 (pirmadienis) | 18 val. | Dvimatis masyvas | Suplanuota |
+| 2021-04-13 (antradienis) | 18 val. | Darbas su duomenų failais | Suplanuota |
+| 2021-04-17 (šeštadienis) | 13 val. | Papildoma konsultacija | Suplanuota |
+| 2021-04-19 (pirmadienis) | 18 val. | Funkcijos | Suplanuota |
+| 2021-04-20 (antradienis) | 18 val. | Funkcijos | Suplanuota |
+| 2021-04-24 (šeštadienis) | 13 val. | Papildoma konsultacija | Suplanuota |
+| 2021-04-26 (pirmadienis) | 18 val. | Objektinis programavimas | Suplanuota |
+| 2021-04-27 (antradienis) | 18 val. | Objektinis programavimas | Suplanuota |
+| 2021-05-01 (šeštadienis) | 13 val. | Papildoma konsultacija | Suplanuota |
+| 2021-05-03 (pirmadienis) | 18 val. | Objektinis programavimas | Suplanuota |
+| 2021-05-04 (antradienis) | 18 val. | Objektinis programavimas | Suplanuota |
+| 2021-05-08 (šeštadienis) | 13 val. | Papildoma konsultacija | Suplanuota |
+| 2021-05-10 (pirmadienis) | 18 val. | Ankstesnių metų egzaminų užduotys | ... |
+| 2021-05-11 (antradienis) | 18 val. | Ankstesnių metų egzaminų užduotys | ... |
+| 2021-05-15 (šeštadienis) | 13 val. | Papildoma konsultacija | ... |
+| 2021-05-17 (pirmadienis) | 18 val. | Ankstesnių metų egzaminų užduotys | ... |
+| 2021-05-18 (antradienis) | 18 val. | Ankstesnių metų egzaminų užduotys | ... |
+| 2021-05-22 (šeštadienis) | 13 val. | Papildoma konsultacija | ... |
+| 2021-05-24 (pirmadienis) | 18 val. | ... | ... |
+| 2021-05-25 (antradienis) | 18 val. | ... | ... |
+| 2021-05-29 (šeštadienis) | 13 val. | Papildoma konsultacija | ... |
+| 2021-05-31 (pirmadienis) | 18 val. | ... | ... |
+| 2021-06-01 (antradienis) | 18 val. | ... | ... |
+| 2021-06-05 (šeštadienis) | 13 val. | Papildoma konsultacija | ... |
+| 2021-06-07 (pirmadienis) | 18 val. | ... | ... |
+| 2021-06-08 (antradienis) | 18 val. | ... | ... |
 
 ## Registracija
 
