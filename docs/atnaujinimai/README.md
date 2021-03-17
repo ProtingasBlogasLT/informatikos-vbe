@@ -1,5 +1,7 @@
 # Atnaujinimai
 
+**2021-03-17**. Atnaujinta paskaitų informacija. Pridėta papildomos medžiagos. Pataisyta klaida prie aritmetinių operatorių.
+
 **2021-03-15**. Pataisyta informacija prie teksto ir kintamųjų išvedimo užduočių. Atnaujinta paskaitų informacija.
 
 **2021-03-14**. Atnaujintas paskaitų (2020-2021 m. m.) tvarkaraštis. Pridėta kontaktinė informacija.

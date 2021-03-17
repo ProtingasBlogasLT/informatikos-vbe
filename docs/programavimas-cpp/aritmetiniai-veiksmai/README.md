@@ -18,8 +18,8 @@ Informacija ruošiama.
 | `+` | Sudėtis | `x + y` | `x` ir `y` skaičių suma |
 | `-` | Atimtis | `x - y` | skirtumas atėmus `y` iš `x` |
 | `*` | Daugyba | `x * y` | `x` ir `y` sandauga |
-| `/` | Dalyba | `x / y` | dalmuo padalinus `y` iš `x` |
-| `%` | Modulis | `x % y` | liekana padalinus `y` iš `x` |
+| `/` | Dalyba | `x / y` | dalmuo padalinus `x` iš `y` |
+| `%` | Modulis | `x % y` | liekana padalinus `x` iš `y` |
 
 ## Priskyrimo operatoriai
 
