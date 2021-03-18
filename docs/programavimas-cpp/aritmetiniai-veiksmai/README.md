@@ -36,9 +36,9 @@ Informacija ruošiama.
 
 | Operatorius | Pavadinimas | Apibūdinimas |
 |-|-|-|
-| `++x` | pre-didinimas | Padidins `x` vienu, tada grąžins `x` |
+| `++x` | prieš-didinimas | Padidins `x` vienu, tada grąžins `x` |
 | `x++` | po-didinimas | Grąžins `x`, tada padidins `x` vienu |
-| `--x` | pre-mažinimas | Sumažins `x` vienu, tada grąžins `x` |
+| `--x` | prieš-mažinimas | Sumažins `x` vienu, tada grąžins `x` |
 | `x--` | po-mažinimas | Grąžins `x`, tada sumažins `x` vienu |
 
 ## Pavyzdžiai
