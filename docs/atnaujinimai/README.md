@@ -1,6 +1,10 @@
 # Atnaujinimai
 
-**2021-03-17**. Atnaujinta paskaitų informacija. Pridėta papildomos medžiagos. Pataisyta klaida prie aritmetinių operatorių. Papildyta kontaktinė informacija.
+**2021-03-20**. Atnaujinta paskaitų informacija.
+
+**2021-03-18**. Atnaujinta informacija prie aritmetinių veiksmų didinimo / mažinimo operatorių.
+
+**2021-03-17**. Atnaujinta paskaitų informacija. Pridėta papildomos medžiagos apie `using namespace std` eilutę. Pataisyta klaida prie aritmetinių veiksmų operatorių. Papildyta kontaktinė informacija.
 
 **2021-03-15**. Pataisyta informacija prie teksto ir kintamųjų išvedimo užduočių. Atnaujinta paskaitų informacija.
 
