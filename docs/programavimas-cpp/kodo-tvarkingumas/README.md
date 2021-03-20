@@ -4,6 +4,10 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Pg4cI3nXs-Q?start=2334&end=2460" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+## Programų komentavimas
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Bvk2d1fAGPo?start=1200&end=1538" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Atitraukimai nuo krašto
 
 Programoje kodo eilutės yra atitraukiamos nuo krašto su 4 tarpais arba 1 tab paspaudimu, jeigu tos kodo eilutės patenka į kažkokio kito dalyko ribas.
