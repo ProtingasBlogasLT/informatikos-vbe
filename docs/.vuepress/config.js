@@ -89,6 +89,12 @@ module.exports = {
           ]
         },
         {
+          title: 'C++ programos struktūra',
+          children: [
+            '/programavimas-cpp/cpp-programos-struktura/'
+          ]
+        },
+        {
           title: 'Aritmetiniai veiksmai',
           children: [
             '/programavimas-cpp/aritmetiniai-veiksmai/',

@@ -1,6 +1,6 @@
 # Atnaujinimai
 
-**2021-03-20**. Atnaujinta paskaitų informacija. Sudėti vaizdo įrašai prie tų skyrių, kurie jau buvo praeiti paskaitų metu (darbo aplinka, kodo tvarkingumas, ...). Papildyta informacija prie kodo tvarkingumo temos.
+**2021-03-20**. Atnaujinta paskaitų informacija. Sudėti vaizdo įrašai prie tų skyrių, kurie jau buvo praeiti paskaitų metu (darbo aplinka, kodo tvarkingumas, kintamieji, informacijos išvedimas į konsolę). Papildyta informacija prie kodo tvarkingumo temos. Pridėtas skyrius "C++ programos struktūra".
 
 **2021-03-18**. Atnaujinta informacija prie aritmetinių veiksmų didinimo / mažinimo operatorių.
 
