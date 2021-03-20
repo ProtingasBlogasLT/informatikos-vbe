@@ -11,3 +11,7 @@ Toliau yra pateikiama informacija kaip susidiegti ir naudoti vieną ar kitą var
 ## Visual Studio Community
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dkhjeOGf2h0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Rekomendacijos kodo laikymui
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Pg4cI3nXs-Q?start=1039&end=2023" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

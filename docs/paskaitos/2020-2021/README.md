@@ -26,16 +26,16 @@ Paskaitų tvarkaraštis sudaromas norintiems mokytis ar pagilinti žinias tik pr
 
 **Bendras paskaitų grojaraštis per [Youtube](https://www.youtube.com/playlist?list=PLKofrzwSXUn2kmw6lMr5kdFt18l9T7zfl).**
 
-| Data | Laikas | Paskaita (temos) | Būsena |
+| Data | Laikas | Paskaita (temos) | Būsena / įrašas |
 |-|-|-|-|
-| 2021-03-11 (ketvirtadienis) | - | Informacija apie C++ kursą | [Įrašas](https://www.youtube.com/watch?v=QEj41Spf0AE) |
-| 2021-03-11 (ketvirtadienis) | - | Darbo aplinka (Code Blocks) | [Įrašas](https://www.youtube.com/watch?v=z350Cnw7IB0) |
-| 2021-03-11 (ketvirtadienis) | - | Darbo aplinka (Visual Studio Community) | [Įrašas](https://www.youtube.com/watch?v=dkhjeOGf2h0) |
+| 2021-03-11 (ketvirtadienis) | - | Informacija apie C++ kursą | [Vaizdo įrašas (9:08 min.)](https://www.youtube.com/watch?v=QEj41Spf0AE) |
+| 2021-03-11 (ketvirtadienis) | - | Darbo aplinka (Code Blocks) | [Vaizdo pamoka (22:02 min.)](https://www.youtube.com/watch?v=z350Cnw7IB0) |
+| 2021-03-11 (ketvirtadienis) | - | Darbo aplinka (Visual Studio Community) | [Vaizdo pamoka (33:35 min.)](https://www.youtube.com/watch?v=dkhjeOGf2h0) |
 | 2021-03-13 (šeštadienis) | 13 val. | Papildoma konsultacija, jeigu nepavyksta susitvarkyti darbo aplinkos | Įvyko |
 | 2021-03-14 (sekmadienis) | 13 val. | Papildoma konsultacija, jeigu nepavyksta susitvarkyti darbo aplinkos | Įvyko |
-| 2021-03-15 (pirmadienis) | 18 val. | Pradžia. Aplinkos pasiruošimas. Kodo tvarkingumas. Kintamieji. Informacijos išvedimas į konsolę | [Įrašas](https://www.youtube.com/watch?v=Pg4cI3nXs-Q) |
-| 2021-03-16 (antradienis) | 18 val. | Discord ir Facebook grupės. C++ struktūra. Komentarai. Aritmetiniai veiksmai | [Įrašas](https://www.youtube.com/watch?v=Bvk2d1fAGPo) |
-| 2021-03-17 (trečiadienis) | - | Papildoma informacija apie `using namespace std;` | [Įrašas](https://www.youtube.com/watch?v=etQX4Mme2f4) |
+| 2021-03-15 (pirmadienis) | 18 val. | Pradžia. Aplinkos pasiruošimas. Kodo tvarkingumas. Kintamieji. Informacijos išvedimas į konsolę | [Paskaitos įrašas (3:00 val.)](https://www.youtube.com/watch?v=Pg4cI3nXs-Q) |
+| 2021-03-16 (antradienis) | 18 val. | Discord ir Facebook grupės. C++ programos struktūra. Komentarai. Aritmetiniai veiksmai | [Paskaitos įrašas (2:12 val.)](https://www.youtube.com/watch?v=Bvk2d1fAGPo) |
+| 2021-03-17 (trečiadienis) | - | Papildoma informacija apie `using namespace std;` eilutę | [Vaizdo pamoka (14:49 min.)](https://www.youtube.com/watch?v=etQX4Mme2f4) |
 | **2021-03-20 (šeštadienis)** | **13 val.** | **Papildoma konsultacija** | **Vyks ([tiesioginę transliaciją rasite čia](https://www.youtube.com/channel/UCP3MANaEkoW4LXa74e1xzgQ))** |
 | **2021-03-22 (pirmadienis)** | **18 val.** | **Informacijos nuskaitymas iš konsolės** | **Vyks ([tiesioginę transliaciją rasite čia](https://www.youtube.com/channel/UCP3MANaEkoW4LXa74e1xzgQ))** |
 | **2021-03-23 (antradienis)** | **18 val.** | **Patikrinimo sąlyga `if`** | **Vyks ([tiesioginę transliaciją rasite čia](https://www.youtube.com/channel/UCP3MANaEkoW4LXa74e1xzgQ))** |

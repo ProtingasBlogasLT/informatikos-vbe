@@ -2,7 +2,7 @@
 
 ## Vaizdo pamoka
 
-Informacija ruošiama.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Bvk2d1fAGPo?start=2170&end=7230" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Apie aritmetinius veiksmus
 
