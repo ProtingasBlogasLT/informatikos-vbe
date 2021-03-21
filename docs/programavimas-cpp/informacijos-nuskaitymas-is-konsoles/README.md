@@ -154,7 +154,7 @@ int main()
 }
 ```
 
-Rezultatas:
+Rezultatai:
 
 ```
 Iveskite amziu: 55
@@ -188,7 +188,7 @@ int main()
 }
 ```
 
-Rezultatas:
+Rezultatai:
 
 ```
 Iveskite amziu: 55
@@ -223,7 +223,7 @@ int main()
 }
 ```
 
-Rezultatas:
+Rezultatai:
 
 ```
 Iveskite amziu: 80
