@@ -14,20 +14,20 @@
 ## Kintamųjų sintaksė
 
 ```cpp
-<tipas> <pavadinimas> = <reikšmė>;
+<tipas> <vardas> = <reikšmė>;
 ```
 
 - **tipas** - tai kas nurodo kokio tipo duomenys (tekstas, skaičiai, ar pan.) bus saugumo šiame kintamąjame. Galima pasirinkti tik iš anksto numatytų tipų.
-- **pavadinimas** - kaip šis kintamasis bus pasiekiamas programoje (norint pakeisti ar gauti reikšmę). Bei kokią informaciją jis saugo, pavyzdžiui, vardas, pavardė, kilometrai, ar pan.
+- **vardas** - kaip šis kintamasis bus pasiekiamas programoje (norint pakeisti ar gauti reikšmę). Bei kokią informaciją jis saugo, pavyzdžiui, vardas, pavardė, kilometrai, ar pan.
 - **reikšmė** - kokią informaciją saugo šis kintamasis. Pavyzdžiui, skaičius - 4, tekstas - "Jonas" ar pan.
 
 ## Taisyklės kuriant kintamuosius
 
-- Kintamojo pavadinimas prasideda su jo tipo pavadinimu, iškart po kurio seka kintamojo pavadinimas.
-- Kintamojo pavadinimą gali sudaryti raidės, skaičiai ir apatinis brūkšnelis (`A-z`, `0-9`, `_`).
-- Kintamojo pavadinimas gali prasidėti tik raide arba apatiniu brūkšneliu.
-- Kintamųjų pavadinimai yra jautrūs mažosioms/didžiosioms raidėms. A didžioji ir a mažoji nėra tas pats, todėl kintamasis pavadinimu `age` ir kintamasis pavadinimu `AGE` nėra tas pats.
-- Kintamojo pavadinime negali būti tarpo.
+- Kintamojo vardas prasideda su jo tipo pavadinimu, iškart po kurio seka kintamojo vardas.
+- Kintamojo vardą gali sudaryti raidės, skaičiai ir apatinis brūkšnelis (`A-z`, `0-9`, `_`).
+- Kintamojo vardas gali prasidėti tik raide arba apatiniu brūkšneliu.
+- Kintamųjų vardai yra jautrūs mažosioms / didžiosioms raidėms. A didžioji ir a mažoji nėra tas pats, todėl kintamasis vardu `age` ir kintamasis vardu `AGE` nėra tas pats.
+- Kintamojo varde negali būti tarpo.
 - Aprašant reikšmę reikia nepamiršti naudoti ar nenaudoti kabučių, pagal tai koks kintamojo tipas yra naudojamas.
 
 ## Kintamųjų (duomenų) tipai
