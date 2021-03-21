@@ -1,6 +1,6 @@
 # Atnaujinimai
 
-**2021-03-21**. Pridėta papildomos medžiagos apie informacijos nuskaitymą iš konsolės (`cin`, `getline`, `get`).
+**2021-03-21**. Pridėta papildomos medžiagos apie informacijos nuskaitymą iš konsolės (`cin`, `getline`, `get`). Atnaujinta medžiaga prie kintamųjų.
 
 **2021-03-20**. Atnaujinta paskaitų informacija. Sudėti vaizdo įrašai prie tų skyrių, kurie jau buvo praeiti paskaitų metu (darbo aplinka, kodo tvarkingumas, kintamieji, informacijos išvedimas į konsolę, aritmetiniai veiksmai). Papildyta informacija prie kodo tvarkingumo temos. Pridėtas skyrius "C++ programos struktūra".
 
