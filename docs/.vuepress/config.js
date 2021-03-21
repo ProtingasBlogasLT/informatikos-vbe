@@ -101,7 +101,7 @@ module.exports = {
           ]
         },
         {
-          title: 'Informacijos nuskaitymas iš konsolės (cin)',
+          title: 'Informacijos nuskaitymas iš konsolės (cin, getline, get)',
           children: [
             '/programavimas-cpp/informacijos-nuskaitymas-is-konsoles/',
             '/programavimas-cpp/informacijos-nuskaitymas-is-konsoles/paprasto-teksto-nuskaitymas/',
