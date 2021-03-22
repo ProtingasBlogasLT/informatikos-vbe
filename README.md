@@ -1,4 +1,4 @@
-# Pasiruošimas IT VBE
+# Informatikos VBE
 
 Teorija, pavyzdžiai, užduotys.
 
@@ -12,6 +12,12 @@ Norint parsisiųsti projekto kodą naudokite komandą:
 git clone https://github.com/ProtingasBlogasLT/informatikos-vbe.git
 ```
 
+Norint pereiti į gautą aplanką:
+
+```bash
+cd informatikos-vbe
+```
+
 Norint įrašyti reikalingas bibliotekas darbui:
 
 ```bash
@@ -20,7 +26,7 @@ npm install
 
 ## Projekto paleidimas
 
-Norint paleisti projektą jo kūrimui:
+Norint paleisti projektą lokaliai, kad jame ką nors atnaujinti:
 
 ```bash
 npm run dev
