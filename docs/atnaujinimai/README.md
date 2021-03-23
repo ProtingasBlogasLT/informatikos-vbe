@@ -1,6 +1,6 @@
 # Atnaujinimai
 
-**2021-03-23**. Atnaujintas paskaitų tvarkaraštis.
+**2021-03-23**. Atnaujintas paskaitų tvarkaraštis. Prie patikrinimo sąlygos `if` temų pridėti vaizdo įrašai.
 
 **2021-03-22**. Papildytas paskaitų tvarkaraštis su paskaitos įrašu. Prie temų (informacijos nuskaitymas iš konsolės) pridėti atitinkami vaizdo įrašai.
 
