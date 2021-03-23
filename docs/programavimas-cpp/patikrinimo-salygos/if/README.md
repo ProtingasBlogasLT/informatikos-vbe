@@ -2,7 +2,7 @@
 
 ## Vaizdo pamoka
 
-Informacija ruošiama.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pFPxvdYwx7c?start=330&end=819" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Apie patikrinimo sąlygą `if`
 
