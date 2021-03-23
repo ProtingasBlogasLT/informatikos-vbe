@@ -38,12 +38,12 @@ Paskaitų tvarkaraštis sudaromas norintiems mokytis ar pagilinti žinias tik pr
 | 2021-03-17 (trečiadienis) | - | Papildoma informacija apie `using namespace std;` eilutę | [Vaizdo pamoka (14:49 min.)](https://www.youtube.com/watch?v=etQX4Mme2f4) |
 | 2021-03-20 (šeštadienis) | 13 val. | Papildoma konsultacija | [Konsultacijos įrašas (1:01 val.)](https://www.youtube.com/watch?v=h9B0JYpk8e4) |
 | 2021-03-22 (pirmadienis) | 18 val. | Informacijos nuskaitymas iš konsolės (`cin`, `getline`, `get`) | [Paskaitos įrašas (2:14 val.)](https://www.youtube.com/watch?v=aGVAVQSwxyQ) |
-| **2021-03-23 (antradienis)** | **18 val.** | **Patikrinimo sąlyga `if`** | **Vyks ([tiesioginę transliaciją rasite čia](https://www.youtube.com/channel/UCP3MANaEkoW4LXa74e1xzgQ))** |
+| 2021-03-23 (antradienis) | 18 val. | Patikrinimo sąlyga `if` | [Paskaitos įrašas (2:03 val.)](https://www.youtube.com/watch?v=pFPxvdYwx7c) |
 | **2021-03-27 (šeštadienis)** | **13 val.** | **Papildoma konsultacija** | **Vyks ([tiesioginę transliaciją rasite čia](https://www.youtube.com/channel/UCP3MANaEkoW4LXa74e1xzgQ))** |
-| 2021-03-29 (pirmadienis) | 18 val. | Loginiai patikrinimo operatoriai; patikrinimo sąlyga switch | Suplanuota |
-| 2021-03-30 (antradienis) | 18 val. | Ciklai; ciklas for | Suplanuota |
-| 2021-04-03 (šeštadienis) | 13 val. | Papildoma konsultacija | Suplanuota |
-| 2021-04-05 (pirmadienis) | 18 val. | Ciklas while; ciklas do while | Suplanuota |
+| **2021-03-29 (pirmadienis)** | **18 val.** | **Loginiai patikrinimo operatoriai; patikrinimo sąlyga `switch`** | **Vyks ([tiesioginę transliaciją rasite čia](https://www.youtube.com/channel/UCP3MANaEkoW4LXa74e1xzgQ))** |
+| **2021-03-30 (antradienis)** | **18 val.** | **Ciklai; ciklas `for`** | **Vyks ([tiesioginę transliaciją rasite čia](https://www.youtube.com/channel/UCP3MANaEkoW4LXa74e1xzgQ))** |
+| **2021-04-03 (šeštadienis)** | **13 val.** | **Papildoma konsultacija** | **Vyks ([tiesioginę transliaciją rasite čia](https://www.youtube.com/channel/UCP3MANaEkoW4LXa74e1xzgQ))** |
+| 2021-04-05 (pirmadienis) | 18 val. | Ciklas `while`; ciklas `do while` | Suplanuota |
 | 2021-04-06 (antradienis) | 18 val. | Masyvai; vienmatis masyvas | Suplanuota |
 | 2021-04-10 (šeštadienis) | 13 val. | Papildoma konsultacija | Suplanuota |
 | 2021-04-12 (pirmadienis) | 18 val. | Dvimatis masyvas | Suplanuota |
