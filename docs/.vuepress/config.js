@@ -152,6 +152,12 @@ module.exports = {
           ]
         },
         {
+          title: 'Papildomos užduotys',
+          children: [
+            '/programavimas-cpp/papildomos-uzduotys-2/'
+          ]
+        },
+        {
           title: 'Darbas su duomenų failais',
           children: [
             '/programavimas-cpp/darbas-su-duomenu-failais/'

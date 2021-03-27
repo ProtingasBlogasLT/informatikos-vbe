@@ -1,5 +1,7 @@
 # Atnaujinimai
 
+**2021-03-27**. Pridėta papildomų užduočių. Pridėta medžiagos apie funkcijas su grąžinimo tipu. Atnaujintas paskaitų tvarkaraštis.
+
 **2021-03-24**. Pridėta papildomos medžiagos apie informacijos nuskaitymą iš konsolės prie paskaitų tvarkaraščio ir įrašų.
 
 **2021-03-23**. Atnaujintas paskaitų tvarkaraštis. Prie patikrinimo sąlygos `if` temų pridėti vaizdo įrašai.

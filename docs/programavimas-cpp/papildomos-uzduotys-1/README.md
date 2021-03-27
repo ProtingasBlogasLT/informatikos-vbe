@@ -73,7 +73,7 @@ ATSPEJOTE!!!
 
 ## Project Euler užduotys
 
-Eikite adresu [https://projecteuler.net/](https://projecteuler.net/) ir užsiregistruokite.
+Eikite adresu [projecteuler.net](https://projecteuler.net/) ir užsiregistruokite.
 
 Viršuje spauskite ant `archives`.
 
