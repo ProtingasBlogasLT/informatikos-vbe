@@ -6,22 +6,32 @@ Informacija ruošiama.
 
 ## Apie `switch` sąlygą
 
-- `switch` sąlyga skirta norint patikrinti kelias skirtingas galimas to paties kintamojo reikšmes. Pavyzdžiui, tikriname užsakymo kodą:
-  - Ar kodas yra lygus 1?
-  - Ar kodas yra lygus 2?
-  - Ar kodas yra lygus 3?
-  - ...
+- `switch` sąlyga skirta norint patikrinti kelias skirtingas galimas to paties kintamojo reikšmes.
 - Bus įvykdomas pirmos teisingos sąlygos kodas.
+
+Pavyzdžiui, galima tikrinti klaidos kodą:
+
+- Ar kodas yra 1? Jei taip - išsiųsti pranešimą administratoriui.
+- Ar kodas yra 2? Jei taip - parodyti pranešimą vartotojui.
+- Ar kodas yra 3? Jei taip - išsiųsti pranešimą programuotojui.
+- Jei kodas nerastas - įrašyti į sistemos "log" failus.
+
+Arba, pavyzdžiui, jei tikrintume užsakymo būseną:
+
+- Ar būsena yra "naujas"? Jei taip - siųsti pranešimus administratoriui ir pirkėjui.
+- Ar būsena yra "vykdomas"? Jei taip - sekti kurjerio pateiktą informaciją.
+- Ar būsena yra "parengtas"? Jei taip - siųsti pranešimą pirkėjui, kad gali atsiimti.
+- Ar būsena yra "įvykdytas"? Jei taip - rodyti pristatymo laiką ir nebeleisti atlikti kitų veiksmų.
 
 ## `switch` sąlygos sintaksė
 
 ```cpp
-switch (kintamasis)
+switch (<kintamasis>)
 {
-case tikrinimas1:
+case <tikrinimas1>:
     // vykdomas kodas, jei kintamasis == tikrinimas1
     break;
-case tikrinimas2:
+case <tikrinimas2>:
     // vykdomas kodas, jei kintamasis == tikrinimas2
     break;
 default:

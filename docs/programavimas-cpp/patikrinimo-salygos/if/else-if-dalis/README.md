@@ -16,11 +16,11 @@
 ## `else if` dalies sintaksė
 
 ```cpp
-if (pirma sąlyga)
+if (<pirma sąlyga>)
 {
     // jeigu pirma salyga true - vykdomas čia esantis kodas
 }
-else if (antra sąlyga)
+else if (<antra sąlyga>)
 {
     // jeigu antra salyga true - vykdomas čia esantis kodas
 }

@@ -15,12 +15,15 @@ Rašoma norint patikrinti ar palyginti vieną dalyką ir įvykdyti kodą, jei pa
 ## `if` sintaksė
 
 ```cpp
-if (sąlyga)
+if (<sąlyga>)
 {
     /* kodas, jei sąlyga yra teisinga (atsakymas į
     klausimą yra true) */
 }
 ```
+
+- **sąlyga** - užrašomas tikrinimas, kuris gali grąžinti `true` arba `false` tipo atsakymą, šis atsakymas naudojamas norint nustatyti ar tarp `{ ... }` skliaustų esantis kodas turi būti vykdomas ar ne.
+- **kodas** - kodas, kuris bus vykdomas kai sąlyga grąžina `true` tipo atsakymą.
 
 ## Pavyzdžiai
 
