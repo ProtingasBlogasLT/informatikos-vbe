@@ -122,7 +122,7 @@ pavadinimas[indeksas] = nauja_reiksme;
 
 ## Masyvo dydis ir elementų kiekis
 
-- Masyvo dydis ir užpildytas elementų kiekis nėra vienas ir tas pats.
+- Masyvo dydis ir masyve esantis elementų kiekis nėra vienas ir tas pats.
 - Masyvas gali būti ir didesnis nei į jį yra įvesta informacijos.
 - C++ kalboje nėra automatinio `length` ar `count` sekimo, kuris nurodytų kiek elementų yra nurodytame masyve, todėl tai reikės daryti patiems.
 
@@ -148,7 +148,7 @@ Todėl dirbant su šio masyvo duomenimis mums reikės kažkaip žinoti, kiek duo
 int pazymiu_kiekis = 5;
 ```
 
-Šis masyvas, atmintyje atrodytų kažkaip panašiai:
+Šis masyvas atmintyje atrodytų kažkaip panašiai:
 
 | Reikšmė: | 8 | 9 | 7 | 10 | 8 | - | - | - | - | - |
 |-|-|-|-|-|-|-|-|-|-|-|
