@@ -48,7 +48,7 @@ cout << suma();
 
 ## Pavyzdžiai
 
-### Pavyzdys 
+### Pavyzdys 1
 
 Kodas:
 
@@ -78,7 +78,7 @@ Rezultatai:
 
 ```
 
-### Pavyzdys 
+### Pavyzdys 2
 
 Kodas:
 
@@ -104,7 +104,7 @@ Rezultatai:
 10
 ```
 
-### Pavyzdys 
+### Pavyzdys 3
 
 Kodas:
 
@@ -134,7 +134,7 @@ Rezultatai:
 19
 ```
 
-### Pavyzdys 
+### Pavyzdys 4
 
 Kodas:
 
@@ -179,7 +179,7 @@ Rezultatas 2:
 
 ```
 
-### Pavyzdys 
+### Pavyzdys 5
 
 Kodas:
 
@@ -216,7 +216,7 @@ Rezultatas 2:
 54
 ```
 
-### Pavyzdys 
+### Pavyzdys 6
 
 Kodas:
 
@@ -264,7 +264,7 @@ nuo 100 iki 1000: 992
 
 ```
 
-### Pavyzdys 
+### Pavyzdys 7
 
 Kodas:
 
@@ -304,7 +304,7 @@ Iveskite du skaicius: 14 52
 14 + 52 = 66
 ```
 
-### Pavyzdys 
+### Pavyzdys 8
 
 Kodas:
 
@@ -344,7 +344,7 @@ Rezultatai:
 
 ```
 
-### Pavyzdys 
+### Pavyzdys 9
 
 Kodas:
 
@@ -388,7 +388,7 @@ Rezultatai:
 
 ```
 
-### Pavyzdys 
+### Pavyzdys 10
 
 Kodas:
 
@@ -458,7 +458,7 @@ Rezultatai:
 
 ```
 
-### Pavyzdys 
+### Pavyzdys 11
 
 Kodas:
 
@@ -522,7 +522,7 @@ Antras skaiciu masyvas
 Skaiciu suma: 34
 ```
 
-### Pavyzdys 
+### Pavyzdys 12
 
 Kodas:
 
@@ -606,7 +606,7 @@ Skaiciu vidurkis
 
 ```
 
-### Pavyzdys 
+### Pavyzdys 13
 
 Kodas:
 
@@ -729,7 +729,7 @@ Ilgiausias vardas: Gintare
 Didziausias amzius: 23
 ```
 
-### Pavyzdys 
+### Pavyzdys 14
 
 Kodas:
 
