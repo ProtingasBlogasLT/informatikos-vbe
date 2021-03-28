@@ -518,6 +518,140 @@ Iveskite visus norimus skaicius: 2 5 4 8 4 3
 Visi ivesti skaiciai: 2 5 4 8 4 3 1 4
 ```
 
+### Pavyzdys 10
+
+Kodas:
+
+```cpp
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    // Sukuriamas tuščias skaičių masyvas
+    int skaiciai[5];
+    int skaiciu_kiekis = 5;
+
+    // Bandoma gauti reikšmės iš neužpildyto masyvo
+    for (int i = 0; i < skaiciu_kiekis; i++)
+    {
+        cout << "[" << skaiciai[i] << "]";
+    }
+
+    cout << endl;
+
+    // Kiekvienas masyvo elementas užpildomas su 'default' reikšme
+    for (int i = 0; i < skaiciu_kiekis; i++)
+    {
+        skaiciai[i] = 0;
+    }
+
+    // Per naują išvedamas sutvarkytas masyvas
+    for (int i = 0; i < skaiciu_kiekis; i++)
+    {
+        cout << "[" << skaiciai[i] << "]";
+    }
+
+    return 0;
+}
+```
+
+Rezultatai:
+
+```
+[-858993460][-858993460][-858993460][-858993460][-858993460]
+[0][0][0][0][0]
+```
+
+### Pavyzdys 11
+
+Kodas:
+
+```cpp
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    // Sukuriamas tuščias skaičių masyvas
+    int skaiciai[10];
+    int skaiciu_kiekis = 0;
+
+    // Vartotojas įveda kiek skaičių nori suvesti
+    cout << "Kiek skaiciu norite suvesti? ";
+    cin >> skaiciu_kiekis;
+
+    // Apibūdinami apribojimai skaičių įvedime
+    cout << "Iveskite " << skaiciu_kiekis << " skaiciu, kurie butu tarp reziu [1-10]\n";
+
+    // Skaičių įvedimas
+    for (int i = 0; i < skaiciu_kiekis; i++)
+    {
+        // Pasakoma kuris skaičius yra įvedinėjamas
+        cout << "Iveskite " << i + 1 << "-aji skaiciu: ";
+        int skaicius;
+
+        do
+        {
+            // Įvedamas skaičius
+            cin >> skaicius;
+
+            // Jeigu skaičius tinka - įkeliama į masyvą
+            if (skaicius >= 1 && skaicius <= 10)
+            {
+                skaiciai[i] = skaicius;
+            }
+            else
+            {
+                // Jeigu skaičius netinka - išvedamas klaidos pranešimas
+                cout << "Blogas ivedimas, bandykite is naujo\n";
+            }
+        } while (skaicius < 1 || skaicius > 10); // kartojama kol įvestas skaičius tinka
+    }
+
+    // Skaičių išvedimas
+    cout << "Ivesti skaiciai: ";
+
+    for (int i = 0; i < skaiciu_kiekis; i++)
+    {
+        cout << "[" << skaiciai[i] << "]";
+    }
+
+    return 0;
+}
+```
+
+Rezultatas 1:
+
+```
+Kiek skaiciu norite suvesti? 3
+Iveskite 3 skaiciu, kurie butu tarp reziu [1-10]
+Iveskite 1-aji skaiciu: 1
+Iveskite 2-aji skaiciu: 55
+Blogas ivedimas, bandykite is naujo
+14
+Blogas ivedimas, bandykite is naujo
+5
+Iveskite 3-aji skaiciu: 9
+Ivesti skaiciai: [1][5][9]
+```
+
+Rezultatas 2:
+
+```
+Kiek skaiciu norite suvesti? 4
+Iveskite 4 skaiciu, kurie butu tarp reziu [1-10]
+Iveskite 1-aji skaiciu: 5
+Iveskite 2-aji skaiciu: 9
+Iveskite 3-aji skaiciu: 787
+Blogas ivedimas, bandykite is naujo
+455
+Blogas ivedimas, bandykite is naujo
+3
+Iveskite 4-aji skaiciu: 1
+Ivesti skaiciai: [5][9][3][1]
+```
+
 ## Užduotys
 
 ### Užduotis 1
