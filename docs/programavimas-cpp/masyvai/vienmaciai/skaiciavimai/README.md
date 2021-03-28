@@ -307,138 +307,59 @@ Ivestu pazymiu vidurkis: 8.33333
 Kodas:
 
 ```cpp
+#include <iostream>
+using namespace std;
 
+int main()
+{
+    // Sukuriamas skaičių masyvas ir užpildomas reikšmėmis
+    int skaiciai[] = { 7, 4, 5, 9, 5, 2, 8, 1 };
+    int skaiciu_kiekis = 8;
+
+    // Išvedami skaičiai esantys masyve
+    for (int i = 0; i < skaiciu_kiekis; i++)
+    {
+        cout << "[" << skaiciai[i] << "]";
+    }
+    cout << endl;
+
+    // Sukuriami kintamieji skaičiavimams
+    int lyginiu_kiekis = 0, lyginiu_suma = 0;
+    double lyginiu_vidurkis = 0;
+
+    // Einama per visus skaičius
+    for (int i = 0; i < skaiciu_kiekis; i++)
+    {
+        // Žiūrima ar skaičius lyginis
+        if (skaiciai[i] % 2 == 0)
+        {
+            // Lyginių kiekis didinamas vienu
+            lyginiu_kiekis++;
+
+            // Lyginių suma padidinama nauju skaičiumi
+            lyginiu_suma += skaiciai[i];
+        }
+    }
+
+    // Skaičiuojamas lyginių vidurkis
+    lyginiu_vidurkis = (double)lyginiu_suma / lyginiu_kiekis;
+
+    // Išvedami atsakymai
+    cout << "Lyginiu skaiciu kiekis: " << lyginiu_kiekis << endl;
+    cout << "Lyginiu skaiciu suma: " << lyginiu_suma << endl;
+    cout << "Lyginiu skaiciu vidurkis: " << lyginiu_vidurkis << endl;
+
+    return 0;
+}
 ```
 
 Rezultatai:
 
 ```
-
-```
-
-### Pavyzdys 7
-
-Kodas:
-
-```cpp
-
-```
-
-Rezultatai:
-
-```
-
-```
-
-### Pavyzdys 
-
-Kodas:
-
-```cpp
-
-```
-
-Rezultatai:
-
-```
-
-```
-
-### Pavyzdys 
-
-Kodas:
-
-```cpp
-
-```
-
-Rezultatai:
-
-```
-
-```
-
-### Pavyzdys 
-
-Kodas:
-
-```cpp
-
-```
-
-Rezultatai:
-
-```
-
-```
-
-### Pavyzdys 
-
-Kodas:
-
-```cpp
-
-```
-
-Rezultatai:
-
-```
-
-```
-
-### Pavyzdys 
-
-Kodas:
-
-```cpp
-
-```
-
-Rezultatai:
-
-```
-
-```
-
-### Pavyzdys 
-
-Kodas:
-
-```cpp
-
-```
-
-Rezultatai:
-
-```
-
-```
-
-### Pavyzdys 
-
-Kodas:
-
-```cpp
-
-```
-
-Rezultatai:
-
-```
-
-```
-
-### Pavyzdys 
-
-Kodas:
-
-```cpp
-
-```
-
-Rezultatai:
-
-```
+[7][4][5][9][5][2][8][1]
+Lyginiu skaiciu kiekis: 3
+Lyginiu skaiciu suma: 14
+Lyginiu skaiciu vidurkis: 4.66667
 
 ```
 
