@@ -1,6 +1,6 @@
 # Atnaujinimai
 
-**2021-03-28**. Pridėta medžiagos prie vienmačių masyvų.
+**2021-03-28**. Pridėta medžiagos prie vienmačių masyvų ir funkcijų su grąžinimo tipu.
 
 **2021-03-27**. Pridėta papildomų užduočių po masyvų. Pridėta medžiagos apie vienmačius masyvus ir funkcijas su grąžinimo tipu. Atnaujintas paskaitų tvarkaraštis. Atnaujinta informacija prie `for` ciklo, `if` sąlygos, `switch` sąlygos.
 
