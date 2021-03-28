@@ -11,7 +11,7 @@ Informacija ruošiama.
 ## Ciklo `for` sintaksė
 
 ```cpp
-for (kintamasis; sąlyga; operacija)
+for (<kintamasis>; <sąlyga>; <veiksmas>)
 {
     // kodas
 }
@@ -19,7 +19,7 @@ for (kintamasis; sąlyga; operacija)
 
 - **kintamasis** - ciklo darbui reikalingas kintamasis, kuris bus sunaikintas ciklui baigus darbą, dažniausiai naudojamas norint suvaldyti kiek kartų ciklas turi būti vykdomas.
 - **sąlyga** - ciklas bus vykdomas kol sąlyga bus teisinga (grąžins true), sąlyga apsirašo tokiu pačiu principu kaip apsirašydavo patikrinimo sąlygoje if.
-- **operacija** - kas bus daroma kiekvienos ciklo iteracijos metu, dažniausiai - didinamas kintamasis.
+- **veiksmas** - kas bus daroma kiekvienos ciklo iteracijos metu, dažniausiai - didinamas kintamasis.
 - **kodas** - kodas, kuris bus vykdomas jei sąlyga teisinga.
 
 ## Pavyzdžiai (1 dalis)

@@ -29,7 +29,7 @@ Masyvus galima įsivaizduoti kaip:
   - Ar objektų masyvai. Pavyzdžiui: visų darbuotojų informacija (jų vardai, pavardės, algos, pareigos ir t. t.).
 - Kai turime visus duomenis masyvuose, juos lengva panaudoti. Pavyzdžiui:
   - Visus duomenis lengvai ir greitai atspausdinti.
-  - Atlikti tam tikrus skaičiavimus ar veiksmus, pavyzdžiui, surūšiuoti prekes pagal kainą.
+  - Atlikti tam tikrus skaičiavimus ar veiksmus su visais ar pasirinktais masyvo elementais. Pavyzdžiui, surūšiuoti prekes pagal kainą ar rasti studentų pažymių vidurkį.
   - Paimti tam tikrą, reikalingą elementą iš masyvo, pavyzdžiui tam tikrą prekę ir atvaizduoti tai kas susiję su ja.
   - ...
 

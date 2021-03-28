@@ -21,7 +21,7 @@
 ## `else` dalies sintaksė
 
 ```cpp
-if (sąlyga)
+if (<sąlyga>)
 {
     // jeigu salyga true - vykdomas čia esantis kodas
 }
