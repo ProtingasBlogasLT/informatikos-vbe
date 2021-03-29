@@ -42,11 +42,11 @@ Paskaitų tvarkaraštis sudaromas norintiems mokytis ar pagilinti žinias tik pr
 | 2021-03-22 (pirmadienis) | - | Papildoma informacija apie `cin.get()`, `cin.putback()` ir `cin.peek()` | [Vaizdo pamoka (7:54 min.)](https://www.youtube.com/watch?v=yMwA4u7eXEY) |
 | 2021-03-23 (antradienis) | 18 val. | Patikrinimo sąlyga `if` | [Paskaitos įrašas (2:03 val.)](https://www.youtube.com/watch?v=pFPxvdYwx7c) |
 | 2021-03-27 (šeštadienis) | 13 val. | Papildoma konsultacija | [Konsultacijos įrašas (51:40 min.)](https://www.youtube.com/watch?v=LjdsEOnkreM) |
-| **2021-03-29 (pirmadienis)** | **18 val.** | **Loginiai patikrinimo operatoriai; patikrinimo sąlyga `switch`.** *Galbūt: Įžanga į ciklus, ciklas `for`* | **Vyks ([tiesioginę transliaciją rasite čia](https://www.youtube.com/channel/UCP3MANaEkoW4LXa74e1xzgQ))** |
-| **2021-03-30 (antradienis)** | **18 val.** | **Įžanga į ciklus. Ciklas `for`** | **Vyks ([tiesioginę transliaciją rasite čia](https://www.youtube.com/channel/UCP3MANaEkoW4LXa74e1xzgQ))** |
+| 2021-03-29 (pirmadienis) | 18 val. | Loginiai patikrinimo operatoriai. Patikrinimo sąlyga `switch`. Įžanga į ciklus. Ciklas `for` (pradžia) | [Paskaitos įrašas (2:08 val.)](https://www.youtube.com/watch?v=V3Pang6MgOs) |
+| **2021-03-30 (antradienis)** | **18 val.** | **Ciklas `for` (pratęsimas)**. *Galbūt: ciklas `while`* | **Vyks ([tiesioginę transliaciją rasite čia](https://www.youtube.com/channel/UCP3MANaEkoW4LXa74e1xzgQ))** |
 | **2021-04-03 (šeštadienis)** | **13 val.** | **Papildoma konsultacija** | **Vyks ([tiesioginę transliaciją rasite čia](https://www.youtube.com/channel/UCP3MANaEkoW4LXa74e1xzgQ))** |
-| 2021-04-05 (pirmadienis) | 18 val. | Ciklas `while`; ciklas `do while` | Suplanuota |
-| 2021-04-06 (antradienis) | 18 val. | Masyvai; vienmatis masyvas | Suplanuota |
+| 2021-04-05 (pirmadienis) | 18 val. | Ciklas `while`. Ciklas `do while` | Suplanuota |
+| 2021-04-06 (antradienis) | 18 val. | Masyvai. Vienmatis masyvas | Suplanuota |
 | 2021-04-10 (šeštadienis) | 13 val. | Papildoma konsultacija | Suplanuota |
 | 2021-04-12 (pirmadienis) | 18 val. | Dvimatis masyvas | Suplanuota |
 | 2021-04-13 (antradienis) | 18 val. | Darbas su duomenų failais | Suplanuota |
