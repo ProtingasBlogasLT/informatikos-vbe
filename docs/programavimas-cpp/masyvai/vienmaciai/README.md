@@ -91,6 +91,10 @@ Aprašymas per kodą:
 double pazymiai[] = { 7.5, 8, 4.5, 9.8, 7.6 };
 ```
 
+Papildoma informacija apie tai kodėl masyvai pradedami numeruoti nuliu:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KJxW2y69XEE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Duomenų pasiekimas per indeksą
 
 Reikšmės pasiekimas (išspausdinimas):
