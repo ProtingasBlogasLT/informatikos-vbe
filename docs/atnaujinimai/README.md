@@ -1,5 +1,7 @@
 # Atnaujinimai
 
+**2021-03-30**. Atnaujintos `for` ciklo užduotys.
+
 **2021-03-29**. Pridėta papildomos medžiagos prie vienmačių masyvų. Atnaujintas paskaitų (2020-2021m. m.) tvarkaraštis.
 
 **2021-03-28**. Pridėta medžiagos prie vienmačių masyvų ir funkcijų su grąžinimo tipu.
