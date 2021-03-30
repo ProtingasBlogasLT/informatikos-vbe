@@ -572,29 +572,58 @@ zodis zodis zodis zodis zodis zodis zodis zodis zodis zodis zodis zodis zodis zo
 
 ### Užduotis 1
 
-Parašyti for, kuris išvestų kiekvieną skaičių pradedant nuo 0 ir baigiant 10. Kiekvieną skaičių išvesti skirtingoje eilutėje.
+Parašyti `for`, kuris išvestų kiekvieną skaičių pradedant nuo 0 ir baigiant 10. Kiekvieną skaičių išvesti skirtingoje eilutėje.
 
 ### Užduotis 2
 
-Parašyti for, kuris išvestų kas antrą skaičių pradedant 0 ir baigiant 15. Kiekvieną skaičių išvesti toje pačioje eilutėje, po kiekvieno skaičiaus dedant tarpą.
+Parašyti `for`, kuris išvestų kas antrą skaičių pradedant 0 ir baigiant 15. Kiekvieną skaičių išvesti toje pačioje eilutėje, po kiekvieno skaičiaus dedant tarpą.
 
 ### Užduotis 3
 
-Parašyti for, kuris išvestų kas trečią skaičių, pradedant 1 ir baigiant 20. Kiekvieną skaičių išvesti toje pačioje eilutėje tačiau apskliaudžiant laužtiniais skliaustais. Pvz.: `[1][4][7]`...
+Parašyti `for`, kuris išvestų kas trečią skaičių, pradedant 1 ir baigiant 20. Kiekvieną skaičių išvesti toje pačioje eilutėje tačiau apskliaudžiant laužtiniais skliaustais. Pavyzdžiui: `[1][4][7]`...
 
 ### Užduotis 4
 
-Parašyti `for`, kuris eitų pro kiekvieną skaičių nuo 1 iki 10. Jame apsirašyti if sąlygą, kuri patikrintų ar dabartinis skaičius yra lyginis, jei taip tai šį skaičių išvesti.
+Parašyti `for`, kuris eitų pro kiekvieną skaičių nuo 1 iki 10. Jame apsirašyti `if` sąlygą, kuri patikrintų ar dabartinis skaičius yra lyginis, jei taip tai šį skaičių išvesti.
 
 ### Užduotis 5
 
-Liepkite vartotojui įvesti rėžių pradžią ir pabaigą. Patikrinkite, kad tai būtų validu (pradžia turi būti mažesnė nei pabaiga). Jei rėžiai tinkami, tuomet vykdyti for, kuris atskirose eilutėse išvestų kiekvieną skaičių iš tų rėžių, bei atskiriant tarpu - tų skaičių kvadratus.
+Liepkite vartotojui įvesti rėžių pradžią ir pabaigą. Patikrinkite, kad tai būtų validu (pradžia turi būti mažesnė nei pabaiga). Jei rėžiai tinkami, tuomet vykdyti `for`, kuris atskirose eilutėse išvestų kiekvieną skaičių iš tų rėžių, bei atskiriant tarpu - tų skaičių kvadratus. Pavyzdžiui:
+
+```
+2 4
+3 9
+4 16
+5 25
+...
+```
 
 ### Užduotis 6
 
-Liepkite vartotojui įvesti rėžių pradžią ir pabaigą. Patikrinkite, kad tai būtų validu (pradžia turi būti mažesnė nei pabaiga). Jei rėžiai tinkami, tuomet vykdyti for, kuris iš duotų skaičių išvestų visus nelyginius skaičius arba tuos, kurie dalinasi iš 8.
+Liepkite vartotojui įvesti rėžių pradžią ir pabaigą. Patikrinkite, kad tai būtų validu (pradžia turi būti mažesnė nei pabaiga). Jei rėžiai tinkami, tuomet vykdyti `for`, kuris iš duotų skaičių išvestų visus nelyginius skaičius arba tuos, kurie dalinasi iš 8.
 
 ### Užduotis 7 (sudėtingesnė)
+
+- Liepkite vartotojui įvesti rėžių pradžią ir pabaigą. Patikrinkite, kad tai būtų validu (pradžia turi būti mažesnė nei pabaiga).
+- Jei rėžiai tinkami, tuomet vykdyti ciklą, kuris visus šiuos skaičius išvestų atskirose eilutėse, šalia kiekvieno skaičiaus išvedant informaciją iš kokių skaičių nuo 2 iki 10 jis dalinasi. Pavyzdžiui:
+
+```
+skaicius 15 dalinasi is 3 5
+skaicius 16 dalinasi is 2 4 8
+skaicius 17 dalinasi is
+skaicius 18 dalinasi is 2 3 6 9
+skaicius 19 dalinasi is
+skaicius 20 dalinasi is 2 4 5
+skaicius 21 dalinasi is 3 7
+skaicius 22 dalinasi is 2
+skaicius 23 dalinasi is
+skaicius 24 dalinasi is 2 3 4 6 8
+skaicius 25 dalinasi is 5
+```
+
+- Papildomai: padarykite, kad skaičiaus nesidalinimo atveju, vietoj teksto "dalinasi iš" būtų išvesta, kad skaičius iš nieko nesidalina.
+
+### Užduotis 8 (sudėtingesnė)
 
 Be daugybos veiksmo programoje, sudauginti du skaičius.
 
@@ -675,7 +704,7 @@ Raskite visų nelyginių skaičių nuo 30 iki 60 sumą.
 
 Rasti visų skaičių, žemesnių už 1000 ir kurie dalinasi iš 3 arba 5, sumą.
 
-::: tip Pavyzdys
+::: tip Pasitikrinimui
 
 Visi skaičiai mažesni už 10 ir kurie dalinasi iš 3 arba 5 yra: 3, 5, 6, 9.
 
@@ -702,3 +731,5 @@ Pagalba kaip atlikti užduotį:
 - Susikurkite tris sveikųjų skaičių kintamuosius. Pirmi du kintamieji saugos paskutinius du skaičius. Trečiasis bus šių pirmų dviejų skaičių suma.
 - Pirmus du skaičius išveskite ne cikle, o prieš jį ir ciklą pradėkite vykdyti nuo 2, o ne nuo 0.
 - Kiekvieno ciklo metu turite perskaičiuot trečiąjį skaičių (pirmų dviejų skaičių sudėtis), tuomet pirmojo skaičiaus reikšmę pakeisti į tokią kokia yra saugoma antrąjame, o antrojo kintamojo reikšmę - į trečiojo. Išvesti į ekraną trečią skaičių.
+
+Papildomai: raskite išvestos fibonačiaus skaičių sekos sumą.
