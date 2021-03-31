@@ -2,7 +2,13 @@
 
 ## Vaizdo pamoka
 
-Informacija ruošiama.
+1 dalis:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/V3Pang6MgOs?start=6360&end=7303" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+2 dalis:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/F1ohvK52UG4?start=393&end=5889" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Apie `for` ciklą
 
