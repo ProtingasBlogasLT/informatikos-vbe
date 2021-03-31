@@ -2,6 +2,12 @@
 
 ## Vaizdo pamoka
 
+1 dalis:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/F1ohvK52UG4?start=5889&end=7254" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+2 dalis:
+
 Informacija ruošiama.
 
 ## Apie ciklą `while`
@@ -16,7 +22,8 @@ Informacija ruošiama.
 ## Ciklo `while` sintaksė
 
 ```cpp
-while (sąlyga) {
+while (sąlyga)
+{
     // kodas
 }
 ```

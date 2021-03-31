@@ -1,5 +1,7 @@
 # Atnaujinimai
 
+**2021-03-31**. Atnaujintas paskaitų (2020-2021 m. m.) tvarkaraštis. Sutvarkyta `for` ciklo užduočių numeracija. Pridėti vaizdo įrašai prie atitinkamų temų (loginiai patikrinimo operatoriai, patikrinimo sąlyga `switch`, ciklai, ciklas `for`, ciklas `while`).
+
 **2021-03-30**. Atnaujintos `for` ciklo užduotys.
 
 **2021-03-29**. Pridėta papildomos medžiagos prie vienmačių masyvų. Atnaujintas paskaitų (2020-2021m. m.) tvarkaraštis.

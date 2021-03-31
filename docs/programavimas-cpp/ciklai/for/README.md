@@ -2,7 +2,13 @@
 
 ## Vaizdo pamoka
 
-Informacija ruošiama.
+1 dalis:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/V3Pang6MgOs?start=6360&end=7303" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+2 dalis:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/F1ohvK52UG4?start=393&end=5889" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Apie `for` ciklą
 
@@ -688,19 +694,19 @@ lyginiu skaiciu, kurie patenka i rezius [1-10] suma: 30
 
 ## Užduotys (2 dalis)
 
-### Užduotis 8
+### Užduotis 9
 
 Raskite visų skaičių nuo 1 iki 100 sumą.
 
-### Užduotis 9
+### Užduotis 10
 
 Raskite visų lyginių skaičių nuo 20 iki 50 sumą.
 
-### Užduotis 10
+### Užduotis 11
 
 Raskite visų nelyginių skaičių nuo 30 iki 60 sumą.
 
-### Užduotis 11
+### Užduotis 12
 
 Rasti visų skaičių, žemesnių už 1000 ir kurie dalinasi iš 3 arba 5, sumą.
 
@@ -714,7 +720,7 @@ Visi skaičiai mažesni už 10 ir kurie dalinasi iš 3 arba 5 yra: 3, 5, 6, 9.
 
 Turite gauti 233168 atsakymą.
 
-### Užduotis 12
+### Užduotis 13
 
 Viena iš populiarų programavimo patikrinimo užduočių vadinama "Fizz-Buzz". Jos aprašas žemiau:
 
@@ -722,7 +728,7 @@ Viena iš populiarų programavimo patikrinimo užduočių vadinama "Fizz-Buzz". 
 > 
 > "Write a program that prints the numbers from 1 to 100. But for multiples of three print “Fizz” instead of the number and for the multiples of five print “Buzz”. For numbers which are multiples of both three and five print “FizzBuzz”."
 
-### Užduotis 13 (sudėtingesnė)
+### Užduotis 14 (sudėtingesnė)
 
 Parašykite for ciklą, kuris išvestų norimą kiekį fibonačiaus skaičių į ekraną. Fibonačiaus sekoje kiekvienas skaičius yra lygus prieš jį ėjusių dviejų skaičių sumai: `1, 1, 2, 3, 5, 8, 13, 21`...
 

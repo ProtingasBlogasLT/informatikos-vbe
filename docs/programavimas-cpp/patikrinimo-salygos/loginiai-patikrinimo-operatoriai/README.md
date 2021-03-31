@@ -2,7 +2,7 @@
 
 ## Vaizdo pamoka
 
-Informacija ruošiama.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/V3Pang6MgOs?start=507&end=3620" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Apie loginius patikrinimo operatorius
 
