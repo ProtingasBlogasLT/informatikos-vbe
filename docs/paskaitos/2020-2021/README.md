@@ -43,31 +43,34 @@ Paskaitų tvarkaraštis sudaromas norintiems mokytis ar pagilinti žinias tik pr
 | 2021-03-23 (antradienis) | 18 val. | Patikrinimo sąlyga `if` | [Paskaitos įrašas (2:03 val.)](https://www.youtube.com/watch?v=pFPxvdYwx7c) |
 | 2021-03-27 (šeštadienis) | 13 val. | Papildoma konsultacija | [Konsultacijos įrašas (51:40 min.)](https://www.youtube.com/watch?v=LjdsEOnkreM) |
 | 2021-03-29 (pirmadienis) | 18 val. | Loginiai patikrinimo operatoriai. Patikrinimo sąlyga `switch`. Įžanga į ciklus. Ciklas `for` (pradžia) | [Paskaitos įrašas (2:08 val.)](https://www.youtube.com/watch?v=V3Pang6MgOs) |
-| **2021-03-30 (antradienis)** | **18 val.** | **Ciklas `for` (pratęsimas)**. *Galbūt: ciklas `while`* | **Vyks ([tiesioginę transliaciją rasite čia](https://www.youtube.com/channel/UCP3MANaEkoW4LXa74e1xzgQ))** |
+| 2021-03-30 (antradienis) | 18 val. | Ciklas `for` (pratęsimas). Įžanga į ciklą `while` | [Paskaitos įrašas (2:09 val.)](https://www.youtube.com/watch?v=F1ohvK52UG4) |
 | **2021-04-03 (šeštadienis)** | **13 val.** | **Papildoma konsultacija** | **Vyks ([tiesioginę transliaciją rasite čia](https://www.youtube.com/channel/UCP3MANaEkoW4LXa74e1xzgQ))** |
-| 2021-04-05 (pirmadienis) | 18 val. | Ciklas `while`. Ciklas `do while` | Suplanuota |
-| 2021-04-06 (antradienis) | 18 val. | Masyvai. Vienmatis masyvas | Suplanuota |
-| 2021-04-10 (šeštadienis) | 13 val. | Papildoma konsultacija | Suplanuota |
-| 2021-04-12 (pirmadienis) | 18 val. | Dvimatis masyvas | Suplanuota |
-| 2021-04-13 (antradienis) | 18 val. | Darbas su duomenų failais | Suplanuota |
+| **2021-04-06 (antradienis)** | **18 val.** | **Ciklas `while`. Ciklas `do while`** | **Vyks ([tiesioginę transliaciją rasite čia](https://www.youtube.com/channel/UCP3MANaEkoW4LXa74e1xzgQ))** |
+| **2021-04-10 (šeštadienis)** | **13 val.** | **Papildoma konsultacija** | **Vyks ([tiesioginę transliaciją rasite čia](https://www.youtube.com/channel/UCP3MANaEkoW4LXa74e1xzgQ))** |
+| 2021-04-12 (pirmadienis) | 18 val. | Masyvai. Vienmatis masyvas | Suplanuota |
+| 2021-04-13 (antradienis) | 18 val. | Dvimatis masyvas | Suplanuota |
+| 2021-04-14 (trečiadienis) | 18 val. | Grafinė vartotojo sąsaja (GUI) | Suplanuota |
 | 2021-04-17 (šeštadienis) | 13 val. | Papildoma konsultacija | Suplanuota |
-| 2021-04-19 (pirmadienis) | 18 val. | Funkcijos | Suplanuota |
+| 2021-04-19 (pirmadienis) | 18 val. | Darbas su duomenų failais | Suplanuota |
 | 2021-04-20 (antradienis) | 18 val. | Funkcijos | Suplanuota |
 | 2021-04-24 (šeštadienis) | 13 val. | Papildoma konsultacija | Suplanuota |
-| 2021-04-26 (pirmadienis) | 18 val. | Objektinis programavimas | Suplanuota |
+| 2021-04-26 (pirmadienis) | 18 val. | Funkcijos | Suplanuota |
 | 2021-04-27 (antradienis) | 18 val. | Objektinis programavimas | Suplanuota |
+| 2021-04-28 (trečiadienis) | 18 val. | Grafinė vartotojo sąsaja (GUI) | Suplanuota |
 | 2021-05-01 (šeštadienis) | 13 val. | Papildoma konsultacija | Suplanuota |
 | 2021-05-03 (pirmadienis) | 18 val. | Objektinis programavimas | Suplanuota |
 | 2021-05-04 (antradienis) | 18 val. | Objektinis programavimas | Suplanuota |
 | 2021-05-08 (šeštadienis) | 13 val. | Papildoma konsultacija | Suplanuota |
-| 2021-05-10 (pirmadienis) | 18 val. | Ankstesnių metų egzaminų užduotys | ... |
+| 2021-05-10 (pirmadienis) | 18 val. | Objektinis programavimas | Suplanuota |
 | 2021-05-11 (antradienis) | 18 val. | Ankstesnių metų egzaminų užduotys | ... |
+| 2021-05-12 (trečiadienis) | 18 val. | Grafinė vartotojo sąsaja (GUI) | Suplanuota |
 | 2021-05-15 (šeštadienis) | 13 val. | Papildoma konsultacija | ... |
 | 2021-05-17 (pirmadienis) | 18 val. | Ankstesnių metų egzaminų užduotys | ... |
 | 2021-05-18 (antradienis) | 18 val. | Ankstesnių metų egzaminų užduotys | ... |
 | 2021-05-22 (šeštadienis) | 13 val. | Papildoma konsultacija | ... |
-| 2021-05-24 (pirmadienis) | 18 val. | ... | ... |
+| 2021-05-24 (pirmadienis) | 18 val. | Ankstesnių metų egzaminų užduotys | ... |
 | 2021-05-25 (antradienis) | 18 val. | ... | ... |
+| 2021-05-26 (trečiadienis) | 18 val. | Grafinė vartotojo sąsaja (GUI) | Suplanuota |
 | 2021-05-29 (šeštadienis) | 13 val. | Papildoma konsultacija | ... |
 | 2021-05-31 (pirmadienis) | 18 val. | ... | ... |
 | 2021-06-01 (antradienis) | 18 val. | ... | ... |
