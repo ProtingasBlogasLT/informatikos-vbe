@@ -701,37 +701,55 @@ Pasirinkta: 3
 
 Išveskite visus skaičius nuo 1 iki 20.
 
+<a href="uzduotys/uzduotis1/" target="_blank">Žiūrėti sprendimą</a>
+
 ### Užduotis 2
 
 Išveskite visus skaičius nuo 1 iki 50. Prie kiekvieno lyginio skaičiaus parašykite žodį "lyginis", o prie kiekvieno nelyginio – "nelyginis".
+
+<a href="uzduotys/uzduotis2/" target="_blank">Žiūrėti sprendimą</a>
 
 ### Užduotis 3
 
 Išveskite visus skaičius nuo 1 iki 100, kiekvieną skaičių atskiriant kableliu, bei nekeliant skaičių į naujas eilutes.
 
+<a href="uzduotys/uzduotis3/" target="_blank">Žiūrėti sprendimą</a>
+
 ### Užduotis 4
 
 Išveskite visus skaičius nuo 25 iki 50. Vietoj skaičių, kurie dalinasi iš 3 išveskite tekstą "dalinasi iš 3".
+
+<a href="uzduotys/uzduotis4/" target="_blank">Žiūrėti sprendimą</a>
 
 ### Užduotis 5
 
 Iš skaičių nuo 1 iki 100, raskite visų lyginių ir visų nelyginių skaičių sumas. Naudokite tą patį ciklą abiems šiems veiksmams.
 
+<a href="uzduotys/uzduotis5/" target="_blank">Žiūrėti sprendimą</a>
+
 ### Užduotis 6
 
 Išveskite 10 atsitiktinių skaičių, raskite jų sumą.
+
+<a href="uzduotys/uzduotis6/" target="_blank">Žiūrėti sprendimą</a>
 
 ### Užduotis 7
 
 Išvedinėkite visus skaičius nuo 1 iki tol kol pasitaikys skaičius, kuris dalinasi iš 3 ir iš 5.
 
+<a href="uzduotys/uzduotis7/" target="_blank">Žiūrėti sprendimą</a>
+
 ### Užduotis 8
 
 Nekeliant į atskiras eilutes, o atskiriant kableliu išveskite 100 atsitiktinių skaičių. Raskite visų jų sumą ir vidurkį.
 
+<a href="uzduotys/uzduotis8/" target="_blank">Žiūrėti sprendimą</a>
+
 ### Užduotis 9
 
 Raskite visų skaičių nuo 1 iki 10 sandaugą. Išveskite tik atsakymą, neišvedant pačių skaičių.
+
+<a href="uzduotys/uzduotis9/" target="_blank">Žiūrėti sprendimą</a>
 
 ### Užduotis 10
 
@@ -744,6 +762,39 @@ Skaičius 4 dalinasi iš: 2 4
 ...
 ```
 
+<a href="uzduotys/uzduotis10/" target="_blank">Žiūrėti sprendimą</a>
+
 ### Užduotis 11
 
 Liepkite vartotojui įvedinėti bet kokius skaičius. Vykdykite įvedinėjimą iki kol įvestas skaičius bus lygus 0. Raskite įvestų skaičių sumą.
+
+<a href="uzduotys/uzduotis11/" target="_blank">Žiūrėti sprendimą</a>
+
+### Užduotis 12
+
+Išveskite atsitiktinį kiekį atsitiktinių skaičių.
+
+<a href="uzduotys/uzduotis12/" target="_blank">Žiūrėti sprendimą</a>
+
+### Užduotis 13 (sudėtingesnė)
+
+Sukurkite skaičiuotuvą, kuris vartotojui leistų atlikinėti tiek skaičiavimų kiek jis nori ir tokių skaičiavimų (suma, skirtumas, sandauga, dalmuo) kokių jis nori.
+
+Tokios programos veikimo pavyzdys:
+
+```
+Ar norite atlikti skaičiavimus (t/n)? t
+Įveskite skaičiavimą (skaičių, veiksmą, skaičių): 5 + 3
+Atsakymas: 8
+
+Ar norite atlikti skaičiavimus (t/n)? t
+Įveskite skaičiavimą (skaičių, veiksmą, skaičių): 4 * 3
+Atsakymas: 12
+
+Ar norite atlikti skaičiavimus (t/n)? n
+Programa baigė savo darbą.
+```
+
+Čia pateiktas tik pavyzdinis veikimas, kas reiškia, kad galima programą realizuoti ir kitaip. Pavyzdžiui, leidžiant suvesti skaičius ir tuomet dar papildomai užklausinėjant kokius veiksmus su tais skaičiuoti arba grįžtant prie naujų skaičių įvedimo.
+
+<a href="uzduotys/uzduotis13/" target="_blank">Žiūrėti sprendimą</a>
