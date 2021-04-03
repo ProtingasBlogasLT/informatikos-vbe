@@ -147,8 +147,8 @@ module.exports = {
             '/programavimas-cpp/masyvai/vienmaciai/skaiciavimai/',
             '/programavimas-cpp/masyvai/vienmaciai/atrinkimas-filtravimas/',
             '/programavimas-cpp/masyvai/vienmaciai/paieska/',
-            '/programavimas-cpp/masyvai/vienmaciai/keitimas/',
             '/programavimas-cpp/masyvai/vienmaciai/rikiavimas/',
+            '/programavimas-cpp/masyvai/vienmaciai/keitimas/',
             '/programavimas-cpp/masyvai/dvimaciai/',
           ]
         },
