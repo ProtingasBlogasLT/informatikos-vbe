@@ -412,18 +412,50 @@ Pasirinkimas: 2
 
 Išveskite visus skaičius nuo 1 iki pirmojo, kuris dalinasi iš 17.
 
+<a href="uzduotys/uzduotis1/" target="_blank">Žiūrėti sprendimą</a>
+
 ### Užduotis 2
 
 Išveskite visus skaičius nuo 1 iki pirmojo, kuris dalinasi iš 100. Vietoj kiekvieno skaičiaus, kuris dalinasi iš 5 išveskite tekstą "skaičius dalinasi iš 5".
 
+<a href="uzduotys/uzduotis2/" target="_blank">Žiūrėti sprendimą</a>
+
 ### Užduotis 3
 
-Išveskite visus lyginius skaičius nuo 1 iki pirmojo, kuris dalinasi iš 20. Iš visų šių išvestų skaičių sumą.
+Išveskite visus lyginius skaičius nuo 1 iki pirmojo, kuris dalinasi iš 20. Raskite visų šių išvestų skaičių sumą.
+
+<a href="uzduotys/uzduotis3/" target="_blank">Žiūrėti sprendimą</a>
 
 ### Užduotis 4
 
 Išveskite visus nelyginius skaičius nuo 1 iki 50. Raskite šių skaičių sumą ir vidurkį.
 
+<a href="uzduotys/uzduotis4/" target="_blank">Žiūrėti sprendimą</a>
+
 ### Užduotis 5
 
 Išvedinėkite atsitiktinius skaičius iki kol rasite skaičių, kuris dalinasi iš 3.
+
+<a href="uzduotys/uzduotis5/" target="_blank">Žiūrėti sprendimą</a>
+
+### Užduotis 6
+
+Leiskite vartotojui atlikinėti skaičiavimus tol kol jis norės.
+
+Tokios galimos programos veikimo pavyzdys:
+
+```
+Įveskite norimą atlikti skaičiavimą (skaičius, veiksmas, skaičius):
+5 + 3
+Atsakymas: 8
+
+Ar dar skaičiuoti (t/n)? t
+
+Įveskite norimą atlikti skaičiavimą (skaičius, veiksmas, skaičius):
+8 * 2
+Atsakymas: 16
+
+Ar dar skaičiuoti (t/n)? n
+```
+
+<a href="uzduotys/uzduotis6/" target="_blank">Žiūrėti sprendimą</a>
