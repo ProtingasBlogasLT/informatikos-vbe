@@ -1,5 +1,6 @@
 ---
 sidebar: auto
+prev: ../../
 ---
 
 # Ciklo while užduotis nr. 2
