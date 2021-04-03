@@ -538,21 +538,7 @@ int main()
         cout << "[" << skaiciai[i] << "]";
     }
 
-    cout << endl;
-
-    // Kiekvienas masyvo elementas užpildomas su 'default' reikšme
-    for (int i = 0; i < skaiciu_kiekis; i++)
-    {
-        skaiciai[i] = 0;
-    }
-
-    // Per naują išvedamas sutvarkytas masyvas
-    for (int i = 0; i < skaiciu_kiekis; i++)
-    {
-        cout << "[" << skaiciai[i] << "]";
-    }
-
-    return 0;
+	return 0;
 }
 ```
 
@@ -560,10 +546,75 @@ Rezultatai:
 
 ```
 [-858993460][-858993460][-858993460][-858993460][-858993460]
-[0][0][0][0][0]
 ```
 
 ### Pavyzdys 11
+
+Kodas:
+
+```cpp
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    // Sukuriamas tuščias skaičių masyvas
+    int skaiciai[5];
+    int skaiciu_kiekis = 5;
+
+    // Kiekvienas masyvo elementas užpildomas su 'default' reikšme
+    for (int i = 0; i < skaiciu_kiekis; i++)
+    {
+        skaiciai[i] = 0;
+    }
+
+    // Išvedamas sutvarkytas masyvas
+    for (int i = 0; i < skaiciu_kiekis; i++)
+    {
+        cout << "[" << skaiciai[i] << "]";
+    }
+
+	return 0;
+}
+```
+
+Rezultatai:
+
+```
+[0][0][0][0][0]
+```
+
+### Pavyzdys 12
+
+Kodas:
+
+```cpp
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    // Sukuriamas tuščias skaičių masyvas
+    int skaiciai[5] = {0};
+    int skaiciu_kiekis = 5;
+
+    // Išvedamas skaičių masyvas
+    for (int i = 0; i < skaiciu_kiekis; i++)
+    {
+        cout << "[" << skaiciai[i] << "]";
+    }
+
+	return 0;
+}
+```
+
+Rezultatai:
+
+```
+[0][0][0][0][0]
+```
+
+### Pavyzdys 13
 
 Kodas:
 
