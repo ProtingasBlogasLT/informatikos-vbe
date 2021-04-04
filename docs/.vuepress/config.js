@@ -174,9 +174,9 @@ module.exports = {
           ]
         },
         {
-          title: 'Objektinis programavimas',
+          title: 'Struktūros',
           children: [
-            '/programavimas-cpp/objektinis-programavimas/',
+            '/programavimas-cpp/strukturos/',
           ]
         },
       ],

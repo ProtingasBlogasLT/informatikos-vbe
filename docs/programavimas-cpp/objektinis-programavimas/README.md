@@ -1,3 +1,0 @@
-# Objektinis programavimas
-
-Informacija ruošiama.
