@@ -1,5 +1,7 @@
 # Atnaujinimai
 
+**2021-04-04**. Išimta registracijos į paskaitas (2020-2021 m. m.) forma.
+
 **2021-04-03**. Pridėta daugiau užduočių prie ciklo `while` ir ciklo `do while`. Pridėti užduočių sprendimai prie ciklo `while` ir ciklo `do while`. Pridėta daugiau pavyzdžių prie vienmačių masyvų.
 
 **2021-03-31**. Atnaujintas paskaitų (2020-2021 m. m.) tvarkaraštis. Sutvarkyta `for` ciklo užduočių numeracija. Pridėti vaizdo įrašai prie atitinkamų temų (loginiai patikrinimo operatoriai, patikrinimo sąlyga `switch`, ciklai, ciklas `for`, ciklas `while`).
