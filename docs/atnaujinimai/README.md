@@ -1,6 +1,6 @@
 # Atnaujinimai
 
-**2021-04-04**. Išimta registracijos į paskaitas (2020-2021 m. m.) forma.
+**2021-04-04**. Išimta registracijos į paskaitas (2020-2021 m. m.) forma. Atnaujintas paskaitų (2020-2021 m. m.) tvarkaraštis.
 
 **2021-04-03**. Pridėta daugiau užduočių prie ciklo `while` ir ciklo `do while`. Pridėti užduočių sprendimai prie ciklo `while` ir ciklo `do while`. Pridėta daugiau pavyzdžių prie vienmačių masyvų.
 

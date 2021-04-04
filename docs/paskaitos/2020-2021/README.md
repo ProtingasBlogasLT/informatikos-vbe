@@ -44,7 +44,7 @@ Paskaitų tvarkaraštis sudaromas norintiems mokytis ar pagilinti žinias tik pr
 | 2021-03-27 (šeštadienis) | 13 val. | Papildoma konsultacija | [Konsultacijos įrašas (51:40 min.)](https://www.youtube.com/watch?v=LjdsEOnkreM) |
 | 2021-03-29 (pirmadienis) | 18 val. | Loginiai patikrinimo operatoriai. Patikrinimo sąlyga `switch`. Įžanga į ciklus. Ciklas `for` (pradžia) | [Paskaitos įrašas (2:08 val.)](https://www.youtube.com/watch?v=V3Pang6MgOs) |
 | 2021-03-30 (antradienis) | 18 val. | Ciklas `for` (pratęsimas). Įžanga į ciklą `while` | [Paskaitos įrašas (2:09 val.)](https://www.youtube.com/watch?v=F1ohvK52UG4) |
-| **2021-04-03 (šeštadienis)** | **13 val.** | **Papildoma konsultacija** | **Vyks ([tiesioginę transliaciją rasite čia](https://www.youtube.com/channel/UCP3MANaEkoW4LXa74e1xzgQ))** |
+| 2021-04-03 (šeštadienis) | 13 val. | Papildoma konsultacija | [Konsultacijos įrašas (6:53 min.)](https://www.youtube.com/watch?v=PRYciMNjg7o) |
 | **2021-04-06 (antradienis)** | **18 val.** | **Ciklas `while`. Ciklas `do while`** | **Vyks ([tiesioginę transliaciją rasite čia](https://www.youtube.com/channel/UCP3MANaEkoW4LXa74e1xzgQ))** |
 | **2021-04-10 (šeštadienis)** | **13 val.** | **Papildoma konsultacija** | **Vyks ([tiesioginę transliaciją rasite čia](https://www.youtube.com/channel/UCP3MANaEkoW4LXa74e1xzgQ))** |
 | 2021-04-12 (pirmadienis) | 18 val. | Masyvai. Vienmatis masyvas | Suplanuota |
