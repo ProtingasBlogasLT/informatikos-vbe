@@ -32,14 +32,14 @@
 
 ## Kintamųjų (duomenų) tipai
 
-| Kintamojo tipas | Apibūdinimas | Pavyzdinė reikšmė |
-| --------------- | ------------ | ----------------- |
-| `int` | sveikasis skaičius | `4` |
-| `float` | skaičius per kablelį | `8.6584845` |
-| `double` | skaičius per kablelį, 2x tikslesnis už `float` | `6.15788728245154` |
-| `char` | raidė, simbolis | `'n'` |
-| `string` | keli simboliai, žodis, tekstas | `"pastatas"` |
-| `bool` | tiesa / netiesa, tik `true` arba `false` | `true` |
+| Kintamojo tipas | Apibūdinimas | Pavyzdinė reikšmė | Mažiausia reikšmė | Didžiausia reikšmė | Ilgis baitais |
+| - | - | - | - | - | - |
+| `int` | sveikasis skaičius | `15` | -2147483648 | 2147483647 | 4 |
+| `float` | skaičius per kablelį | `8.6584845` | 1.18x10<sup>38</sup> | 3.40x10<sup>38</sup> | 4 |
+| `double` | skaičius per kablelį, 2x tikslesnis už `float` | `6.15788728245154` | 2.23x10<sup>-308</sup> | 1.79x10<sup>308</sup> | 8 |
+| `char` | raidė, simbolis | `'n'` | -128 | 127 | 1 |
+| `string` | keli simboliai, žodis, tekstas | `"pastatas"` | - | - | - |
+| `bool` | tiesa / netiesa, tik `true` arba `false` | `true` | `false` | `true` | 1 |
 
 ## Pavyzdžiai
 
