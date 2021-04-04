@@ -55,13 +55,13 @@ Paskaitų tvarkaraštis sudaromas norintiems mokytis ar pagilinti žinias tik pr
 | 2021-04-20 (antradienis) | 18 val. | Funkcijos | Suplanuota |
 | 2021-04-24 (šeštadienis) | 13 val. | Papildoma konsultacija | Suplanuota |
 | 2021-04-26 (pirmadienis) | 18 val. | Funkcijos | Suplanuota |
-| 2021-04-27 (antradienis) | 18 val. | Objektinis programavimas | Suplanuota |
+| 2021-04-27 (antradienis) | 18 val. | Struktūros | Suplanuota |
 | 2021-04-28 (trečiadienis) | 18 val. | Grafinė vartotojo sąsaja (GUI) | Suplanuota |
 | 2021-05-01 (šeštadienis) | 13 val. | Papildoma konsultacija | Suplanuota |
-| 2021-05-03 (pirmadienis) | 18 val. | Objektinis programavimas | Suplanuota |
-| 2021-05-04 (antradienis) | 18 val. | Objektinis programavimas | Suplanuota |
+| 2021-05-03 (pirmadienis) | 18 val. | Struktūros | Suplanuota |
+| 2021-05-04 (antradienis) | 18 val. | Struktūros | Suplanuota |
 | 2021-05-08 (šeštadienis) | 13 val. | Papildoma konsultacija | Suplanuota |
-| 2021-05-10 (pirmadienis) | 18 val. | Objektinis programavimas | Suplanuota |
+| 2021-05-10 (pirmadienis) | 18 val. | Struktūros | Suplanuota |
 | 2021-05-11 (antradienis) | 18 val. | Ankstesnių metų egzaminų užduotys | ... |
 | 2021-05-12 (trečiadienis) | 18 val. | Grafinė vartotojo sąsaja (GUI) | Suplanuota |
 | 2021-05-15 (šeštadienis) | 13 val. | Papildoma konsultacija | ... |
