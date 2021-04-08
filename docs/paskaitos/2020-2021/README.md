@@ -31,8 +31,8 @@ Paskaitų tvarkaraštis sudaromas norintiems mokytis ar pagilinti žinias tik pr
 | 2021-03-11 (ketvirtadienis) | - | Informacija apie C++ kursą | [Vaizdo įrašas (9:08 min.)](https://www.youtube.com/watch?v=QEj41Spf0AE) |
 | 2021-03-11 (ketvirtadienis) | - | Darbo aplinka (Code Blocks) | [Vaizdo pamoka (22:02 min.)](https://www.youtube.com/watch?v=z350Cnw7IB0) |
 | 2021-03-11 (ketvirtadienis) | - | Darbo aplinka (Visual Studio Community) | [Vaizdo pamoka (33:35 min.)](https://www.youtube.com/watch?v=dkhjeOGf2h0) |
-| 2021-03-13 (šeštadienis) | 13 val. | Papildoma konsultacija, jeigu nepavyksta susitvarkyti darbo aplinkos | Įvyko |
-| 2021-03-14 (sekmadienis) | 13 val. | Papildoma konsultacija, jeigu nepavyksta susitvarkyti darbo aplinkos | Įvyko |
+| 2021-03-13 (šeštadienis) | 13 val. | Papildoma konsultacija, jeigu nepavyksta susitvarkyti darbo aplinkos | Įvyko, įrašo nėra |
+| 2021-03-14 (sekmadienis) | 13 val. | Papildoma konsultacija, jeigu nepavyksta susitvarkyti darbo aplinkos | Įvyko, įrašo nėra |
 | 2021-03-15 (pirmadienis) | 18 val. | Pradžia. Aplinkos pasiruošimas. Kodo tvarkingumas. Kintamieji. Informacijos išvedimas į konsolę (`cout`) | [Paskaitos įrašas (3:00 val.)](https://www.youtube.com/watch?v=Pg4cI3nXs-Q) |
 | 2021-03-16 (antradienis) | 18 val. | Discord ir Facebook grupės. C++ programos struktūra. Komentarai. Aritmetiniai veiksmai | [Paskaitos įrašas (2:12 val.)](https://www.youtube.com/watch?v=Bvk2d1fAGPo) |
 | 2021-03-17 (trečiadienis) | - | Papildoma informacija apie `using namespace std;` eilutę | [Vaizdo pamoka (14:49 min.)](https://www.youtube.com/watch?v=etQX4Mme2f4) |
@@ -45,12 +45,12 @@ Paskaitų tvarkaraštis sudaromas norintiems mokytis ar pagilinti žinias tik pr
 | 2021-03-29 (pirmadienis) | 18 val. | Loginiai patikrinimo operatoriai. Patikrinimo sąlyga `switch`. Įžanga į ciklus. Ciklas `for` (pradžia) | [Paskaitos įrašas (2:08 val.)](https://www.youtube.com/watch?v=V3Pang6MgOs) |
 | 2021-03-30 (antradienis) | 18 val. | Ciklas `for` (pratęsimas). Įžanga į ciklą `while` | [Paskaitos įrašas (2:09 val.)](https://www.youtube.com/watch?v=F1ohvK52UG4) |
 | 2021-04-03 (šeštadienis) | 13 val. | Papildoma konsultacija | [Konsultacijos įrašas (6:53 min.)](https://www.youtube.com/watch?v=PRYciMNjg7o) |
-| **2021-04-06 (antradienis)** | **18 val.** | **Ciklas `while`. Ciklas `do while`** | **Vyks ([tiesioginę transliaciją rasite čia](https://www.youtube.com/channel/UCP3MANaEkoW4LXa74e1xzgQ))** |
+| 2021-04-06 (antradienis) | 18 val. | Ciklas `while`. Ciklas `do while` | [Paskaitos įrašas (2:00 val.)](https://www.youtube.com/watch?v=sUuOY0gZq9I) |
 | **2021-04-10 (šeštadienis)** | **13 val.** | **Papildoma konsultacija** | **Vyks ([tiesioginę transliaciją rasite čia](https://www.youtube.com/channel/UCP3MANaEkoW4LXa74e1xzgQ))** |
-| 2021-04-12 (pirmadienis) | 18 val. | Masyvai. Vienmatis masyvas | Suplanuota |
-| 2021-04-13 (antradienis) | 18 val. | Dvimatis masyvas | Suplanuota |
+| **2021-04-12 (pirmadienis)** | **18 val.** | **Masyvai. Vienmatis masyvas** | **Vyks ([tiesioginę transliaciją rasite čia](https://www.youtube.com/channel/UCP3MANaEkoW4LXa74e1xzgQ))** |
+| **2021-04-13 (antradienis)** | **18 val.** | **Vienmatis masyvas. Dvimatis masyvas** | **Vyks ([tiesioginę transliaciją rasite čia](https://www.youtube.com/channel/UCP3MANaEkoW4LXa74e1xzgQ))** |
 | 2021-04-14 (trečiadienis) | 18 val. | Grafinė vartotojo sąsaja (GUI) | Suplanuota |
-| 2021-04-17 (šeštadienis) | 13 val. | Papildoma konsultacija | Suplanuota |
+| **2021-04-17 (šeštadienis)** | **13 val.** | **Papildoma konsultacija** | **Vyks ([tiesioginę transliaciją rasite čia](https://www.youtube.com/channel/UCP3MANaEkoW4LXa74e1xzgQ))** |
 | 2021-04-19 (pirmadienis) | 18 val. | Darbas su duomenų failais | Suplanuota |
 | 2021-04-20 (antradienis) | 18 val. | Funkcijos | Suplanuota |
 | 2021-04-24 (šeštadienis) | 13 val. | Papildoma konsultacija | Suplanuota |
@@ -80,4 +80,4 @@ Paskaitų tvarkaraštis sudaromas norintiems mokytis ar pagilinti žinias tik pr
 
 ## Registracija
 
-Registracija pasibaigus.
+Registracija pasibaigusi.
