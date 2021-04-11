@@ -554,5 +554,5 @@ Sukurkite žodyną, kur vartotojas galėtų įvesti lietuvišką žodį ir jam b
 
 ### Užduotis 10 (sudėtingesnė)
 
-- Susikurkite string tipo kintamąjį, kuriame saugotumėte norimą tekstą.
+- Susikurkite `string` tipo kintamąjį, kuriame saugotumėte norimą tekstą.
 - Raskite kuri raidė tekste kartojasi daugiausiai kartų.
