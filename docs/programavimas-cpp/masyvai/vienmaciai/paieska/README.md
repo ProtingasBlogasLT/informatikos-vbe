@@ -323,30 +323,40 @@ using namespace std;
 
 int main()
 {
+    // Sukuriamas temperatūrų masyvas
     double temperaturos[] = { 14.5, 25.2, 23.4, 10.9, 11.25 };
     int temperaturu_kiekis = 5;
 
+    // Sukuriami kintamieji mažiausiai ir didžiausiai temperatūroms saugoti
     double maziausia_temperatura = temperaturos[0],
         didziausia_temperatura = temperaturos[0];
 
+    // Einama per visas temperatūras
     for (int i = 0; i < temperaturu_kiekis; i++)
     {
+        // Tikrinama ar šita temperatūra didesnė už didžiausią
         if (temperaturos[i] > didziausia_temperatura)
         {
+            // Atnaujinama didžiausia temperatūra
             didziausia_temperatura = temperaturos[i];
         }
+
+        // Tikrinama ar šita temperatūra mažesnė už mažiausią
         if (temperaturos[i] < maziausia_temperatura)
         {
+            // Atnaujinama mažiausia temperatūra
             maziausia_temperatura = temperaturos[i];
         }
     }
 
+    // Išvedamos visos temperatūros
     cout << "Temperaturos\n";
     for (int i = 0; i < temperaturu_kiekis; i++)
     {
         cout << temperaturos[i] << " ";
     }
 
+    // Išvedami rasti atsakymai
     cout << "\nDidziausia temperatura\n" << didziausia_temperatura << endl;
     cout << "Maziausia temperatura\n" << maziausia_temperatura << endl;
     cout << "Skirtumas tarp siu temperaturu\n"
@@ -381,9 +391,13 @@ using namespace std;
 
 int main()
 {
-    string vardai[] = { "Jonas", "Gabrielius", "Greta", "Paulius", "Gabrielius", "Julija" };
+    // Sukuriami masyvai vardams ir amžiams saugoti
+    string vardai[] = { "Jonas", "Gabrielius", "Greta", "Paulius",
+                        "Gabrielius", "Julija" };
     int amziai[] = { 56, 23, 25, 21, 30, 34 };
     int kiekis = 6;
+
+    // Išvedami pradiniai duomenys lentelės pavidale
 
     cout << "+--------------+--------+\n";
     cout << "| Vardas       | Amzius |\n";
@@ -397,33 +411,47 @@ int main()
 
     cout << "+--------------+--------+\n\n";
 
+    // Sukuriami kintamieji pirmam ilgiausiam vardui ieškoti
     string pirm_ilg_vard = "";
     int pirmo_ilg_vard_ind = 0;
 
+    // Einama per duomenis
     for (int i = 0; i < kiekis; i++)
     {
+        // Tikrinama ar vardas ilgesnis nei ilgiausias vardas
         if (vardai[i].length() > pirm_ilg_vard.length())
         {
+            // Atnaujinama ilgiausio vardo reikšmė
             pirm_ilg_vard = vardai[i];
+
+            // Atnaujinamas ilgiausio vardo indeksas
             pirmo_ilg_vard_ind = i;
         }
     }
 
+    // Išvedama informacija apie pirmą ilgiausią rastą vardą ir žmogaus vardą
     cout << "Pirmas rastas ilgiausias vardas:\n";
     cout << vardai[pirmo_ilg_vard_ind] << " " << amziai[pirmo_ilg_vard_ind] << "\n\n";
 
+    // Sukuriami kintamieji paskutiniam ilgiausiam vardui ieškoti
     string pask_ilg_vard = "";
     int pask_ilg_vard_ind = 0;
 
+    // Einama per duomenis
     for (int i = 0; i < kiekis; i++)
     {
+        // Tikrinama ar vardas ilgesnis nei ilgiausias vardas arba lygus
         if (vardai[i].length() >= pask_ilg_vard.length())
         {
+            // Atnaujinama ilgiausio vardo reikšmė
             pask_ilg_vard = vardai[i];
+
+            // Atnaujinamas ilgiausio vardo indeksas
             pask_ilg_vard_ind = i;
         }
     }
 
+    // Išvedama informacija apie paskutinį ilgiausią rastą vardą ir žmogaus vardą
     cout << "Paskutinis rastas ilgiausias vardas:\n";
     cout << vardai[pask_ilg_vard_ind] << " " << amziai[pask_ilg_vard_ind] << endl;
 
