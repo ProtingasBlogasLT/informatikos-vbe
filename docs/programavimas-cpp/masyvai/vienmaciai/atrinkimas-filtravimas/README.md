@@ -421,4 +421,105 @@ Atrinkti zmones
 
 ## Užduotys
 
-Informacija ruošiama.
+### Užduotis 1
+
+- Susikurkite skaičių masyvą.
+- Išveskite šiuos skaičius.
+- Išveskite visus lyginius skaičius iš šio masyvo.
+- Išveskite visus nelyginius skaičius iš šio masyvo.
+
+Pavyzdžiui:
+
+```
+Skaičiai: 5 8 7 6 5 4 7
+Lyginiai: 8 6 4
+Nelygiai: 5 7 5 7
+```
+
+- Raskite lyginių skaičių sumą.
+- Raskite nelyginių skaičių sumą.
+- Raskite lyginių ar nelyginių skaičių suma yra didesnė ir koks skirtumas tarp jų.
+
+### Užduotis 2
+
+- Susikurkite skaičių masyvą. Raskite skaičių vidurkį.
+- Atrinkite į kitą masyvą skaičius, kurie yra didesni už vidurkį.
+- Išveskite pradinius ir atrinktus duomenis.
+
+### Užduotis 3
+
+- Leiskite vartotojui suvesti norimą kiekį vardų.
+- Leiskite vartotojui pasirinkti raidę, pagal kurią vyks vardų atrinkimas.
+- Atrinkite vardus, kurie prasideda pasirinkta raide.
+- Atrinkite vardus, kurie turi nurodytą raidę, bet kurioje vardo vietoje.
+- Išveskite suvestus duomenis, bei atrinktus pagal kažkurį kriterijų.
+
+### Užduotis 4
+
+- Susikurkite `string` tipo kintamąjį, į kurį vartotojas gali įvesti bet kokį norimą žodį.
+- Iš `string` kintamojo atrinkite visas balses į naują `char` masyvą. Balsės: `{a, e, i, o, u}`.
+- Raskite rastų balsių kiekį.
+- Papildomai: kurių balsių žodyje atsikartojo daugiausiai?
+
+### Užduotis 5
+
+- Turite informaciją apie paskutinius užsakymus parduotuvėje (užsakymų sumos).
+- Išveskite visus šiuos duomenis.
+- Leiskite vartotojui pasirinkti užsakymo sumą nuo kurios atfiltruoti užsakymus.
+- Atrinkite užsakymus, kurie didesni nei nurodyta suma.
+- Atvaizduokite atrinktus duomenis.
+
+### Užduotis 6
+
+- Turite informaciją apie parduotuvėje turimas prekes (prekių pavadinimai, kiekiai, kainos).
+- Išveskite pradinius duomenis lentelės pavidale.
+- Atrinkite prekes, kurių yra turima daugiau nei vartotojo pasirinktas kiekis.
+- Išveskite atrinktas pagal kiekį prekes lentelėje.
+- Atrinkite prekes, kurių kaina patenka tarp vartotojo nurodytų rėžių.
+- Išveskite atrinktas pagal kainą prekes lentelėje.
+
+### Užduotis 7
+
+- Turite informaciją apie komandos varžybas (pelnyti taškai ir laimėta ar ne).
+- Atrinkite visas varžybas, kuriose buvo laimėta.
+- Atrinkite visas varžybas, kuriose buvo pralaimėta.
+- Raskite laimėtų ir pralaimėtų varžybų taškų vidurkius. Koks skirtumas tarp šių taškų?
+- Išveskite pradinius ir atrinktus duomenis.
+
+### Užduotis 8
+
+- Leiskite vartotojui įvesti norimą kiekį skaičių.
+- Susikurkite kitą skaičių masyvą, kurio reikšmes būtų lygios pradinio skaičių masyvo reikšmių kvadratams. Pavyzdžiui, jei turimas masyvas `array = {1, 2, 3}`, turi būti sukurtas kitas masyvas su reikšmėmis `pow_array = {1, 4, 9}`.
+- Iš naujo masyvo atrinkite visus skaičius, kurie dalinasi iš 3.
+- Išveskite pradinius skaičius, pakeistus skaičius, bei atrinktus skaičius.
+
+### Užduotis 9
+
+- Turite informaciją apie vairuotojo kiekvieną dieną nuvažiuotus kilometrus.
+- Į naują masyvą atrinkite labai ilgas keliones (ilgesnes nei 100 km).
+- Į naują masyvą atrinkite labai trumpas keliones (trumpesnes nei 30 km).
+- Raskite trumpų ir ilgų kelionių sumas ir vidurkius.
+- Raskite koks skirtumas tarp trumpų ir ilgų kelionių vidurkių.
+- Išveskite pradinius duomenis, atrinktus duomenis ir kitus rastus atsakymus.
+
+### Užduotis 10
+
+- Susikurkite žodžių masyvą.
+- Raskite kiekvieno žodžio balsių kiekius ir sudėkite į atskirą skaičių masyvą.
+- Atrinkite visus žodžius, kurie turi lyginį kiekį balsių.
+- Išveskite pradinius ir atrinktus duomenis.
+
+### Užduotis 11
+
+- Studentas rašo baigiamąjį darbą. Turite informaciją apie tai kiek puslapių jis parašė kiekvieną dieną.
+- Raskite kiek vidutiniškai puslapių per dieną parašo studentas.
+- Atrinkite tuos kartus kai studentas parašė daugiau puslapių nei vidutiniškai.
+- Išveskite pradinius ir atrinktus duomenis.
+
+### Užduotis 12
+
+- Turite penkių studentų pažymius (atskiruose masyvuose).
+- Į naują masyvą atrinkite visus visų studentų pažymius, kurie yra lygūs arba didesni nei 8.
+- Raskite atrinktų pažymių vidurkį.
+- Raskite kokią procentinę dalį iš visų pažymių sudaro šie atrinkti geri pažymiai. Pavyzdžiui, jei pirmas studentas turėjo pažymius = `{7, 8, 9}`, antras = `{9, 5, 3}`, atrinkti bus = `{8, 9, 9}`, šių atrinktų pažymių yra 3, o iš viso yra 6 pažymiai, todėl gerų pažymių yra 50 % nuo visų pažymių.
+- Išveskite visų studentų pažymius, atrinktus gerus pažymius, bei visus rastus skaičiavimus.
