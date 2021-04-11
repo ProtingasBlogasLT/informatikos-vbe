@@ -47,6 +47,7 @@ Paskaitų tvarkaraštis sudaromas norintiems mokytis ar pagilinti žinias tik pr
 | 2021-04-03 (šeštadienis) | 13 val. | Papildoma konsultacija | [Konsultacijos įrašas (6:53 min.)](https://www.youtube.com/watch?v=PRYciMNjg7o) |
 | 2021-04-06 (antradienis) | 18 val. | Ciklas `while`. Ciklas `do while` | [Paskaitos įrašas (1:58 val.)](https://www.youtube.com/watch?v=sUuOY0gZq9I) |
 | 2021-04-10 (šeštadienis) | 13 val. | Papildoma konsultacija | Įvyko, įrašo nėra |
+| 2021-04-11 (sekmadienis) | - | Aplinkos pasiruošimas C++ GUI programų kūrimui | [Vaizdo įrašas (29:29 min.)](https://www.youtube.com/watch?v=oiYD_FdgIII) |
 | **2021-04-12 (pirmadienis)** | **18 val.** | **Masyvai. Vienmatis masyvas** | **Vyks ([tiesioginę transliaciją rasite čia](https://www.youtube.com/channel/UCP3MANaEkoW4LXa74e1xzgQ))** |
 | **2021-04-13 (antradienis)** | **18 val.** | **Vienmatis masyvas. Dvimatis masyvas** | **Vyks ([tiesioginę transliaciją rasite čia](https://www.youtube.com/channel/UCP3MANaEkoW4LXa74e1xzgQ))** |
 | 2021-04-14 (trečiadienis) | 18 val. | Grafinė vartotojo sąsaja (GUI) | Suplanuota |
