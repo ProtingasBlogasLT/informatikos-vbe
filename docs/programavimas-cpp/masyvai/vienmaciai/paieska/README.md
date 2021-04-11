@@ -263,27 +263,23 @@ int main()
 
     cout << endl;
 
-    // Sukuriami kintamieji ilgiausio vardo ir jo ilgio užsaugojimui
+    // Sukuriamas kintamasis ilgiausio vardo užsaugojimui
     string ilgiausias_vardas = "";
-    int ilgiausio_vardo_ilgis = 0;
 
     // Einama per visus turimus vardus masyve
     for (int i = 0; i < vardu_kiekis; i++)
     {
         // Tikrinama ar vardas yra ilgesnis nei ilgiausias
-        if (vardai[i].length() > ilgiausio_vardo_ilgis)
+        if (vardai[i].length() > ilgiausias_vardas.length())
         {
             // Atnaujinama ilgiausio vardo reikšmė
             ilgiausias_vardas = vardai[i];
-
-            // Atnaujinama ilgiausio vardo ilgio reikšmė
-            ilgiausio_vardo_ilgis = vardai[i].length();
         }
     }
 
     // Išvedami atsakymai
     cout << "Ilgiausias rastas vardas: " << ilgiausias_vardas << endl;
-    cout << "Ilgiausio rasto vardo ilgis: " << ilgiausio_vardo_ilgis << endl;
+    cout << "Ilgiausio rasto vardo ilgis: " << ilgiausias_vardas.length() << endl;
 
     return 0;
 }
@@ -373,6 +369,165 @@ Skirtumas tarp siu temperaturu
 14.3
 ```
 
+### Pavyzdys 7
+
+Kodas:
+
+```cpp
+#include <iostream>
+#include <string>
+#include <iomanip>
+using namespace std;
+
+int main()
+{
+    string vardai[] = { "Jonas", "Gabrielius", "Greta", "Paulius", "Gabrielius", "Julija" };
+    int amziai[] = { 56, 23, 25, 21, 30, 34 };
+    int kiekis = 6;
+
+    cout << "+--------------+--------+\n";
+    cout << "| Vardas       | Amzius |\n";
+    cout << "+--------------+--------+\n";
+
+    for (int i = 0; i < kiekis; i++)
+    {
+        cout << "| " << setw(12) << left << vardai[i] << " | "
+            << setw(6) << left << amziai[i] << " |\n";
+    }
+
+    cout << "+--------------+--------+\n\n";
+
+    string pirm_ilg_vard = "";
+    int pirmo_ilg_vard_ind = 0;
+
+    for (int i = 0; i < kiekis; i++)
+    {
+        if (vardai[i].length() > pirm_ilg_vard.length())
+        {
+            pirm_ilg_vard = vardai[i];
+            pirmo_ilg_vard_ind = i;
+        }
+    }
+
+    cout << "Pirmas rastas ilgiausias vardas:\n";
+    cout << vardai[pirmo_ilg_vard_ind] << " " << amziai[pirmo_ilg_vard_ind] << "\n\n";
+
+    string pask_ilg_vard = "";
+    int pask_ilg_vard_ind = 0;
+
+    for (int i = 0; i < kiekis; i++)
+    {
+        if (vardai[i].length() >= pask_ilg_vard.length())
+        {
+            pask_ilg_vard = vardai[i];
+            pask_ilg_vard_ind = i;
+        }
+    }
+
+    cout << "Paskutinis rastas ilgiausias vardas:\n";
+    cout << vardai[pask_ilg_vard_ind] << " " << amziai[pask_ilg_vard_ind] << endl;
+
+    return 0;
+}
+```
+
+Rezultatai:
+
+```
++--------------+--------+
+| Vardas       | Amzius |
++--------------+--------+
+| Jonas        | 56     |
+| Gabrielius   | 23     |
+| Greta        | 25     |
+| Paulius      | 21     |
+| Gabrielius   | 30     |
+| Julija       | 34     |
++--------------+--------+
+
+Pirmas rastas ilgiausias vardas:
+Gabrielius 23
+
+Paskutinis rastas ilgiausias vardas:
+Gabrielius 30
+```
+
 ## Užduotys
 
-Informacija ruošiama.
+### Užduotis 1
+
+
+
+### Užduotis 2
+
+
+
+### Užduotis 3
+
+
+
+### Užduotis 4
+
+
+
+### Užduotis 5
+
+
+
+### Užduotis 6
+
+
+
+### Užduotis 7
+
+
+
+### Užduotis 8
+
+
+
+### Užduotis 9
+
+
+
+### Užduotis 10
+
+
+
+### Užduotis 11
+
+
+
+### Užduotis 12
+
+
+
+### Užduotis 13
+
+
+
+### Užduotis 14
+
+
+
+### Užduotis 15
+
+
+
+### Užduotis 16
+
+
+
+### Užduotis 17
+
+
+
+### Užduotis 18
+
+
+
+### Užduotis 19
+
+
+
+### Užduotis 20
