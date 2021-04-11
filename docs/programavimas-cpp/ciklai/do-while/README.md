@@ -2,7 +2,7 @@
 
 ## Vaizdo pamoka
 
-Informacija ruošiama.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sUuOY0gZq9I?start=4472&end=6797" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Apie ciklą `do while`
 

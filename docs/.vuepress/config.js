@@ -179,6 +179,13 @@ module.exports = {
             '/programavimas-cpp/strukturos/',
           ]
         },
+        {
+          title: 'Papildomai: GUI (Grafinė vartotojo sąsaja)',
+          children: [
+            '/programavimas-cpp/gui/',
+            '/programavimas-cpp/gui/aplinkos-pasiruosimas/',
+          ]
+        },
       ],
       // '/egzaminu-uzduotys/': [
       //   {
