@@ -848,8 +848,6 @@ Y(*
 
 ### Užduotis 8
 
-<!-- leiskite vartotojui suvesti norimą kiekį skaičių bei leiskite įvesti laispnio kėlimo pasirinkimą, į naują masyvą sukelkite tų pačių skaičių kvadratus, bei į dar vieną masyvą sukelkite tuos pačius skaičius pakeltus norimu laipsnius, visus šiuos skaičius išveskite trijose skirtingose eilutėse, papildomai: išveskite lentelės pavidalu, kur pirmas stupelis pats skaičius, tada skaičiaus kvadratas, tada kažkoks pakėlimas laipsniu -->
-
 - Susikurkite skaičių masyvą ir leiskite vartotojui jį užpildyti norimu kiekiu skaičių.
 - Leiskite vartotojui įvesti norimą laipsnį (skaičių, kuriuo bus pakelti suvesti skaičiai).
 - Sukurkite naują masyvą į kurį paskaičiuokite ir sudėkite suvestų skaičių kvadratų reikšmes.
@@ -857,9 +855,14 @@ Y(*
 - Visus atsakymus išveskite atskirose eilutėse. Pavyzdžiui:
 
 ```
-Suvesti skaičiai: 2 4 9 3
-Šių skaičių kvadratai: 4 16 81 9
-Šie skaičiai pakelti 5-u laipsniu: 32 1024 59049 243
+Suvesti skaičiai:
+2 4 9 3
+
+Šių skaičių kvadratai:
+4 16 81 9
+
+Šie skaičiai pakelti 5-u laipsniu:
+32 1024 59049 243
 ```
 
 - Papildomai: visus atsakymus išveskite lentelės pavidalu. Pavyzdžiui:
