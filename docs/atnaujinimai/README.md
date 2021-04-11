@@ -1,5 +1,7 @@
 # Atnaujinimai
 
+**2021-04-11**. Atnaujintas paskaitų (2020-2021 m. m.) tvarkaraštis. Pridėti vaizdo įrašai prie ciklo `while` ir ciklo `do while` temų.
+
 **2021-04-08**. Atnaujintas paskaitų (2020-2021 m. m.) tvarkaraštis.
 
 **2021-04-04**. Išimta registracijos į paskaitas (2020-2021 m. m.) forma. Atnaujintas paskaitų (2020-2021 m. m.) tvarkaraštis. Objektinio programavimo skyrius pervadintas į struktūras. Papildyta informacija prie kintamųjų tipų (pridėtos mažiausios ir didžiausios reikšmės, ilgis baitais).
