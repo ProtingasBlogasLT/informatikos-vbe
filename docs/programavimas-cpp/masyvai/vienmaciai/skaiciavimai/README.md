@@ -365,4 +365,71 @@ Lyginiu skaiciu vidurkis: 4.66667
 
 ## Užduotys
 
-Informacija ruošiama.
+### Užduotis 1
+
+- Susikurkite skaičių masyvą, kurį reikšmėmis galite užpildyti tiesiai programoje arba leisti suvesti vartotojui.
+- Raskite šių skaičių sumą, vidurkį.
+- Raskite skaičių, didesnių už vidurkį, kiekį.
+- Išveskite turimus skaičius, bei visus gautus atsakymus.
+
+### Užduotis 2
+
+- Susikurkite skaičių masyvą, kurį reikšmėmis galite užpildyti tiesiai programoje arba leisti suvesti vartotojui.
+- Iš šių skaičių raskite sumą tų skaičių, kurie yra lyginiai ir yra didesnių nei bendras turimų skaičių vidurkis.
+- Išveskite visus pradinius skaičius ir atsakymus.
+
+### Užduotis 3
+
+- Vartotojui leiskite suvesti dviejų studentų pažymius (į du skirtingus masyvus).
+- Paskaičiuokite kiekvieno studentų pažymių vidurkius.
+- Išveskite kiekvieno studento pažymius ir gautus vidurkius.
+- Nurodykite, kurio studento vidurkis yra didesnis, bei per kokią dalį vidurkis skiriasi.
+
+### Užduotis 4
+
+- Turite viso mėnesio, kiekvienos dienos temperatūras.
+- Raskite kiek dienų siekė 20 laipsnių ar buvo  šiltesnės nei 20 laispsnių ir koks tokių dienų vidurkis.
+- Raskite kiek dienų buvo mažiau nei 20 laipsnių ir koks tokių dienų vidurkis.
+- Raskite koks skirtumas tarp šiltų ir vėsesnių dienų vidurkių.
+- Kurių dienų (šiltesnių ar vėsesnių) buvo daugiau?
+- Išveskite pradinius duomenis, bei gautus atsakymus.
+
+### Užduotis 5
+
+- Studentas rašo baigiamąjį darbą ir jūs žinote po kiek puslapių kiekvieną dieną iki šiol jam pavyko parašyti.
+- Jūs taip pat žinote, kad galutinį dokumentą studentas turi pateikti už x dienų.
+- Pamėginkite paskaičiuoti ar studentas spės parašyti baigiamąjį darbą, jei sugebės išlaikyti tokį patį darbo tempą.
+- Išveskite gautus atsakymus.
+
+### Užduotis 6
+
+- Taksi įmonė turi 3 vairuotojus. Turite informaciją apie kiekvieno vairuotojo per dieną nuvažiuotų kilometrų informaciją, bei atliktų užsakymų (reisų) kiekį.
+- Raskite kiek vidutiniškai kilometrų per dieną nuvažiuoja kiekvienas vairuotojas.
+- Raskite kiek vidutiniškai atlieka užsakymų (reisų) per dieną kiekvienas vairuotojas.
+- Raskite kiek iš viso užsakymų (reisų) yra įvykdęs kiekvienas vairuotojas.
+- Raskite kiek visi įmonės vairuotojai vidutiniškai per dieną nuvažiuoja kilometrų.
+- Raskite kiek visi įmonės vairuotojai iš viso yra atlikę užsakymų (reisų).
+- Raskite, kuris vairuotojas vidutiniškai nuvažiuoja daugiausiai kilometrų per dieną.
+- Išveskite visą turimą pradinę informaciją, bei visus gautus atsakymus.
+
+### Užduotis 7
+
+- Krepšininkas treniruojasi varžyboms. Jūs turite informaciją apie tai kiek taškų jis įmetė per kiekvieną treniruotę.
+- Paskaičiuokite kiek vidutiniškai taškų jis įmeta per kiekvieną treniruotę.
+- Žinote koks yra bendras komandos vidurkis taškų vidurkis kiekvienoje treniruotėje.
+- Palyginkite šio krepšininko treniruočių taškų vidurkį su komandos vidurkiu. Kaip jam sekasi?
+- Išveskite turimus pradinius duomenis, bei gautus atsakymus.
+
+### Užduotis 8
+
+- Turite parduotuvės prekių informaciją (prekių pavadinimai, jų kiekiai, vieno vieneto kaina).
+- Raskite kiek parduotuvė uždirbtų jei būtų išpirktos visos turimos prekės.
+- Raskite kokia vidutinė vienos prekės kaina.
+- Visą pradinę informaciją išveskite lentelės pavidalu ir tuomet pateikite visus gautus skaičiavimus.
+
+### Užduotis 9
+
+- Jums yra žinoma kiek duonos kepalų kiekvieną dieną kepykla iškepdavo per praėjusias dvi savaites.
+- Jums yra žinoma, kiek artimiausios dviems savaitėms kepykla turi užsakymų.
+- Pamėginkite prognozuoti ar kepykla spės patenkinti visus būsimus užsakymus (galbūt jums galėtų padėti vidurkio paskaičiavimas ir palyginimas).
+- Išveskite pradinius duomenis ir gautus skaičiavimus.

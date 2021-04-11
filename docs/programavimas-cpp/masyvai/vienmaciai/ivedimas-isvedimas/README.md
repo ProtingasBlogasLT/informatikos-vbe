@@ -703,39 +703,125 @@ Iveskite 4-aji skaiciu: 1
 Ivesti skaiciai: [5][9][3][1]
 ```
 
+### Pavyzdys 14
+
+Kodas:
+
+```cpp
+#include <iostream>
+#include <string>
+using namespace std;
+
+int main()
+{
+    string zodis = "dramblys"; // čia tas pats kas char masyvas
+
+	for (int i = 0; i < zodis.length(); i++) // vietoj length() galima ir size()
+	{
+		cout << zodis[i] << " ";
+	}
+
+    return 0;
+}
+```
+
+Rezultatai:
+
+```
+d r a m b l y s
+```
+
 ## Užduotys
 
 ### Užduotis 1
 
 Sukurkite norimo dydžio skaičių masyvą, kuris iškart būtų užpildytas skaičiais.
 
-Šiuos skaičius išveskite du kartus:
+Šiuos skaičius išveskite tris kartus:
 
 - Pirmąjį kartą - išvedant visus skaičius toje pačioje eilutėje, atskiriant kableliu ir tarpu.
 - Antrąjį kartą - išvedant visus skaičius atskirose eilutėse, prieš kiekvieną skaičių parašant kelintasis tai skaičius, pavyzdžiui, "1-asis skaičius yra ...", tada "2-asis skaičius yra...".
+- Trečiąjį kartą - išvedant tik kas antrą skaičių iš masyvo, skaičius išvedant toje pačioje eilutėje, atskiriant tarpu.
 
-Taip pat, atlikite šiuos dalykus:
+Taip pat, atlikite šiuos veiksmus:
 
 - Išveskite pirmąjį skaičių iš masyvo.
 - Išveskite antrąjį skaičių iš masyvo.
 - Išveskite paskutinį skaičių iš masyvo.
-- (sunkesnė) Išveskite bet kurį, atsitiktinai parinktą skaičių iš masyvo.
+- Papildomai: išveskite bet kurį, atsitiktinai parinktą skaičių iš masyvo.
 
 ### Užduotis 2
 
-- Susikurkite du skaičių masyvus, kurie iškart būtų užpildyti duomenimis.
-- Vartotojui leiskite pasirinkti kurį skaičių masyvą parodyti ekrane.
-- Vartotojui pasirinkus, kurį masyvą parodyti, visus skaičius iš jo išveskite toje pačioje eilutėje, kiekvieną skaičių apskliaudžiant `[]` skliaustais.
+- Susikurkite vardų masyvą, kuris jau būtų užpildytas vardais.
+- Išveskite vardus sąrašo pavidalu, išvedant kelintas tai vardas, kad tai vardas ir išvedant patį vardą. Pavyzdžiui:
+
+```
+- 1-as vardas: Tomas.
+- 2-as vardas: Greta.
+- ...
+```
+
+- Papildomai: leiskite vartotojui pakeisti bet kurį vardą, įvedant vardo numerį, o po pakeitimo visas sąrašas turi atsivaizduoti dar kartą.
 
 ### Užduotis 3
 
-- Sukurkite norimo dydžio skaičių masyvą, kuriame nebūtų duomenų.
-- Leiskite vartotojui pasirinkti kiek duomenų jis nori įvesti, bei leiskite jam tuos duomenis įvesti, kiekvienoje įvedimo eilutėje nurodant kelintą skaičių jis įvedinėja.
+- Susikurkite simbolių (`char`) masyvą, kuris jau būtų užpildytas su jūsų pasirinktais simboliais.
+- Išveskite visus simbolius toje pačioje eilutėje, neatskiriant jokiu tarpu ar kitu simboliu. Pavyzdžiui:
+
+```
+*d&s^%d$dj#*
+```
+
+- Su šio masyvo simboliais nupieškite kvadratą. Pavyzdžiui:
+
+```
+*#%*
+(  $
+^52&
+```
+
+- Su šio masyvo simboliais nupieškite laiptus. Pavyzdžiui:
+
+```
+$
+#*
+Y(*
+&@@)
+```
+
+### Užduotis 4
+
+- Susikurkite du skaičių masyvus, kurie iškart būtų užpildyti duomenimis.
+- Vartotojui leiskite pasirinkti kurį skaičių masyvą (pirmą ar antrą) parodyti ekrane.
+- Vartotojui pasirinkus, kurį masyvą parodyti, visus jo skaičius išveskite toje pačioje eilutėje, kiekvieną skaičių apskliaudžiant laužtiniais (`[ ]`) skliaustais.
+
+### Užduotis 5
+
+- Sukurkite trijų studentų pažymių masyvus (tris atskirus masyvus) su duomenimis, kuriuose pažymiai gali būti rašomi per kablelį, o pažymių kiekis kiekviename masyve gali būti skirtingas.
+- Išveskite kiekvieną masyvą atskirose eilutėse, prieš kiekvieną masyvą parašant kas yra išvedama. O taip pat, pažymius rašyti toje pačioje eilutėje ir atskiriant vertikaliu brūkšniu. Pavyzdžiui:
+
+```
+1-o moksleivio pažymiai: 7.4 | 8 | 9.6 | 8 | 6.8
+2-o moksleivio pažymiai: 10 | 9.5 | 9.4 | 9.8 | 8.6 | 10 | 9.7
+3-o moksleivio pažymiai: 8 | 7 | 6.8
+```
+
+### Užduotis 6
+
+- Sukurkite skaičių masyvą, kuriame iš pradžių nebūtų duomenų.
+- Leiskite vartotojui pasirinkti kiek duomenų jis nori įvesti, bei leiskite jam tuos duomenis įvesti, kiekvienoje įvedimo eilutėje nurodant kelintą skaičių jis įvedinėja. Pavyzdžiui:
+
+```
+1-asis skaičius: ...
+2-asis skaičius: ...
+...
+```
+
 - Galiausiai visus skaičius išveskite gražiai, lentelės pavidalu, kur pirmas stulpelis parodytų kelintas tai skaičius, o antrame stulpelyje būtų skaičius iš masyvo. Pavyzdžiui:
 
 ```
 +-----+----------+
-| #   | Skaicius |
+| #   | Skaičius |
 +-----+----------+
 | 1   | 8        |
 | 2   | 15       |
@@ -745,4 +831,119 @@ Taip pat, atlikite šiuos dalykus:
 +-----+----------+
 ```
 
-- Po lentele išveskite kiek skaičių šiame masyve yra iš viso. Pavyzdžiui, "Skaičių lentelėje: 5".
+- Po lentele išveskite kiek skaičių šiame masyve yra iš viso. Pavyzdžiui: "Lentelėje yra 5 skaičiai".
+
+### Užduotis 7
+
+- Susikurkite vardų ir vardų ilgių masyvus.
+- Leiskite vartotojui suvesti norimą kiekį vardų.
+- Paskaičiuokite vardų ilgius ir sudėkite atsakymus į vardų ilgių masyvą.
+- Išveskite vardus ir jų ilgius sąrašo pavidalu. Pavyzdžiui:
+
+```
+- Vardo "Jonas" ilgis 5 simboliai.
+- Vardo "Gintarė" ilgis 7 simboliai.
+- ...
+```
+
+### Užduotis 8
+
+- Susikurkite skaičių masyvą ir leiskite vartotojui jį užpildyti norimu kiekiu skaičių.
+- Leiskite vartotojui įvesti norimą laipsnį (skaičių, kuriuo bus pakelti suvesti skaičiai).
+- Sukurkite naują masyvą į kurį paskaičiuokite ir sudėkite suvestų skaičių kvadratų reikšmes.
+- Sukurkite naują masyvą į kurį paskaičiuokite ir sudėkite suvestų skaičių, pakeltų nurodytu laipsniu, reikšmes.
+- Visus atsakymus išveskite atskirose eilutėse. Pavyzdžiui:
+
+```
+Suvesti skaičiai:
+2 4 9 3
+
+Šių skaičių kvadratai:
+4 16 81 9
+
+Šie skaičiai pakelti 5-u laipsniu:
+32 1024 59049 243
+```
+
+- Papildomai: visus atsakymus išveskite lentelės pavidalu. Pavyzdžiui:
+
+```
++----------+-----------+---------------+
+| Skaičius | Kvadratas | 5-as laipsnis |
++----------+-----------+---------------+
+| 2        | 4         | 32            |
+| 4        | 16        | 1024          |
+| 9        | 81        | 59049         |
+| 3        | 9         | 243           |
++----------+-----------+---------------+
+```
+
+### Užduotis 9
+
+- Susikurkite `string` tipo kintamąjį su norima reikšme.
+- Išveskite visą žodį, kiekvieną raidę atskirant brūkšniu (`-`). Pavyzdžiui:
+
+```
+d-r-a-m-b-l-y-s
+```
+
+- Išveskite kiekvieną raidę atskirose eilutėse. Pavyzdžiui:
+
+```
+d
+r
+a
+m
+b
+l
+y
+s
+```
+
+### Užduotis 10
+
+- Susikurkite du skaičių masyvus į kuriuos leiskite vartotojui suvesti po kiek nori skaičių.
+- Išveskite tik tą masyvą, kuris turi daugiau skaičių.
+- Nurodykite per kiek skaičių skiriasi skaičių kiekis. Pavyzdžiui: "Išvestas masyvas didesnis per 3 skaičius".
+
+### Užduotis 11
+
+- Leiskite vartotojui suvesti kiek nori skaičių.
+- Leiskite jam pamatyti norimą (kelintąjį) skaičių konsolėje. Pavyzdžiui:
+
+```
+Skaičiai: 7 8 9 5 4
+Kelintą skaičių norite pamatyti? 2
+2-asis skaičius: 8
+```
+
+- Papildomai: padarykite, kad vartotojas galėtų pasižiūrėti kiek norėtų skaičių, nurodant kelintas tai skaičius.
+
+### Užduotis 12 (sudėtingesnė)
+
+- Sukurkite masyvą, kurį užpildykite norimu kiekiu fibonačiaus skaičių. Norimą kiekį fibonačiaus skaičių sugeneruoja ir užpildo programa.
+- Išveskite sugeneruotus skaičius norima forma.
+
+### Užduotis 13 (sudėtingesnė)
+
+- Leiskite vartotojui suvesti norimą kiekį skaičių.
+- Sukurkite naują masyvą, kurį užpildykite tais pačiais skaičiais, tačiau atvirkštine tvarka.
+- Išveskite naują masyvą.
+
+### Užduotis 14 (sudėtingesnė)
+
+- Vartotojui leiskite suvesti norimą kiekį skaičių.
+- Vienoje eilutėje išveskite visus suvestus skaičius.
+- Kitoje eilutėje išveskite tik lyginius skaičius iš įvestų.
+- Dar kitoje eilutėje išveskite tik nelyginius skaičius iš įvestų.
+
+### Užduotis 15 (sudėtingesnė)
+
+- Susikurkite masyvą iš 25-ių skaičių.
+- Išveskite šiuos skaičius 5x5 dydžio lentelėje.
+
+### Užduotis 16 (sudėtingesnė)
+
+- Leiskite vartotojui suvedinėti skaičius.
+- Į masyvą įkelkite tik skaičius, kurie yra pirminiai. Masyve turi atsirasti 5 tokie skaičiai. Įvedimas baigiasi, kai šis limitas yra pasiekiamas.
+- Šiuos skaičius išveskite į ekraną.
