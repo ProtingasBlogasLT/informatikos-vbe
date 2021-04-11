@@ -484,78 +484,75 @@ Gabrielius 30
 
 ### Užduotis 1
 
-
+- Turite informaciją apie taksisto nuvažiuotus kilometrus kiekvieną dieną.
+- Raskite kiek mažiausiai ir kiek daugiausiai kilometrų per dieną yra nuvažiavęs taksistas.
+- Raskite ar taksistas kada nors yra nuvažiavęs virš 100 km per dieną.
+- Raskite ar taksistas kada nors yra nuvažiavęs lygiai 50 km per dieną.
+- Raskite kada pirmą kartą (kelintą kartą) taksistas yra nuvažiavęs daugiau nei 50 km per dieną.
+- Raskite kada paskutinį kartą (kelintą kartą) taksistas yra nuvažiavęs daugiau nei 50 km per dieną.
+- Išveskite pradinę turimą informaciją apie nuvažiuotus kilometrus ir visus rastus atsakymus.
 
 ### Užduotis 2
 
-
+- Turite informaciją apie kepyklos iškeptus duonos kepalus kiekvieną dieną (kepalų kiekis per dieną).
+- Raskite kiek daugiausiai kepalų per dieną yra iškepus kepykla, bei kuri (kelinta) diena tai buvo?
+- Raskite kiek mažiausiai kepalų per dieną yra iškepus kepykla, bei kuri (kelinta) diena tai buvo?
+- Koks kepalų skirtumas tarp mažiausiai ir daugiausiai iškeptų duonos kepalų?
+- Raskite kada pirmą kartą kepykla iškepė daugiau nei 10 duonos kepalų per dieną.
+- Išveskite pradinius duomenis ir visus rastus atsakymus.
 
 ### Užduotis 3
 
-
+- Leiskite vartotojui suvesti norimą kiekį žodžių.
+- Raskite trumpiausią ir ilgiausią žodžius.
+- Raskite iš kiek vidutiniškai raidžių susidaro visi žodžiai. Šį skaičių apvalinkite į norimą pusę.
+- Raskite pirmą žodį, kuris yra sudarytas iš būtent tokio raidžių kiekio, koks yra rastas vidurkis.
+- Leiskite vartotojui pasirinkti kokio žodžio ieškoti tarp visų turimų žodžių. Raskite kiek kartų kartojasi (kiek kartų galima rasti) vartotojo nurodytas žodis.
 
 ### Užduotis 4
 
-
+- Leiskite vartotojui suvesti norimą kiekį skaičių arba sugeneruokite atsitiktinai.
+- Patikrinkite ar visi skaičiai yra lyginiai / nelyginiai.
+- Patikrinkite ar tarp šių skaičių yra bent vienas pirminis skaičius. Jei taip raskite paskutinį pirminį skaičių.
+- Išveskite skaičius, bei gautus atsakymus.
 
 ### Užduotis 5
 
-
+- Leiskite vartotojui suvesti norimą kiekį pažymių.
+- Raskite mažiausią pažymį.
+- Ar rastas mažiausias pažymys yra neigiamas (mažesnis nei 4)?
+- Išveskite gautus atsakymus.
 
 ### Užduotis 6
 
-
+- Turite informaciją apie 3 studentų turimus pažymius (trys skirtingi masyvai).
+- Raskite kiekvieno studento didžiausią pažymį.
+- Kuris studentas turi didžiausią iš visų pažymį?
+- Išveskite pradinius duomenis ir rastus atsakymus.
 
 ### Užduotis 7
 
-
+- Jums yra žinoma informacija apie prekes parduotuvėje (prekės pavadinimas, kiekis, vieneto kaina).
+- Laikykime, kad pavyko išparduoti visas turimas prekes. Iš kurios prekės bus uždirbta daugiausiai (`kiekis x kaina`)?
+- O iš kurios bus uždirbta mažiausiai?
+- Raskite kurios prekės buvo turima daugiausiai kiekio.
+- Raskite kurios prekės vieneto kaina buvo mažiausia.
+- Išveskite pradinius duomenis lentelės pavidalu. Išveskite visus gautus atsakymus po lentele.
 
 ### Užduotis 8
 
+- Turite informaciją apie knygyne esančias knygas (pavadinimas, puslapių skaičius, kaina).
+- Kokia storiausias knygos kaina?
+- Koks ploniausios knygos pavadinimas?
+- Jei sugebėtume per dieną perskaityti po 20 puslapių, per kiek dienų perskaitytume kiekvieną knygą? Šiems atsakymams galima susikurti papildomą masyvą.
+- Ar yra bent viena knyga, kurią perskaitytume per lygiai 5 dienas? Jei taip, grąžinti pirmą ir paskutinę tokią rastą knygą.
+- Išveskite turimų knygų informaciją lentelės pavidalu. Išveskite visus gautus atsakymus po lentele. Kiek dienų užtruktume su kiekviena knyga, galima spausdinti toje pačioje lentelėje kaip ir pradiniai knygų duomenys.
 
+### Užduotis 9 (sudėtingesnė)
 
-### Užduotis 9
+Sukurkite žodyną, kur vartotojas galėtų įvesti lietuvišką žodį ir jam būtų parodytas angliškas atitikmuo. Tam gali padėti du žodžių masyvai, kur vertimai sutaptų per indeksą. Leiskite vartotojui atlikti tiek vertimų kiek jis nori.
 
+### Užduotis 10 (sudėtingesnė)
 
-
-### Užduotis 10
-
-
-
-### Užduotis 11
-
-
-
-### Užduotis 12
-
-
-
-### Užduotis 13
-
-
-
-### Užduotis 14
-
-
-
-### Užduotis 15
-
-
-
-### Užduotis 16
-
-
-
-### Užduotis 17
-
-
-
-### Užduotis 18
-
-
-
-### Užduotis 19
-
-
-
-### Užduotis 20
+- Susikurkite string tipo kintamąjį, kuriame saugotumėte norimą tekstą.
+- Raskite kuri raidė tekste kartojasi daugiausiai kartų.
