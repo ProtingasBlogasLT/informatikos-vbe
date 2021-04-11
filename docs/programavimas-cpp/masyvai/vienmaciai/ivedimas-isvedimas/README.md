@@ -926,7 +926,9 @@ Kelintą skaičių norite pamatyti? 2
 
 ### Užduotis 13 (sudėtingesnė)
 
-Sukurkite žodyną, kur vartotojas galėtų įvesti lietuvišką žodį ir jam parodytų anglišką atitikmenį. Tam gali padėti du žodžių masyvai, kur vertimai sutaptų per indeksą.
+- Leiskite vartotojui suvesti norimą kiekį skaičių.
+- Sukurkite naują masyvą, kurį užpildykite tais pačiais skaičiais, tačiau atvirkštine tvarka.
+- Išveskite naują masyvą.
 
 ### Užduotis 14 (sudėtingesnė)
 
@@ -943,5 +945,5 @@ Sukurkite žodyną, kur vartotojas galėtų įvesti lietuvišką žodį ir jam p
 ### Užduotis 16 (sudėtingesnė)
 
 - Leiskite vartotojui suvedinėti skaičius.
-- Į masyvą įkelkite tik skaičius, kurie yra pirminiai. Masyve turi atsirasti 5 tokie skaičiai.
+- Į masyvą įkelkite tik skaičius, kurie yra pirminiai. Masyve turi atsirasti 5 tokie skaičiai. Įvedimas baigiasi, kai šis limitas yra pasiekiamas.
 - Šiuos skaičius išveskite į ekraną.
