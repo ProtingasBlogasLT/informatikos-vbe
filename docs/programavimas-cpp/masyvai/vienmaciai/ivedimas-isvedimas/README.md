@@ -750,6 +750,8 @@ Taip pat, atlikite šiuos veiksmus:
 - Išveskite paskutinį skaičių iš masyvo.
 - Papildomai: išveskite bet kurį, atsitiktinai parinktą skaičių iš masyvo.
 
+<a href="uzduotys/uzduotis1/" target="_blank">Žiūrėti sprendimą</a>
+
 ### Užduotis 2
 
 - Susikurkite vardų masyvą, kuris jau būtų užpildytas vardais.
@@ -762,6 +764,8 @@ Taip pat, atlikite šiuos veiksmus:
 ```
 
 - Papildomai: leiskite vartotojui pakeisti bet kurį vardą, įvedant vardo numerį, o po pakeitimo visas sąrašas turi atsivaizduoti dar kartą.
+
+<a href="uzduotys/uzduotis2/" target="_blank">Žiūrėti sprendimą</a>
 
 ### Užduotis 3
 
@@ -789,11 +793,15 @@ Y(*
 &@@)
 ```
 
+<a href="uzduotys/uzduotis3/" target="_blank">Žiūrėti sprendimą</a>
+
 ### Užduotis 4
 
 - Susikurkite du skaičių masyvus, kurie iškart būtų užpildyti duomenimis.
 - Vartotojui leiskite pasirinkti kurį skaičių masyvą (pirmą ar antrą) parodyti ekrane.
 - Vartotojui pasirinkus, kurį masyvą parodyti, visus jo skaičius išveskite toje pačioje eilutėje, kiekvieną skaičių apskliaudžiant laužtiniais (`[ ]`) skliaustais.
+
+<a href="uzduotys/uzduotis4/" target="_blank">Žiūrėti sprendimą</a>
 
 ### Užduotis 5
 
@@ -805,6 +813,8 @@ Y(*
 2-o moksleivio pažymiai: 10 | 9.5 | 9.4 | 9.8 | 8.6 | 10 | 9.7
 3-o moksleivio pažymiai: 8 | 7 | 6.8
 ```
+
+<a href="uzduotys/uzduotis5/" target="_blank">Žiūrėti sprendimą</a>
 
 ### Užduotis 6
 
@@ -833,6 +843,8 @@ Y(*
 
 - Po lentele išveskite kiek skaičių šiame masyve yra iš viso. Pavyzdžiui: "Lentelėje yra 5 skaičiai".
 
+<a href="uzduotys/uzduotis6/" target="_blank">Žiūrėti sprendimą</a>
+
 ### Užduotis 7
 
 - Susikurkite vardų ir vardų ilgių masyvus.
@@ -845,6 +857,8 @@ Y(*
 - Vardo "Gintarė" ilgis 7 simboliai.
 - ...
 ```
+
+<a href="uzduotys/uzduotis7/" target="_blank">Žiūrėti sprendimą</a>
 
 ### Užduotis 8
 
@@ -878,6 +892,8 @@ Suvesti skaičiai:
 +----------+-----------+---------------+
 ```
 
+<a href="uzduotys/uzduotis8/" target="_blank">Žiūrėti sprendimą</a>
+
 ### Užduotis 9
 
 - Susikurkite `string` tipo kintamąjį su norima reikšme.
@@ -900,11 +916,15 @@ y
 s
 ```
 
+<a href="uzduotys/uzduotis9/" target="_blank">Žiūrėti sprendimą</a>
+
 ### Užduotis 10
 
 - Susikurkite du skaičių masyvus į kuriuos leiskite vartotojui suvesti po kiek nori skaičių.
 - Išveskite tik tą masyvą, kuris turi daugiau skaičių.
 - Nurodykite per kiek skaičių skiriasi skaičių kiekis. Pavyzdžiui: "Išvestas masyvas didesnis per 3 skaičius".
+
+<a href="uzduotys/uzduotis10/" target="_blank">Žiūrėti sprendimą</a>
 
 ### Užduotis 11
 
@@ -919,16 +939,22 @@ Kelintą skaičių norite pamatyti? 2
 
 - Papildomai: padarykite, kad vartotojas galėtų pasižiūrėti kiek norėtų skaičių, nurodant kelintas tai skaičius.
 
+<a href="uzduotys/uzduotis11/" target="_blank">Žiūrėti sprendimą</a>
+
 ### Užduotis 12 (sudėtingesnė)
 
 - Sukurkite masyvą, kurį užpildykite norimu kiekiu fibonačiaus skaičių. Norimą kiekį fibonačiaus skaičių sugeneruoja ir užpildo programa.
 - Išveskite sugeneruotus skaičius norima forma.
+
+<!-- <a href="uzduotys/uzduotis12/" target="_blank">Žiūrėti sprendimą</a> -->
 
 ### Užduotis 13 (sudėtingesnė)
 
 - Leiskite vartotojui suvesti norimą kiekį skaičių.
 - Sukurkite naują masyvą, kurį užpildykite tais pačiais skaičiais, tačiau atvirkštine tvarka.
 - Išveskite naują masyvą.
+
+<!-- <a href="uzduotys/uzduotis13/" target="_blank">Žiūrėti sprendimą</a> -->
 
 ### Užduotis 14 (sudėtingesnė)
 
@@ -937,13 +963,19 @@ Kelintą skaičių norite pamatyti? 2
 - Kitoje eilutėje išveskite tik lyginius skaičius iš įvestų.
 - Dar kitoje eilutėje išveskite tik nelyginius skaičius iš įvestų.
 
+<!-- <a href="uzduotys/uzduotis14/" target="_blank">Žiūrėti sprendimą</a> -->
+
 ### Užduotis 15 (sudėtingesnė)
 
 - Susikurkite masyvą iš 25-ių skaičių.
 - Išveskite šiuos skaičius 5x5 dydžio lentelėje.
+
+<!-- <a href="uzduotys/uzduotis15/" target="_blank">Žiūrėti sprendimą</a> -->
 
 ### Užduotis 16 (sudėtingesnė)
 
 - Leiskite vartotojui suvedinėti skaičius.
 - Į masyvą įkelkite tik skaičius, kurie yra pirminiai. Masyve turi atsirasti 5 tokie skaičiai. Įvedimas baigiasi, kai šis limitas yra pasiekiamas.
 - Šiuos skaičius išveskite į ekraną.
+
+<!-- <a href="uzduotys/uzduotis16/" target="_blank">Žiūrėti sprendimą</a> -->
