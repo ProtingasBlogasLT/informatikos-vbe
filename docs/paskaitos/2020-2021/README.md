@@ -50,28 +50,28 @@ Paskaitų tvarkaraštis sudaromas norintiems mokytis ar pagilinti žinias tik pr
 | 2021-04-11 (sekmadienis) | - | Aplinkos pasiruošimas C++ GUI programų kūrimui | [Vaizdo pamoka (29:29 min.)](https://www.youtube.com/watch?v=oiYD_FdgIII) |
 | 2021-04-12 (pirmadienis) | 18 val. | Įžanga į masyvus. Vienmačiai masyvai (įvedimas, išvedimas) | [Paskaitos įrašas (2:04 val.)](https://www.youtube.com/watch?v=RqeQrT7mon0) |
 | 2021-04-12 (pirmadienis) | - | Papildoma informacija apie tai kodėl masyvų indeksai pradedami numeruoti nuliu | [Vaizdo pamoka (12:40 min.)](https://www.youtube.com/watch?v=KJxW2y69XEE) |
-| **2021-04-13 (antradienis)** | **18 val.** | **Vienmačiai masyvai (skaičiavimai, atrinkimas, filtravimas, paieška, rikiavimas, ...)** | **Vyks ([tiesioginę transliaciją rasite čia](https://www.youtube.com/channel/UCP3MANaEkoW4LXa74e1xzgQ))** |
-| 2021-04-14 (trečiadienis) | 19 val. | Grafinė vartotojo sąsaja (GUI) | Suplanuota |
+| 2021-04-13 (antradienis) | 18 val. | Vienmačiai masyvai ir algoritmai (suma, vidurkis, kiekis, atrinkimas / filtravimas) | [Paskaitos įrašas (2:03 val.)](https://www.youtube.com/watch?v=tXxUigtQSK4) |
 | **2021-04-17 (šeštadienis)** | **13 val.** | **Papildoma konsultacija** | **Vyks ([tiesioginę transliaciją rasite čia](https://www.youtube.com/channel/UCP3MANaEkoW4LXa74e1xzgQ))** |
-| 2021-04-19 (pirmadienis) | 18 val. | Dvimatis masyvas. Darbas su duomenų failais | Suplanuota |
-| 2021-04-20 (antradienis) | 18 val. | Funkcijos | Suplanuota |
-| 2021-04-24 (šeštadienis) | 13 val. | Papildoma konsultacija | Suplanuota |
+| **2021-04-19 (pirmadienis)** | **18 val.** | **Vienmačiai masyvai ir algoritmai (paieška, rikiavimas, keitimas)** | **Vyks ([tiesioginę transliaciją rasite čia](https://www.youtube.com/channel/UCP3MANaEkoW4LXa74e1xzgQ))** |
+| **2021-04-20 (antradienis)** | **18 val.** | **Dvimatis masyvas. Darbas su duomenų failais** | **Vyks ([tiesioginę transliaciją rasite čia](https://www.youtube.com/channel/UCP3MANaEkoW4LXa74e1xzgQ))** |
+| **2021-04-21 (trečiadienis)** | **18 val.** | **Grafinė vartotojo sąsaja (GUI)** | **Vyks ([tiesioginę transliaciją rasite čia](https://www.youtube.com/channel/UCP3MANaEkoW4LXa74e1xzgQ))** |
+| **2021-04-24 (šeštadienis)** | **13 val.** | **Papildoma konsultacija** | **Vyks ([tiesioginę transliaciją rasite čia](https://www.youtube.com/channel/UCP3MANaEkoW4LXa74e1xzgQ))** |
 | 2021-04-26 (pirmadienis) | 18 val. | Funkcijos | Suplanuota |
-| 2021-04-27 (antradienis) | 18 val. | Struktūros | Suplanuota |
+| 2021-04-27 (antradienis) | 18 val. | Funkcijos | Suplanuota |
 | 2021-04-28 (trečiadienis) | 18 val. | Grafinė vartotojo sąsaja (GUI) | Suplanuota |
 | 2021-05-01 (šeštadienis) | 13 val. | Papildoma konsultacija | Suplanuota |
 | 2021-05-03 (pirmadienis) | 18 val. | Struktūros | Suplanuota |
 | 2021-05-04 (antradienis) | 18 val. | Struktūros | Suplanuota |
 | 2021-05-08 (šeštadienis) | 13 val. | Papildoma konsultacija | Suplanuota |
 | 2021-05-10 (pirmadienis) | 18 val. | Struktūros | Suplanuota |
-| 2021-05-11 (antradienis) | 18 val. | Ankstesnių metų egzaminų užduotys | ... |
+| 2021-05-11 (antradienis) | 18 val. | Struktūros | ... |
 | 2021-05-12 (trečiadienis) | 18 val. | Grafinė vartotojo sąsaja (GUI) | Suplanuota |
 | 2021-05-15 (šeštadienis) | 13 val. | Papildoma konsultacija | ... |
 | 2021-05-17 (pirmadienis) | 18 val. | Ankstesnių metų egzaminų užduotys | ... |
 | 2021-05-18 (antradienis) | 18 val. | Ankstesnių metų egzaminų užduotys | ... |
 | 2021-05-22 (šeštadienis) | 13 val. | Papildoma konsultacija | ... |
 | 2021-05-24 (pirmadienis) | 18 val. | Ankstesnių metų egzaminų užduotys | ... |
-| 2021-05-25 (antradienis) | 18 val. | ... | ... |
+| 2021-05-25 (antradienis) | 18 val. | Ankstesnių metų egzaminų užduotys | ... |
 | 2021-05-26 (trečiadienis) | 18 val. | Grafinė vartotojo sąsaja (GUI) | Suplanuota |
 | 2021-05-29 (šeštadienis) | 13 val. | Papildoma konsultacija | ... |
 | 2021-05-31 (pirmadienis) | 18 val. | ... | ... |

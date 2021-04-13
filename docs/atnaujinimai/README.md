@@ -1,6 +1,6 @@
 # Atnaujinimai
 
-**2021-04-13**. Atnaujintas paskaitų (2020-2021 m. m.) tvarkaraštis. Pridėti vaizdo įrašai prie atitinkamų temų (papildomos užduotys, masyvai, vienmačiai masyvai, informacijos išvedimas ir įvedimas vienmačiuose masyvuose). Pridėta užduočių sprendimų prie vienmačių masyvų.
+**2021-04-13**. Atnaujintas paskaitų (2020-2021 m. m.) tvarkaraštis. Pridėti vaizdo įrašai prie atitinkamų temų (papildomos užduotys, masyvai, vienmačiai masyvai, informacijos išvedimas ir įvedimas vienmačiuose masyvuose, algoritmai prie vienmačių masyvų). Pridėta užduočių sprendimų prie vienmačių masyvų.
 
 **2021-04-12**. Atnaujintas paskaitų (2020-2021 m. m.) tvarkaraštis.
 
