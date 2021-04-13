@@ -139,17 +139,17 @@ module.exports = {
           ]
         },
         {
-          title: 'Masyvai',
+          title: 'Masyvai ir algoritmai',
           children: [
-            '/programavimas-cpp/masyvai/',
-            '/programavimas-cpp/masyvai/vienmaciai/',
-            '/programavimas-cpp/masyvai/vienmaciai/ivedimas-isvedimas/',
-            '/programavimas-cpp/masyvai/vienmaciai/skaiciavimai/',
-            '/programavimas-cpp/masyvai/vienmaciai/atrinkimas-filtravimas/',
-            '/programavimas-cpp/masyvai/vienmaciai/paieska/',
-            '/programavimas-cpp/masyvai/vienmaciai/rikiavimas/',
-            '/programavimas-cpp/masyvai/vienmaciai/keitimas/',
-            '/programavimas-cpp/masyvai/dvimaciai/',
+            '/programavimas-cpp/masyvai-ir-algoritmai/',
+            '/programavimas-cpp/masyvai-ir-algoritmai/vienmaciai/',
+            '/programavimas-cpp/masyvai-ir-algoritmai/vienmaciai/ivedimas-isvedimas/',
+            '/programavimas-cpp/masyvai-ir-algoritmai/vienmaciai/skaiciavimai/',
+            '/programavimas-cpp/masyvai-ir-algoritmai/vienmaciai/atrinkimas-filtravimas/',
+            '/programavimas-cpp/masyvai-ir-algoritmai/vienmaciai/paieska/',
+            '/programavimas-cpp/masyvai-ir-algoritmai/vienmaciai/rikiavimas/',
+            '/programavimas-cpp/masyvai-ir-algoritmai/vienmaciai/keitimas/',
+            '/programavimas-cpp/masyvai-ir-algoritmai/dvimaciai/',
           ]
         },
         {
