@@ -488,9 +488,9 @@ Gabrielius 30
 - Raskite kiek mažiausiai ir kiek daugiausiai kilometrų per dieną yra nuvažiavęs taksistas.
 - Raskite ar taksistas kada nors yra nuvažiavęs virš 100 km per dieną.
 - Raskite ar taksistas kada nors yra nuvažiavęs lygiai 50 km per dieną.
-- Raskite kada pirmą kartą (kelintą kartą) taksistas yra nuvažiavęs daugiau nei 50 km per dieną.
-- Raskite kada paskutinį kartą (kelintą kartą) taksistas yra nuvažiavęs daugiau nei 50 km per dieną.
 - Išveskite pradinę turimą informaciją apie nuvažiuotus kilometrus ir visus rastus atsakymus.
+
+<a href="uzduotys/uzduotis1/" target="_blank">Žiūrėti sprendimą</a>
 
 ### Užduotis 2
 
@@ -501,13 +501,17 @@ Gabrielius 30
 - Raskite kada pirmą kartą kepykla iškepė daugiau nei 10 duonos kepalų per dieną.
 - Išveskite pradinius duomenis ir visus rastus atsakymus.
 
+<a href="uzduotys/uzduotis2/" target="_blank">Žiūrėti sprendimą</a>
+
 ### Užduotis 3
 
 - Leiskite vartotojui suvesti norimą kiekį žodžių.
-- Raskite trumpiausią ir ilgiausią žodžius.
+- Raskite trumpiausią ir ilgiausią žodžius. Jeigu yra keli vienodo ilgio trumpiausi ar ilgiausi, tai rasti pirmus tokius žodžius.
 - Raskite iš kiek vidutiniškai raidžių susidaro visi žodžiai. Šį skaičių apvalinkite į norimą pusę.
-- Raskite pirmą žodį, kuris yra sudarytas iš būtent tokio raidžių kiekio, koks yra rastas vidurkis.
+- Raskite pirmą žodį, kuris yra sudarytas iš būtent tokio raidžių kiekio, koks yra rastas (suapvalintas) vidurkis.
 - Leiskite vartotojui pasirinkti kokio žodžio ieškoti tarp visų turimų žodžių. Raskite kiek kartų kartojasi (kiek kartų galima rasti) vartotojo nurodytas žodis.
+
+<a href="uzduotys/uzduotis3/" target="_blank">Žiūrėti sprendimą</a>
 
 ### Užduotis 4
 
