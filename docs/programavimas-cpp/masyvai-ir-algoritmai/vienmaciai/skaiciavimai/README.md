@@ -1,8 +1,8 @@
-# Vienmačiai masyvai: skaičiavimai (suma, vidurkis, ...)
+# Vienmačiai masyvai: skaičiavimai (suma, vidurkis, kiekis, ...)
 
 ## Vaizdo pamoka
 
-Informacija ruošiama.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tXxUigtQSK4?start=1069&end=4457" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Pavyzdžiai
 
@@ -405,7 +405,7 @@ Lyginiu skaiciu vidurkis: 4.66667
 ### Užduotis 5
 
 - Studentas rašo baigiamąjį darbą ir jūs žinote po kiek puslapių kiekvieną dieną iki šiol jam pavyko parašyti.
-- Jūs taip pat žinote, kad galutinį dokumentą studentas turi pateikti už x dienų.
+- Jūs taip pat žinote, kad galutinį dokumentą studentas turi pateikti už x dienų, bei žinote kiek minimaliai puslapių reikia būti parašius.
 - Pamėginkite paskaičiuoti ar studentas spės parašyti baigiamąjį darbą, jei sugebės išlaikyti tokį patį darbo tempą.
 - Išveskite gautus atsakymus.
 
