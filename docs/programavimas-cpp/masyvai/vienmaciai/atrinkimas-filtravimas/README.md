@@ -440,19 +440,25 @@ Nelygiai: 5 7 5 7
 - Raskite nelyginių skaičių sumą.
 - Raskite lyginių ar nelyginių skaičių suma yra didesnė ir koks skirtumas tarp jų.
 
+<a href="uzduotys/uzduotis1/" target="_blank">Žiūrėti sprendimą</a>
+
 ### Užduotis 2
 
 - Susikurkite skaičių masyvą. Raskite skaičių vidurkį.
 - Atrinkite į kitą masyvą skaičius, kurie yra didesni už vidurkį.
 - Išveskite pradinius ir atrinktus duomenis.
 
+<a href="uzduotys/uzduotis2/" target="_blank">Žiūrėti sprendimą</a>
+
 ### Užduotis 3
 
 - Leiskite vartotojui suvesti norimą kiekį vardų.
 - Leiskite vartotojui pasirinkti raidę, pagal kurią vyks vardų atrinkimas.
-- Atrinkite vardus, kurie prasideda pasirinkta raide.
+- Atrinkite vardus, kurie prasideda pasirinkta raide. Norint pasirinkti tik pirmąją raidę, galima naudoti `vardai[i][0]` arba `vardai[i].at(0)`. Norint transformuoti konkrečią raidę į mažąją, galima naudoti `char(tolower('T'))`.
 - Atrinkite vardus, kurie turi nurodytą raidę, bet kurioje vardo vietoje.
 - Išveskite suvestus duomenis, bei atrinktus pagal kažkurį kriterijų.
+
+<a href="uzduotys/uzduotis3/" target="_blank">Žiūrėti sprendimą</a>
 
 ### Užduotis 4
 

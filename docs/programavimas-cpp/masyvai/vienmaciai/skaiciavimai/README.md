@@ -385,11 +385,11 @@ Lyginiu skaiciu vidurkis: 4.66667
 ### Užduotis 3
 
 - Vartotojui leiskite suvesti dviejų studentų pažymius (į du skirtingus masyvus).
-- Paskaičiuokite kiekvieno studentų pažymių vidurkius.
+- Paskaičiuokite kiekvieno studento pažymių vidurkius.
 - Išveskite kiekvieno studento pažymius ir gautus vidurkius.
 - Nurodykite, kurio studento vidurkis yra didesnis, bei per kokią dalį vidurkis skiriasi.
 
-<!-- <a href="uzduotys/uzduotis3/" target="_blank">Žiūrėti sprendimą</a> -->
+<a href="uzduotys/uzduotis3/" target="_blank">Žiūrėti sprendimą</a>
 
 ### Užduotis 4
 
@@ -400,7 +400,7 @@ Lyginiu skaiciu vidurkis: 4.66667
 - Kurių dienų (šiltesnių ar vėsesnių) buvo daugiau?
 - Išveskite pradinius duomenis, bei gautus atsakymus.
 
-<!-- <a href="uzduotys/uzduotis4/" target="_blank">Žiūrėti sprendimą</a> -->
+<a href="uzduotys/uzduotis4/" target="_blank">Žiūrėti sprendimą</a>
 
 ### Užduotis 5
 
@@ -408,8 +408,6 @@ Lyginiu skaiciu vidurkis: 4.66667
 - Jūs taip pat žinote, kad galutinį dokumentą studentas turi pateikti už x dienų.
 - Pamėginkite paskaičiuoti ar studentas spės parašyti baigiamąjį darbą, jei sugebės išlaikyti tokį patį darbo tempą.
 - Išveskite gautus atsakymus.
-
-<!-- <a href="uzduotys/uzduotis5/" target="_blank">Žiūrėti sprendimą</a> -->
 
 ### Užduotis 6
 
@@ -422,8 +420,6 @@ Lyginiu skaiciu vidurkis: 4.66667
 - Raskite, kuris vairuotojas vidutiniškai nuvažiuoja daugiausiai kilometrų per dieną.
 - Išveskite visą turimą pradinę informaciją, bei visus gautus atsakymus.
 
-<!-- <a href="uzduotys/uzduotis6/" target="_blank">Žiūrėti sprendimą</a> -->
-
 ### Užduotis 7
 
 - Krepšininkas treniruojasi varžyboms. Jūs turite informaciją apie tai kiek taškų jis įmetė per kiekvieną treniruotę.
@@ -432,8 +428,6 @@ Lyginiu skaiciu vidurkis: 4.66667
 - Palyginkite šio krepšininko treniruočių taškų vidurkį su komandos vidurkiu. Kaip jam sekasi?
 - Išveskite turimus pradinius duomenis, bei gautus atsakymus.
 
-<!-- <a href="uzduotys/uzduotis7/" target="_blank">Žiūrėti sprendimą</a> -->
-
 ### Užduotis 8
 
 - Turite parduotuvės prekių informaciją (prekių pavadinimai, jų kiekiai, vieno vieneto kaina).
@@ -441,13 +435,9 @@ Lyginiu skaiciu vidurkis: 4.66667
 - Raskite kokia vidutinė vienos prekės kaina.
 - Visą pradinę informaciją išveskite lentelės pavidalu ir tuomet pateikite visus gautus skaičiavimus.
 
-<!-- <a href="uzduotys/uzduotis8/" target="_blank">Žiūrėti sprendimą</a> -->
-
 ### Užduotis 9
 
 - Jums yra žinoma kiek duonos kepalų kiekvieną dieną kepykla iškepdavo per praėjusias dvi savaites.
 - Jums yra žinoma, kiek artimiausios dviems savaitėms kepykla turi užsakymų.
 - Pamėginkite prognozuoti ar kepykla spės patenkinti visus būsimus užsakymus (galbūt jums galėtų padėti vidurkio paskaičiavimas ir palyginimas).
 - Išveskite pradinius duomenis ir gautus skaičiavimus.
-
-<!-- <a href="uzduotys/uzduotis9/" target="_blank">Žiūrėti sprendimą</a> -->
