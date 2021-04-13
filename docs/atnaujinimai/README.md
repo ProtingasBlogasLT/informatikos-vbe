@@ -1,5 +1,9 @@
 # Atnaujinimai
 
+**2021-04-13**. Atnaujintas paskaitų (2020-2021 m. m.) tvarkaraštis. Pridėti vaizdo įrašai prie atitinkamų temų (papildomos užduotys, masyvai, vienmačiai masyvai, informacijos išvedimas ir įvedimas vienmačiuose masyvuose).
+
+**2021-04-12**. Atnaujintas paskaitų (2020-2021 m. m.) tvarkaraštis.
+
 **2021-04-11**. Atnaujintas paskaitų (2020-2021 m. m.) tvarkaraštis. Pridėti vaizdo įrašai prie ciklo `while` ir ciklo `do while` temų. Pridėta medžiagos apie C++ GUI programų kūrimą. Pridėta daugiau medžiagos ir užduočių prie vienmačių masyvų.
 
 **2021-04-08**. Atnaujintas paskaitų (2020-2021 m. m.) tvarkaraštis.
