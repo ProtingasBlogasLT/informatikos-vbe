@@ -144,6 +144,7 @@ module.exports = {
             '/programavimas-cpp/masyvai-ir-algoritmai/',
             '/programavimas-cpp/masyvai-ir-algoritmai/vienmaciai/',
             '/programavimas-cpp/masyvai-ir-algoritmai/vienmaciai/ivedimas-isvedimas/',
+            '/programavimas-cpp/masyvai-ir-algoritmai/algoritmai/',
             '/programavimas-cpp/masyvai-ir-algoritmai/vienmaciai/skaiciavimai/',
             '/programavimas-cpp/masyvai-ir-algoritmai/vienmaciai/atrinkimas-filtravimas/',
             '/programavimas-cpp/masyvai-ir-algoritmai/vienmaciai/paieska/',
