@@ -151,6 +151,7 @@ module.exports = {
             '/programavimas-cpp/masyvai-ir-algoritmai/vienmaciai/rikiavimas/',
             '/programavimas-cpp/masyvai-ir-algoritmai/vienmaciai/keitimas/',
             '/programavimas-cpp/masyvai-ir-algoritmai/dvimaciai/',
+            '/programavimas-cpp/masyvai-ir-algoritmai/vektoriai/',
           ]
         },
         {
