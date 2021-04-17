@@ -151,6 +151,7 @@ module.exports = {
             '/programavimas-cpp/masyvai-ir-algoritmai/vienmaciai/rikiavimas/',
             '/programavimas-cpp/masyvai-ir-algoritmai/vienmaciai/keitimas/',
             '/programavimas-cpp/masyvai-ir-algoritmai/dvimaciai/',
+            '/programavimas-cpp/masyvai-ir-algoritmai/vektoriai/',
           ]
         },
         {
@@ -162,7 +163,9 @@ module.exports = {
         {
           title: 'Darbas su duomenų failais',
           children: [
-            '/programavimas-cpp/darbas-su-duomenu-failais/'
+            '/programavimas-cpp/darbas-su-duomenu-failais/',
+            '/programavimas-cpp/darbas-su-duomenu-failais/nuskaitymas/',
+            '/programavimas-cpp/darbas-su-duomenu-failais/isvedimas/',
           ]
         },
         {
@@ -172,12 +175,22 @@ module.exports = {
             '/programavimas-cpp/funkcijos/paprasciausios-funkcijos/',
             '/programavimas-cpp/funkcijos/funkcijos-su-argumentais/',
             '/programavimas-cpp/funkcijos/funkcijos-su-grazinimo-tipu/',
+            '/programavimas-cpp/funkcijos/reiksmiu-grazinimas-per-funkcijos-parametrus/',
+            '/programavimas-cpp/funkcijos/bendravardes-funkcijos/',
           ]
         },
         {
-          title: 'Struktūros',
+          title: 'Objektinis programavimas',
           children: [
-            '/programavimas-cpp/strukturos/',
+            '/programavimas-cpp/objektinis-programavimas/',
+            '/programavimas-cpp/objektinis-programavimas/strukturos/',
+            '/programavimas-cpp/objektinis-programavimas/strukturos/kurimas-ivedimas-isvedimas/',
+            '/programavimas-cpp/objektinis-programavimas/strukturos/funkcijos-metodai/',
+            '/programavimas-cpp/objektinis-programavimas/strukturos/konstruktoriai/',
+            '/programavimas-cpp/objektinis-programavimas/strukturos/objektu-masyvai/ivedimas-isvedimas/',
+            '/programavimas-cpp/objektinis-programavimas/strukturos/objektu-masyvai/skaiciavimai/',
+            '/programavimas-cpp/objektinis-programavimas/strukturos/objektu-masyvai/rikiavimas/',
+            '/programavimas-cpp/objektinis-programavimas/klases/',
           ]
         },
         {
