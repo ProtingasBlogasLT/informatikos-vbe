@@ -1,5 +1,7 @@
 # Atnaujinimai
 
+**2021-04-17**. Atnaujintas paskaitų (2020-2021 m. m.) tvarkaraštis.
+
 **2021-04-15**. Pridėta medžiagos prie vienmačių masyvų.
 
 **2021-04-13**. Atnaujintas paskaitų (2020-2021 m. m.) tvarkaraštis. Pridėti vaizdo įrašai prie atitinkamų temų (papildomos užduotys, masyvai, vienmačiai masyvai, informacijos išvedimas ir įvedimas vienmačiuose masyvuose, skaičiavimai su masyvais, atrinkimas / filtravimas iš vienmačio masyvo). Pridėta užduočių sprendimų prie vienmačių masyvų. Skyrius "Masyvai" pervadintas į "Masyvai ir algoritmai".

@@ -51,11 +51,11 @@ Paskaitų tvarkaraštis sudaromas norintiems mokytis ar pagilinti žinias tik pr
 | 2021-04-12 (pirmadienis) | 18 val. | Įžanga į masyvus. Vienmačiai masyvai (įvedimas, išvedimas) | [Paskaitos įrašas (2:04 val.)](https://www.youtube.com/watch?v=RqeQrT7mon0) |
 | 2021-04-12 (pirmadienis) | - | Papildoma informacija apie tai kodėl masyvų indeksai pradedami numeruoti nuliu | [Vaizdo pamoka (12:40 min.)](https://www.youtube.com/watch?v=KJxW2y69XEE) |
 | 2021-04-13 (antradienis) | 18 val. | Vienmačiai masyvai ir algoritmai (suma, vidurkis, kiekis, atrinkimas / filtravimas) | [Paskaitos įrašas (2:03 val.)](https://www.youtube.com/watch?v=tXxUigtQSK4) |
-| **2021-04-17 (šeštadienis)** | **13 val.** | **Papildoma konsultacija** | **Vyks ([tiesioginę transliaciją rasite čia](https://www.youtube.com/channel/UCP3MANaEkoW4LXa74e1xzgQ))** |
+| **2021-04-17 (šeštadienis)** | **13 val.** | **Papildoma konsultacija** | **Vyks** |
 | **2021-04-19 (pirmadienis)** | **18 val.** | **Vienmačiai masyvai ir algoritmai (paieška, rikiavimas, keitimas)** | **Vyks ([tiesioginę transliaciją rasite čia](https://www.youtube.com/channel/UCP3MANaEkoW4LXa74e1xzgQ))** |
 | **2021-04-20 (antradienis)** | **18 val.** | **Dvimatis masyvas. Darbas su duomenų failais** | **Vyks ([tiesioginę transliaciją rasite čia](https://www.youtube.com/channel/UCP3MANaEkoW4LXa74e1xzgQ))** |
 | **2021-04-21 (trečiadienis)** | **18 val.** | **Grafinė vartotojo sąsaja (GUI)** | **Vyks ([tiesioginę transliaciją rasite čia](https://www.youtube.com/channel/UCP3MANaEkoW4LXa74e1xzgQ))** |
-| **2021-04-24 (šeštadienis)** | **13 val.** | **Papildoma konsultacija** | **Vyks ([tiesioginę transliaciją rasite čia](https://www.youtube.com/channel/UCP3MANaEkoW4LXa74e1xzgQ))** |
+| **2021-04-24 (šeštadienis)** | **13 val.** | **Papildoma konsultacija** | **Vyks** |
 | 2021-04-26 (pirmadienis) | 18 val. | Funkcijos | Suplanuota |
 | 2021-04-27 (antradienis) | 18 val. | Funkcijos | Suplanuota |
 | 2021-04-28 (trečiadienis) | 18 val. | Grafinė vartotojo sąsaja (GUI) | Suplanuota |
