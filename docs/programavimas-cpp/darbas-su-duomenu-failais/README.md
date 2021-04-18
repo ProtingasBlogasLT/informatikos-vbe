@@ -46,7 +46,7 @@ Failo uždarymas:
 srauto_operatorius.close();
 ```
 
-Srauto operatoriaus sukūrimas ir failo atsidarymas darbui:
+Galima naudoti ir trumpesnę sintaksę. Srauto operatoriaus sukūrimas ir failo atsidarymas darbui:
 
 ```cpp
 // failas nuskaitymui

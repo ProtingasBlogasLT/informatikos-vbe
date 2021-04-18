@@ -166,6 +166,7 @@ module.exports = {
             '/programavimas-cpp/darbas-su-duomenu-failais/',
             '/programavimas-cpp/darbas-su-duomenu-failais/nuskaitymas/',
             '/programavimas-cpp/darbas-su-duomenu-failais/isvedimas/',
+            '/programavimas-cpp/darbas-su-duomenu-failais/darbas-su-keliais-failais/',
           ]
         },
         {
