@@ -194,6 +194,12 @@ module.exports = {
           ]
         },
         {
+          title: 'Pasiruošimas informatikos VBE',
+          children: [
+            '/programavimas-cpp/pasiruosimas-informatikos-vbe/',
+          ]
+        },
+        {
           title: 'Papildomai: GUI (Grafinė vartotojo sąsaja)',
           children: [
             '/programavimas-cpp/gui/',
