@@ -1,5 +1,7 @@
 # Atnaujinimai
 
+**2021-04-18**. Pridėta medžiagos prie darbo su duomenų failais. Programavime C++ pridėtas skyrius dėl pasiruošimo informatikos VBE.
+
 **2021-04-17**. Atnaujintas paskaitų (2020-2021 m. m.) tvarkaraštis. Atnaujinta medžiaga prie masyvų. Pridėta daugiau programavimo c++ skyrių ir temų (vektoriai, nuskaitymas iš failo, išvedimas į failą, kelių reikšmių grąžinimas per funkcijos parametrus, bendravardės funkcijos, objektinio programavimo temos).
 
 **2021-04-15**. Pridėta medžiagos prie vienmačių masyvų.
