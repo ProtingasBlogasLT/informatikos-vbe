@@ -165,12 +165,7 @@ module.exports = {
           children: [
             '/programavimas-cpp/darbas-su-duomenu-failais/',
             '/programavimas-cpp/darbas-su-duomenu-failais/nuskaitymas/',
-            '/programavimas-cpp/darbas-su-duomenu-failais/nuskaitymas/paprastas/',
-            '/programavimas-cpp/darbas-su-duomenu-failais/nuskaitymas/kai-zinoma-kiek-duomenu/',
-            '/programavimas-cpp/darbas-su-duomenu-failais/nuskaitymas/kai-nezinoma-kiek-duomenu/',
             '/programavimas-cpp/darbas-su-duomenu-failais/isvedimas/',
-            '/programavimas-cpp/darbas-su-duomenu-failais/isvedimas/paprastas/',
-            '/programavimas-cpp/darbas-su-duomenu-failais/isvedimas/formatuotas/',
           ]
         },
         {
