@@ -315,4 +315,38 @@ Pasalinta: 8 6 4 2
 
 ## Užduotys
 
-Informacija ruošiama.
+### Užduotis 1
+
+- Susikurkite skaičių masyvą.
+- Kiekvieną nelyginį skaičių pakelkite vienu. Pavyzdžiui, jeigu turite `skaiciai = { 7, 4, 5, 6 }` tai jis turėtų pasiversti į `skaiciai = { 8, 4, 6, 6 }`.
+
+### Užduotis 2
+
+- Susikurkite masyvą žodžiams saugoti.
+- Kiekvieną žodį, kuris yra ilgesnis nei 5 simboliai pakeisti į tuščią `string`. Pavyzdžiui: `"dviratis"` taps `""`.
+
+### Užduotis 3
+
+- Susikurkite skaičių masyvą.
+- Raskite mažiausio ir didžiausio skaičių indeksus / pozicijas masyve.
+- Po mažiausio skaičiaus įterpkite šių dviejų rastų skaičių sumą. Pavyzdžiui, jeigu turite masyvą `skaiciai = { 7, 2, 4, 9, 3 }`, kuriame didžiausias skaičius yra `9`, o mažiausias yra `2`, tai masyve už skaičiaus `2` reikia įterpti skaičių `11`, nes `2 + 9`, dėl ko bus pakeista: `skaiciai = { 7, 2, 11, 4, 9, 3 }`.
+
+### Užduotis 4
+
+- Susikurkite skaičių masyvą.
+- Iš šio masyvo pašalinkite pirmą lyginį skaičių.
+- Iš šio masyvo pašalinkite didžiausią skaičių.
+- Į šį masyvą, į vidurį įterpkite jūsų pasirinktą skaičių.
+
+### Užduotis 5 (sudėtingesnė)
+
+- Susikurkite skaičių masyvą
+- Raskite didžiausią masyvo skaičių.
+- Didžiausią masyvo skaičių įterpkite prieš kiekvieną lyginį skaičių. Pavyzdžiui, turint `skaiciai = { 7, 4, 9, 2, 3 }`, didžiausias skaičius yra `9`, todėl masyvas bus pakeistas: `skaiciai = { 7, 4, 9, 9, 2, 9, 3 }`.
+
+### Užduotis 6 (sudėtingesnė)
+
+- Susikurkite žodžių masyvą.
+- Iš šio masyvo pašalinkite visus žodžius, ilgesnius nei 5 simboliai.
+- Į šį masyvą, pačioje pradžioje, įterpkite bent 2 pasirinktus žodžius.
+- Papildomai: programą pakeiskite taip, kad šalinami žodžiai taip pat būtų įrašomi į kitą masyvą. Konsolėje išveskite iš pradinio masyvo pašalintus žodžius.
