@@ -2,7 +2,13 @@
 
 ## Vaizdo pamoka
 
-Informacija ruošiama.
+1 dalis:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iztGhDnviTc?start=5174&end=6906" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+2 dalis:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ItzEXHQQx4?start=193&end=4085" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Algoritmų veikimo vizualizacijos
 

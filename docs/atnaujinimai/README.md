@@ -1,6 +1,6 @@
 # Atnaujinimai
 
-**2021-04-20**. Atnaujintas paskaitų (2020-2021 m. m.) tvarkaraštis.
+**2021-04-20**. Atnaujintas paskaitų (2020-2021 m. m.) tvarkaraštis. Pridėti vaizdo įrašai prie vienmačių masyvų temų (paieška, rikiavimas, keitimas).
 
 **2021-04-18**. Pridėta medžiagos prie darbo su duomenų failais. Programavime C++ pridėtas skyrius dėl pasiruošimo informatikos VBE. Atnaujintas paskaitų (2020-2021 m. m.) tvarkaraštis. Pridėta medžiagos prie vienmačių masyvų.
 
