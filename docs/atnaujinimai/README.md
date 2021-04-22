@@ -1,6 +1,6 @@
 # Atnaujinimai
 
-**2021-04-22**. Atnaujintas paskaitų (2020-2021 m. m.) tvarkaraštis. Pridėta medžiagos prie grafinės vartotojo sąsajos (GUI).
+**2021-04-22**. Atnaujintas paskaitų (2020-2021 m. m.) tvarkaraštis. Pridėta medžiagos prie grafinės vartotojo sąsajos (GUI). Smulkūs pataisymai prie užduočių.
 
 **2021-04-20**. Atnaujintas paskaitų (2020-2021 m. m.) tvarkaraštis. Pridėti vaizdo įrašai prie vienmačių masyvų temų (paieška, rikiavimas, keitimas).
 
