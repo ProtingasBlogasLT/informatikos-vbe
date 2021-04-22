@@ -203,8 +203,9 @@ module.exports = {
         {
           title: 'Papildomai: GUI (Grafinė vartotojo sąsaja)',
           children: [
-            '/programavimas-cpp/gui/',
+            // '/programavimas-cpp/gui/',
             '/programavimas-cpp/gui/aplinkos-pasiruosimas/',
+            '/programavimas-cpp/gui/izanga/',
           ]
         },
       ],
