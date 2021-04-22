@@ -549,9 +549,11 @@ Sukurkite ir iškvieskite funkciją, kurioje kintamuosiuose būtų saugoma infor
 
 Sukurkite ir iškvieskite funkciją, kuri išvestų norimus žodžius atskirose eilutėse, prieš kiekvieną žodį parašant brūkšnį. Pavyzdžiui:
 
+```
 - pirmas
 - antras
 - ...
+```
 
 ### Užduotis 4
 
