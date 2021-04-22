@@ -342,7 +342,7 @@ Pasalinta: 8 6 4 2
 
 - Susikurkite skaičių masyvą
 - Raskite didžiausią masyvo skaičių.
-- Didžiausią masyvo skaičių įterpkite prieš kiekvieną lyginį skaičių. Pavyzdžiui, turint `skaiciai = { 7, 4, 9, 2, 3 }`, didžiausias skaičius yra `9`, todėl masyvas bus pakeistas: `skaiciai = { 7, 4, 9, 9, 2, 9, 3 }`.
+- Didžiausią masyvo skaičių įterpkite po kiekvieno lyginio skaičiaus. Pavyzdžiui, turint `skaiciai = { 7, 4, 9, 2, 3 }`, didžiausias skaičius yra `9`, todėl masyvas bus pakeistas: `skaiciai = { 7, 4, 9, 9, 2, 9, 3 }`.
 
 ### Užduotis 6 (sudėtingesnė)
 
