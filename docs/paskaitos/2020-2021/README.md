@@ -55,7 +55,7 @@ Paskaitų tvarkaraštis sudaromas norintiems mokytis ar pagilinti žinias tik pr
 | 2021-04-19 (pirmadienis) | 18 val. | Vienmačiai masyvai ir algoritmai (paieška, rikiavimas) | [Paskaitos įrašas (2:03 val.)](https://www.youtube.com/watch?v=iztGhDnviTc) |
 | 2021-04-20 (antradienis) | 18 val. | Vienmačiai masyvai ir algoritmai (rikiavimas, keitimas, įterpimas, šalinimas) | [Paskaitos įrašas (2:08 val.)](https://www.youtube.com/watch?v=2ItzEXHQQx4) |
 | 2021-04-21 (trečiadienis) | 18 val. | Grafinė vartotojo sąsaja (GUI) | [Paskaitos įrašas (1:37 val.)](https://www.youtube.com/watch?v=feW2kBKbhqw) |
-| **2021-04-24 (šeštadienis)** | **13 val.** | **Papildoma konsultacija** | **Vyks** |
+| 2021-04-24 (šeštadienis) | 13 val. | Papildoma konsultacija | Įvyko, įrašo nėra |
 | **2021-04-26 (pirmadienis)** | **18 val.** | **Darbas su duomenų failais** | **Vyks ([tiesioginę transliaciją rasite čia](https://www.youtube.com/channel/UCP3MANaEkoW4LXa74e1xzgQ))** |
 | **2021-04-27 (antradienis)** | **18 val.** | **Funkcijos** | **Vyks ([tiesioginę transliaciją rasite čia](https://www.youtube.com/channel/UCP3MANaEkoW4LXa74e1xzgQ))** |
 | **2021-05-01 (šeštadienis)** | **13 val.** | **Papildoma konsultacija** | **Vyks** |
