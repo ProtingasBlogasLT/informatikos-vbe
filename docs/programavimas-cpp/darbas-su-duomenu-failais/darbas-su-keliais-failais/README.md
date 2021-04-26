@@ -314,4 +314,62 @@ Siu skaiciu bendra suma: 231
 
 ## Užduotys
 
-Informacija ruošiama.
+### Užduotis 1
+
+Duomenų faile esanti informacija:
+
+```
+4
+Liepa     12
+Berzelis  10
+Obelis    13
+Kriause   15
+```
+
+Duomenų failo pirmoje eilutėje yra nurodytas įrašų kiekis.
+
+Kitose failo eilutėse saugoma ši informacija apie medžius:
+
+- Medžio pavadinimas.
+- Medžio amžius metais.
+
+Atkreipkite dėmesį, kad medžio pavadinimams yra naudojamas atitinkamas simbolių kiekis, kadangi pavadinimą gali sudaryti ne vienas žodis.
+
+Nuskaitykite šią informaciją iš failo.
+
+Į kitą failą išveskite šią nuskaitytą informaciją gražiai lentelės pavidalu.
+
+Taip pat, raskite ir išveskite šiuos dalykus:
+
+- Medžių amžiaus vidurkį.
+- Vyriausią medį.
+- Jaunausią medį.
+- Skirtumą tarp vyriausio ir jaunausio medžių.
+
+### Užduotis 2
+
+Faile esanti informacija:
+
+```
+Piestukas           0.99 45
+Kreideles crayon    1.99 32
+Sasiuvinys 50 psl.  1.49 26
+```
+
+Kiekvienoje failo eilutėje yra ši informacija apie prekes:
+
+- Prekės pavadinimas.
+- Kaina, eurais.
+- Turimų vienetų kiekis.
+
+Atkreipkite dėmesį į tai kad prekės pavadinimas yra sudarytas iš atitinkamo simbolių kiekio, kadangi prekės pavadinimą gali sudaryti ne vienas žodis.
+
+Nuskaitykite šią informaciją iš failo.
+
+Išveskite nuskaitytą informaciją į rezultatų failą lentelės pavidalu. Kainą atvaizduokite fiksuotą du skaičiai po kablelio.
+
+Taip pat, raskite:
+
+- Raskite kuri prekė yra pigiausia ir kuri brangiausia.
+- Kurios prekės yra daugiausiai vienetų.
+- Kurios prekės pelnas būtų didžiausias, jeigu pavyktų parduoti visus turimus vienetus.

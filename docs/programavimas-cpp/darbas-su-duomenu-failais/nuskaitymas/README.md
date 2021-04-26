@@ -533,7 +533,119 @@ Skaiciai: 8 9 5 4 5
 
 ## Užduotys 1 (paprastas nuskaitymas)
 
-Informacija ruošiama.
+### Užduotis 1
+
+Duomenų failo turinys:
+
+```
+Tomas 19 KTU 8
+```
+
+Šiame faile esanti informacija:
+
+- Pirmas žodis ("Tomas") - studento vardas.
+- Antras skaičius ("19") - studento amžius.
+- Trečias žodis ("KTU") - aukštosios mokyklos, kurioje mokosi studentas trumpinys.
+- Ketvirtas skaičius ("8") - studento vidurkis.
+
+Nuskaitykite šią informaciją, bei ją išveskite į ekraną norimo sakinio forma, pavyzdžiui:
+
+```
+Studentas Tomas (19 m.) mokosi KTU, jo vidurkis - 8.
+```
+
+Taip pat išveskite ar studento vidurkis yra teigiamas ar neigiamas skaičius.
+
+Pamėginkite pakeitinėti duomenų failą, ištestuokite ar programa veikia korektiškai su kitokiais duomenimis (kurie iš formato atitinka dabar nurodytus).
+
+### Užduotis 2
+
+Duomenų failo turinys:
+
+```
+Tomas 1.9 19
+Ugnius 2.0 20
+Giedrius 1.8 21
+```
+
+Kiekvienoje failo eilutėje pateikiami duomenys apie tris krepšininkus:
+
+- Vardas.
+- Ūgis, metrais.
+- Amžius.
+
+Nuskaitykite šiuos duomenis iš failo.
+
+Nuskaitytus duomenis išveskite konsolėje lentelės pavidalu.
+
+Raskite, kuris krepšininkas yra vyriausias, bei kuris krepšininkas yra aukščiausias.
+
+### Užduotis 3
+
+Faile esantis turinys:
+
+```
+3 5 8 7 9 6
+```
+
+Nuskaitykite šiuos duomenis iš failo.
+
+Išveskite nuskaitytą informaciją norima forma į konsolę.
+
+Raskite, skaičių sumą, vidurkį, bei didžiausią ir mažiausią skaičius.
+
+### Užduotis 4
+
+Faile esantis turinys:
+
+```
+Liepa         5.2 12
+Obelis        2.9 10
+Berželis      7.8 8
+```
+
+Kiekvienoje failo eilutėje saugoma tokia informacija apie medžius:
+
+- Pavadinimas.
+- Aukštis, metrais.
+- Amžius, metais.
+
+Atkreipkite dėmesį, kad pavadinimas užima atitinkamą kiekį simbolių.
+
+Nuskaitykite šią informaciją iš failo.
+
+Išveskite nuskaitytą informaciją lentelės pavidalu į konsolę.
+
+Raskite kiek yra medžių, kurių amžius yra lygus daugiau nei 10 metų.
+
+### Užduotis 5
+
+Faile esantis turinys:
+
+```
+Audi, A4, 2005 1.6 321021
+```
+
+Faile esanti informacija apie automobilį:
+
+- Automobilio markė.
+- Automobilio modelis.
+- Gamybos metai.
+- Darbinis tūris, l.
+- Rida, km.
+
+Atkreipkite dėmesį, kad po markės ir modelio yra dedamas kablelis, kadangi markę ir / ar modelį gali sudaryti keli žodžiai, todėl nuskaitymas turi būti atliktas iki kablelio.
+
+Nuskaitykite šią informaciją iš failo.
+
+Išveskite nuskaitytą informaciją apie automobilį į konsolę.
+
+Vartotojui leiskite konsolės pagalba suvesti dabartinius metus.
+
+Paskaičiuokite:
+
+- Automobilio amžių (dabartiniai metai - gamybos metai).
+- Kiek vidutiniškai kilometrų automobilis nuvažiavęs kiekvienais metais?
 
 ## Pavyzdžiai 2 (kai žinoma kiek duomenų)
 
@@ -732,7 +844,113 @@ Inga (22 m.)
 
 ## Užduotys 2 (kai žinoma kiek duomenų)
 
-Informacija ruošiama.
+### Užduotis 6
+
+Faile esantis turinys:
+
+```
+4
+Kaunas
+Vilnius
+Klaipeda
+Panevezys
+```
+
+Pirmoje failo eilutėje yra skaičius, kiek miestų yra šiame faile. Sekančioje failo eilutėje yra miestų pavadinimai.
+
+Nuskaitykite šiuos duomenis iš failo.
+
+Išveskite nuskaitytus duomenis konsolėje, norima forma.
+
+Prie kiekvieno miesto nurodykite iš kiek raidžių yra sudarytas jo pavadinimas.
+
+### Užduotis 7
+
+Faile esantis turinys:
+
+```
+8
+5 8 7 4 3 5 4 8
+```
+
+Failo pirmoje eilutėje yra nurodytas pažymių kiekis. Sekančioje eilutėje yra nurodytas atitinkamas kiekis pažymių.
+
+Nuskaitykite šią informaciją iš failo.
+
+Paskaičiuokite nuskaitytų pažymių vidurkį.
+
+Išveskite nuskaitytus pažymius ir gautą vidurkį į konsolę.
+
+### Užduotis 8
+
+Faile esantis turinys:
+
+```
+4
+Frontend programuotojas, 3
+Backend programuotojas, 4
+Dizaineris, 2
+Projektu vadovas, 1
+```
+
+Failo pirmoje eilutėje yra nurodyta kiek įrašų apie komandos narius yra šiame faile.
+
+Sekančioje eilutėse yra saugoma informacija apie komandą:
+
+- Pareigų pavadinimas.
+- Kiek yra žmonių, užimančių nurodytas pareigas.
+
+Atkreipkite dėmesį, kad pareigų pavadinimas tęsiasi iki kablelio, nes pavadinimas gali būti sudarytas iš kelių žodžių.
+
+Nuskaitykite šią informaciją iš failo.
+
+Išveskite nuskaitytą informaciją į konsolę lentelės pavidalu.
+
+### Užduotis 9
+
+Faile esantis turinys:
+
+```
+4
+Frontend programuotojas  3
+Backend programuotojas   4
+Dizaineris               2
+Projektu vadovas         1
+```
+
+Failo pirmoje eilutėje yra nurodyta kiek įrašų apie komandos narius yra šiame faile.
+
+Sekančioje eilutėse yra saugoma informacija apie komandą:
+
+- Pareigų pavadinimas.
+- Kiek yra žmonių, užimančių nurodytas pareigas.
+
+Atkreipkite dėmesį, kad pareigų pavadinimui yra naudojamas atitinkamas kiekis simbolių, todėl nuskaityme reikės nuskaityti atitinkamą kiekį simbolių.
+
+Nuskaitykite šią informaciją iš failo.
+
+Išveskite nuskaitytą informaciją į konsolę lentelės pavidalu.
+
+### Užduotis 10 (sudėtingesnė)
+
+Faile esantis turinys:
+
+```
+Tomas 5 8 6 9 8 4
+Gintare 3 8 4 9
+```
+
+Kiekvienoje failo eilutėje yra informacija apie studentus:
+
+- Pirmoje vietoje - studento(-ės) vardas.
+- Antro vietoje - kiek pažymių turi studentas(-ė).
+- Trečioje vietoje ir toliau - studento(-ės) pažymiai.
+
+Nuskaitykite šią informaciją iš failo.
+
+Išveskite nuskaitytą informaciją į konsolę norima forma.
+
+Raskite, kurio studento(-ės) pažymių vidurkis didesnis.
 
 ## Pavyzdžiai 3 (kai nežinoma kiek duomenų)
 
@@ -931,4 +1149,106 @@ Giedrius (22 m.)
 
 ## Užduotys 3 (kai nežinoma kiek duomenų)
 
-Informacija ruošiama.
+### Užduotis 11
+
+Faile esanti informacija:
+
+```
+8 9 7 4 5 3 1 2 5 4 8 7 4 5 3 2 1 5
+```
+
+Nuskaitykite šią informaciją iš failo.
+
+Raskite šių skaičių sumą, vidurkį, mažiausią skaičių, didžiausią skaičių.
+
+Nuskaitytus duomenis ir gautus atsakymus išveskite į konsolę.
+
+Papildomai: pamėginkite skaičius surikiuoti didėjimo tvarka ir išveskite į konsolę.
+
+### Užduotis 12
+
+Faile esanti informacija:
+
+```
+Kate
+Suo
+Gyvate
+Dramblys
+Zirafa
+Vilkas
+```
+
+Faile saugoma informacija apie gyvūnus.
+
+Nuskaitykite šią informaciją.
+
+Norima forma išveskite konsolės ekrane nuskaitytus duomenis, šalia kiekvieno gyvūno nurodant eilės numerį, kelintas tai gyvūnas (`1-as`, `2-as`, ...).
+
+### Užduotis 13
+
+Faile esanti informacija:
+
+```
+Piestukas, 0.99
+Kreideles crayon, 1.99
+Sasiuvinys 50 psl., 1.49
+```
+
+Kiekvienoje failo eilutėje yra ši informacija apie prekes:
+
+- Prekės pavadinimas.
+- Kaina, eurais.
+
+Atkreipkite dėmesį į tai kad prekės pavadinimas yra nurodomas iki kablelio, kadangi pavadinimą gali sudaryti ne vienas žodis.
+
+Nuskaitykite šią informaciją iš failo.
+
+Išveskite nuskaitytą informaciją į konsolę lentelės pavidalu.
+
+Raskite kuri prekė yra pigiausia ir kuri brangiausia.
+
+### Užduotis 14
+
+Faile esanti informacija:
+
+```
+Piestukas            0.99
+Kreideles crayon     1.99
+Sasiuvinys 50 psl.   1.49
+```
+
+Kiekvienoje failo eilutėje yra ši informacija apie prekes:
+
+- Prekės pavadinimas.
+- Kaina, eurais.
+
+Atkreipkite dėmesį į tai kad prekės pavadinimas užima atitinkamą kiekį simbolių, kadangi pavadinimą gali sudaryti ne vienas žodis.
+
+Nuskaitykite šią informaciją iš failo.
+
+Išveskite nuskaitytą informaciją į konsolę lentelės pavidalu.
+
+Raskite kuri prekė yra pigiausia ir kuri brangiausia.
+
+### Užduotis 15 (sudėtingesnė)
+
+Faile esanti informacija:
+
+```
+Giedrius 6 5 4 8 9 4 7
+Paulina 5 7 8 9 6 8
+Inga 6 8 7 9 6 5 4
+Tomas 5 6 5 8 7 9
+```
+
+Kiekvienoje failo eilutėje saugoma ši informacija apie studentus(-es):
+
+- Pirmoje vietoje - studento(-ės) vardas.
+- Antro vietoje - kiek pažymių studentas(-ė) turi.
+- Trečioje vietoje ir sekančiose - studento(-ės) pažymiai.
+
+Nuskaitykite šią informaciją iš failo.
+
+Paskaičiuokite kiekvieno studento(-ės) pažymių vidurkį.
+
+Į konsolę išveskite studento(-ės) vardą ir pažymių vidurkį.

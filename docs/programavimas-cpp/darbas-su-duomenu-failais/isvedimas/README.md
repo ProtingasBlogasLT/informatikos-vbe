@@ -624,4 +624,79 @@ Kiek skaiciu irasyti? 10
 
 ## Užduotys
 
-Informacija ruošiama.
+### Užduotis 1
+
+Į failą, skirtingose eilutėse, išveskite:
+
+- Savo vardą.
+- Kodėl mokotės C++.
+- Kaip jums sekasi mokytis.
+
+### Užduotis 2
+
+Į failą išveskite šių skaičiavimų atsakymus:
+
+- `5 + 3`
+- `8 * 2`
+- `9 / 2`
+
+### Užduotis 3
+
+- Leiskite vartotojui konsolės pagalba suvesti dabartinius metus ir savo gimimo metus.
+- Į failą išveskite apskaičiuotą žmogaus amžių.
+
+### Užduotis 4
+
+Susikurkite skaičių masyvą.
+
+Raskite skaičių sumą, vidurkį, bei didžiausią skaičių.
+
+Į failą išveskite šią informaciją:
+
+- Pirmoje eilutėje visus skaičius, atskiriant tarpu.
+- Antroje eilutėje rastą sumą, su prierašu "suma".
+- Trečioje eilutėje rastą vidurkį, su prierašu "vidurkis".
+- Ketvirtoje eilutėje rastą didžiausią skaičių, su prierašu "didžiausias skaičius".
+
+### Užduotis 5
+
+Susikurkite du skirtingus skaičių masyvus.
+
+Iš kiekvieno masyvo raskite didžiausią skaičių.
+
+Raskite kurio masyvo didžiausias skaičius yra didesnis.
+
+Į failą išveskite šią informaciją:
+
+- Pirmoje eilutėje pirmo masyvo skaičius.
+- Antroje eilutėje pirmo masyvo didžiausią skaičių.
+- Trečioje eilutėje antro masyvo skaičius.
+- Ketvirtoje eilutėje antro masyvo didžiausią skaičių.
+- Penktoje eilutėje atsakymą kuriame masyve rastas didžiausias skaičius yra didesnis.
+
+### Užduotis 6
+
+Susikurkite du masyvus informacijai apie studentus saugoti:
+
+- Pirmasis masyvas - studentų vardai.
+- Antrasis masyvas - studentų vidurkiai (skaičiai per kablelį).
+
+Šią informaciją išveskite į failą lentelės pavidalu:
+
+- Pirmame stulpelyje studento vardas.
+- Antrame stulpejyje studento vidurkis. Skaičius fiksuotas, 1-as skaičius po kablelio (`9.5`, `8.0`, ...).
+
+### Užduotis 7
+
+Leiskite vartotojui papildyti failą skaičiais:
+
+- Vartotojas konsolės pagalba suveda norimą kiekį skaičių.
+- Šie skaičiai išvedami į failą, nepanaikinant anksčiau įrašytų skaičių.
+
+### Užduotis 8
+
+Į failą išveskite pasirinkto dydžio daugybos lentelę:
+
+- Vartotojas įveda norimą eilučių ir stulpelių kiekį konsolės pagalba.
+- Programa išveda nurodyto dydžio daugybos lentelę į failą.
+- Lentelė turi būti gražiai formatuota, t.y. skaičiai tuose pačiuose stulpeliuose ir pan., kad būtų vienas paskui kitą.
