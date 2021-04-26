@@ -59,10 +59,10 @@ Paskaitų tvarkaraštis sudaromas norintiems mokytis ar pagilinti žinias tik pr
 | 2021-04-26 (pirmadienis) | 18 val. | Įžanga į darbą su duomenų failais. Informacijos nuskaitymas iš failo | [Paskaitos įrašas (2:03 val.)](https://www.youtube.com/watch?v=QpBZFGF49J4) |
 | **2021-04-27 (antradienis)** | **18 val.** | **Informacijos išvedimas į failą** | **Vyks ([tiesioginę transliaciją rasite čia](https://www.youtube.com/channel/UCP3MANaEkoW4LXa74e1xzgQ))** |
 | **2021-05-01 (šeštadienis)** | **13 val.** | **Papildoma konsultacija** | **Vyks** |
-| 2021-05-03 (pirmadienis) | 18 val. | Funkcijos | Suplanuota |
-| 2021-05-04 (antradienis) | 18 val. | Funkcijos | Suplanuota |
-| 2021-05-05 (trečiadienis) | 18 val. | Grafinė vartotojo sąsaja (GUI) | Suplanuota |
-| 2021-05-08 (šeštadienis) | 13 val. | Papildoma konsultacija | Suplanuota |
+| **2021-05-03 (pirmadienis)** | **18 val.** | **Funkcijos** | **Vyks ([tiesioginę transliaciją rasite čia](https://www.youtube.com/channel/UCP3MANaEkoW4LXa74e1xzgQ))** |
+| **2021-05-04 (antradienis)** | **18 val.** | **Funkcijos** | **Vyks ([tiesioginę transliaciją rasite čia](https://www.youtube.com/channel/UCP3MANaEkoW4LXa74e1xzgQ))** |
+| **2021-05-05 (trečiadienis)** | **18 val.** | **Grafinė vartotojo sąsaja (GUI)** | **Vyks ([tiesioginę transliaciją rasite čia](https://www.youtube.com/channel/UCP3MANaEkoW4LXa74e1xzgQ))** |
+| **2021-05-08 (šeštadienis)** | **13 val.** | **Papildoma konsultacija** | **Vyks** |
 | 2021-05-10 (pirmadienis) | 18 val. | Struktūros | Suplanuota |
 | 2021-05-11 (antradienis) | 18 val. | Struktūros | Suplanuota |
 | 2021-05-15 (šeštadienis) | 13 val. | Papildoma konsultacija | Suplanuota |
