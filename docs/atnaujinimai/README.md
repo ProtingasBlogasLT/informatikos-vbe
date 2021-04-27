@@ -1,6 +1,6 @@
 # Atnaujinimai
 
-**2021-04-27**. Pridėti vaizdo įrašai prie temų (papildomos užduotys 2, darbas su duomenų failais, informacijos nuskaitymas iš failo).
+**2021-04-27**. Pridėti vaizdo įrašai prie temų (papildomos užduotys 2, darbas su duomenų failais, informacijos nuskaitymas iš failo). Atnaujintas paskaitų (2020-2021 m. m.) tvarkaraštis.
 
 **2021-04-26**. Atnaujintas paskaitų (2020-2021 m. m.) tvarkaraštis. Pridėta medžiagos prie darbo su duomenų failais.
 
