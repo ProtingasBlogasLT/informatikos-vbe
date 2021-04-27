@@ -1,5 +1,9 @@
 # Papildomos užduotys
 
+## Vaizdo pamoka
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QpBZFGF49J4?start=253&end=308" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Daily Coding Problem
 
 Eikite adresu [dailycodingproblem.com](https://www.dailycodingproblem.com/) ir prenumeruokite užduotis.
