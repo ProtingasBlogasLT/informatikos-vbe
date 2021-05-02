@@ -921,6 +921,97 @@ Is didziausiu rastu amziu, pats didziausias yra: 25
 
 ```
 
+### Pavyzdys 15
+
+Kodas:
+
+```cpp
+#include <iostream>
+using namespace std;
+
+bool ar_tiesa()
+{
+    int skaicius = 8;
+
+    if (skaicius > 5)
+    {
+        return true;
+    }
+
+    return false;
+}
+
+int main()
+{
+    if (ar_tiesa())
+    {
+        cout << "funkcija grazino true rezultata";
+    }
+
+    return 0;
+}
+```
+
+Rezultatai:
+
+```
+funkcija grazino true rezultata
+```
+
 ## Užduotys
 
-Informacija ruošiama.
+### Užduotis 1
+
+Parašykite šias dvi funkcijas:
+
+- Funkciją, kuri priimtų du skaičius ir grąžintų tą kuris yra didesnis iš jų, o jei skaičiai lygūs - grąžintų bet kurį iš jų.
+- Funkciją, kuri grąžintų mažiausią skaičių iš trijų. Funkcija per argumentus priima tris skaičius, o grąžina mažiausią iš jų.
+
+### Užduotis 2
+
+Sukurkite funkciją, kurioje vartotojas galėtų suvesti savo vardą. Ši funkcija turėtų grąžinti įvesto vardo ilgį (simbolių kiekį) kaip atsakymą.
+
+### Užduotis 3
+
+Leiskite vartotojui suvesti du skaičius.
+
+Sukurkite šias funkcijas:
+
+- Sumos skaičiavimo, kuri priimtų du skaičius ir grąžintų gautą sumą kaip atsakymą.
+- Skirtumo skaičiavimo, kuri priimtų du skaičius ir grąžintų gautą skirtumą kaip atsakymą.
+- Sandaugos skaičiavimo, kuri priimtų du skaičius ir grąžintų gautą sandaugą kaip atsakymą.
+- Dalmens skaičiavimo, kuri priimtų du skaičius ir grąžintų gautą dalmenį kaip atsakymą.
+
+Iškvieskite šias funkcijas, perduodant vartotojo suvestus skaičius.
+
+Šių funkcijų rezultatus galite saugoti naujuose kintamuosiuose arba galite iškart išvesti, išvedant atsakymus.
+
+### Užduotis 4
+
+Sukurkite funkciją, kuri leistų vartotojui suvesti savo paskutinį pažymį. Ši funkcija turi grąžinti `true` jeigu pažymys yra teigiamas (4 ir daugiau) arba `false` jeigu pažymys yra mažesnis.
+
+Papildomai: padarykite išvedimą suprantamesnį programos naudotojui (jeigu funkcijos rezultatas `true` tuomet išvesti vienokį tekstą, o jei `false` - kitokį).
+
+### Užduotis 5
+
+Sukurkite funkciją, kuri patikrintų ar skaičius yra pirminis ar ne, ši funkcija grąžina `bool` tipo atsakymą, kur `true` reikšmė reiškia - skaičius pirminis ir `false` - skaičius ne pirminis.
+
+Leiskite vartotojui suvesti norimą kiekį skaičių. Šią funkciją iškvieskite su kiekvienu skaičiumi.
+
+### Užduotis 6
+
+Susikurkite skaičių masyvą.
+
+Parašykite šias funkcijas:
+
+- Priimtų skaičių masyvą ir kiekį, grąžintų mažiausią rastą skaičių.
+- Priimtų skaičių masyvą ir kiekį, grąžintų didžiausią rastą skaičių.
+- Priimtų skaičių masyvą ir kiekį, grąžintų sumą.
+- Priimtų sumą ir kiekį, grąžintų vidurkį.
+- Priimtų skaičių masyvą ir kiekį, iškviestų visas ankstesnes funkcijas, išvedant visus papildomus tekstus, kurie apibūdintų atliktus skaičiavimus ir gautus rezultatus.
+
+Iškvieskite paskutinę funkciją (kuri kviečia visas kitas funkcijas), perduodant turimą skaičių masyvą ir elementų kiekį.
+
+### Užduotis 7 (sudėtingesnė)
+
+Sukurkite funkciją, kuri per argumentus priimtų žmogaus vardą, paskaičiuočių kiek balsių yra gautame varde ir grąžintų balsių kiekį kaip atsakymą.
