@@ -230,4 +230,58 @@ Nuskaityti skaiciai:
 
 ## Užduotys
 
-Informacija ruošiama.
+### Užduotis 1
+
+Sukurkite funkciją, kuri leistų vartotojui suvesti duomenis apie save (vardas, amžius, ūgis). Šiuos duomenis turite gauti atgal į pagrindinę programos funkciją (`main`) per įvedimo funkcijos parametrus.
+
+Sukurkite antrąją funkciją, kuri per funkcijos argumentus gautų įvestus duomenis ir išvestų juos į konsolę.
+
+### Užduotis 2
+
+Sukurkite šias funkcijas:
+
+- Kuri sugeneruotų du atsitiktinius skaičius ir juos grąžintų per funkcijos parametrus.
+- Sumos paskaičiavimo funkciją, kuri gauna du skaičius ir grąžina sumą kaip atsakymą.
+- Išvedimo funkciją, kuri gauna du skaičius ir išveda į konsolę atliktą veiksmą bei gautą atsakymą (pvz.: `5 + 3 = 8`). Dėl atsakymo ši funkcija kviečia sumos skaičiavimo funkciją.
+
+Pagrindinėje programos funkcijoje (`main`) sukurkite ciklą, kurį vykdykite 10 kartų. Šiame cikle, kiekvieną kartą kvieskite skaičių sugeneravimo funkciją, bei išvedimo funkciją.
+
+### Užduotis 3
+
+Faile esantys duomenys:
+
+```
+Tomas Tomauskas 19 1.8
+```
+
+Faile esantys duomenys:
+
+- Vardas.
+- Pavardė.
+- Amžius.
+- Ūgis.
+
+Parašykite funkciją, kuri nuskaitytų duomenis iš failo ir juos perduotų atgal per funkcijos parametrus.
+
+Iškvieskite šią funkciją.
+
+Nuskaitytus rezultatus išvesti galite per išvedimo funkciją (jeigu ją susikursite) arba iškart `main` funkcijoje.
+
+### Užduotis 4
+
+Programoje susikurkite duomenis vartotojo vardui ir slaptažodžiui saugoti.
+
+Susikurkite papildomą funkciją, kurioje vartotojui būtų išvedami jo duomenys, bei paklausiama ar vartotojas nori tuos duomenis pakeisti. Jeigu vartotojas pasirinks, kad nori, tai turi būti leista suvesti naujas reikšmes, o šios reikšmės turi būti grąžinamos per funkcijos parametrus.
+
+### Užduotis 5 (sudėtingesnė, laisva forma)
+
+Užduotis laisva forma, todėl patys renkatės kokios funkcijos bus realizuotos, kokie funkcionalumai bus įgyvendinti, bei kaip gausite duomenis ir kur saugosite rezultatus.
+
+Sukurkite nedidelį žaidimą.
+
+Idėjos žaidimui:
+
+- Žaidime turėtų būti pagrindinis herojus, bei priešai.
+- Pagrindinis herojus turi puolimo ir gynybos taškus, bei kiek gyvybės likę.
+- Priešai gali nuimti tam tikrą kiekį gyvybės nuo herojaus. Jeigu herojaus gynyba yra ženkliai mažesnė nei priešo puolimas, tai gyvybės procentaliai gali sumažėti daugiau, nei jeigu herojaus gynyba būtų aukštesnė.
+- Jeigu herojus miršta, turi būti parodytas atitinkamas pralaimėjimo pranešimas. Jeigu herojus įveikia visus priešus ir lieka gyvas - tuomet laimėjimo pranešimas.
