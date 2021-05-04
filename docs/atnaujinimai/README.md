@@ -1,5 +1,7 @@
 # Atnaujinimai
 
+**2021-05-04**. Atnaujintas paskaitų (2020-2021 m. m.) tvarkaraštis. Pridėti vaizdo įrašai prie funkcijų temų.
+
 **2021-05-03**. Atnaujintas paskaitų (2020-2021 m. m.) tvarkaraštis. Pridėta medžiagos prie funkcijų.
 
 **2021-05-02**. Pridėta medžiagos prie funkcijų.
