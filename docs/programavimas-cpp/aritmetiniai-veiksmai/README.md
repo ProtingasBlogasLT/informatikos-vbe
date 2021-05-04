@@ -8,7 +8,7 @@
 
 - Skaičiavimuose gali prireikti ką nors sudauginti, padalinti, sudėti ar atimti, todėl tokius veiksmus galite atlikti ir su C++ pagalba.
 - Aritmetinius veiksmus galima naudoti bet kur, kur prireikia: kuriant kintamuosius ir iškart pasiskaičiuojant jo reikšmę, išvedant ką nors, patikrinimo sąlygose ir pan.
-- Skaičiavimai atliekami tokia tvarka kaip nusako matematika: pirma daugyba, tada dalyba, sudėtis ir galiausiai atimtis.
+- Skaičiavimai atliekami tokia tvarka kaip nusako matematika: daugyba ir dalyba, tuomet sudėtis ir atimtis.
 - Jeigu reikia, eiliškumą galima pakeisti naudojant skliaustus.
 
 ## Aritmetiniai operatoriai
