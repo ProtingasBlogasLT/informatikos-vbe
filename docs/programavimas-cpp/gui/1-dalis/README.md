@@ -1,4 +1,4 @@
-# Įžanga į grafinę vartotojo sąsają (GUI)
+# Grafinė vartotojo sąsaja (GUI) (1 dalis)
 
 ## Vaizdo pamoka
 

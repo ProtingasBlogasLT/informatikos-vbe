@@ -205,7 +205,8 @@ module.exports = {
           children: [
             // '/programavimas-cpp/gui/',
             '/programavimas-cpp/gui/aplinkos-pasiruosimas/',
-            '/programavimas-cpp/gui/izanga/',
+            '/programavimas-cpp/gui/1-dalis/',
+            '/programavimas-cpp/gui/2-dalis/',
           ]
         },
       ],
