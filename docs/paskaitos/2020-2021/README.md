@@ -62,19 +62,20 @@ Paskaitų tvarkaraštis sudaromas norintiems mokytis ar pagilinti žinias tik pr
 | 2021-05-03 (pirmadienis) | 18 val. | Įžanga į funkcijas. Paprasčiausios funkcijos | [Paskaitos įrašas (2:04 val.)](https://www.youtube.com/watch?v=bzeN4Ina01I) |
 | 2021-05-04 (antradienis) | 18 val. | Funkcijos su argumentais | [Paskaitos įrašas (2:05 val.)](https://www.youtube.com/watch?v=im6Hj1_oSaI) |
 | 2021-05-05 (trečiadienis) | 18 val. | Grafinė vartotojo sąsaja (GUI) (2 dalis) | [Paskaitos įrašas (2:05 val.)](https://www.youtube.com/watch?v=hWBWVmxPxHE) |
-| **2021-05-08 (šeštadienis)** | **13 val.** | **Papildoma konsultacija** | **Vyks** |
+| 2021-05-08 (šeštadienis) | 13 val. | Papildoma konsultacija | Įvyko, įrašo nėra |
 | **2021-05-10 (pirmadienis)** | **18 val.** | **Funkcijos su grąžinimo tipu. Reikšmių grąžinimas per funkcijos parametrus** | **Vyks ([tiesioginę transliaciją rasite čia](https://www.youtube.com/channel/UCP3MANaEkoW4LXa74e1xzgQ))** |
 | **2021-05-11 (antradienis)** | **18 val.** | **Struktūros** | **Vyks ([tiesioginę transliaciją rasite čia](https://www.youtube.com/channel/UCP3MANaEkoW4LXa74e1xzgQ))** |
 | **2021-05-15 (šeštadienis)** | **13 val.** | **Papildoma konsultacija** | **Vyks ([tiesioginę transliaciją rasite čia](https://www.youtube.com/channel/UCP3MANaEkoW4LXa74e1xzgQ))** |
 | 2021-05-17 (pirmadienis) | 18 val. | Struktūros | Suplanuota |
 | 2021-05-18 (antradienis) | 18 val. | Struktūros | Suplanuota |
+| 2021-05-19 (trečiadienis) | 18 val. | Grafinė vartotojo sąsaja (GUI) (3 dalis) | Suplanuota |
 | 2021-05-22 (šeštadienis) | 13 val. | Papildoma konsultacija | Suplanuota |
 | 2021-05-24 (pirmadienis) | 18 val. | Pasiruošimas informatikos VBE | Suplanuota |
 | 2021-05-25 (antradienis) | 18 val. | Pasiruošimas informatikos VBE | Suplanuota |
-| 2021-05-26 (trečiadienis) | 18 val. | Grafinė vartotojo sąsaja (GUI) | Suplanuota |
 | 2021-05-29 (šeštadienis) | 13 val. | Papildoma konsultacija | Suplanuota |
 | 2021-05-31 (pirmadienis) | 18 val. | Pasiruošimas informatikos VBE | Suplanuota |
 | 2021-06-01 (antradienis) | 18 val. | Pasiruošimas informatikos VBE | Suplanuota |
+| 2021-06-02 (trečiadienis) | 18 val. | Grafinė vartotojo sąsaja (GUI) (4 dalis) | Suplanuota |
 | 2021-06-05 (šeštadienis) | 13 val. | Papildoma konsultacija | Suplanuota |
 | 2021-06-07 (pirmadienis) | 18 val. | Pasiruošimas informatikos VBE | Suplanuota |
 | 2021-06-08 (antradienis) | 18 val. | Pasiruošimas informatikos VBE | Suplanuota |
