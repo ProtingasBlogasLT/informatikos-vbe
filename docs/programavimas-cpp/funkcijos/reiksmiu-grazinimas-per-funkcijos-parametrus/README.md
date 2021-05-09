@@ -163,6 +163,198 @@ Ivesti skaiciai:
 
 Kodas:
 
+```cpp
+#include <iostream>
+#include <string>
+#include <iomanip>
+using namespace std;
+
+// FUNKCIJŲ PROTOTIPAI -------------------------------
+
+void duomenu_ivedimas(string vardai[], int amziai[], int & kiekis);
+void duomenu_isvedimas(string vardai[], int amziai[], int kiekis, int & didz_amzius);
+string ilgiausias_vardas(string vardai[], int kiekis);
+int didziausias_amzius(int amziai[], int kiekis);
+
+// PAGRINDINĖ PROGRAMOS FUNKCIJA ---------------------
+
+int main()
+{
+    string vardai1[10], vardai2[10];
+    int amziai1[10], amziai2[10];
+    int kiekis1 = 0, kiekis2 = 0;
+
+    duomenu_ivedimas(vardai1, amziai1, kiekis1);
+    duomenu_ivedimas(vardai2, amziai2, kiekis2);
+
+    int pirmo_didz_amzius = 0, antro_didz_amzius = 0;
+
+    duomenu_isvedimas(vardai1, amziai1, kiekis1, pirmo_didz_amzius);
+    duomenu_isvedimas(vardai2, amziai2, kiekis2, antro_didz_amzius);
+
+    cout << "Is didziausiu rastu amziu, pats didziausias yra: ";
+
+    if (pirmo_didz_amzius > antro_didz_amzius)
+    {
+        cout << pirmo_didz_amzius;
+    }
+    else if (antro_didz_amzius > pirmo_didz_amzius)
+    {
+        cout << antro_didz_amzius;
+    }
+    else
+    {
+        cout << "abu vienodi";
+    }
+
+    cout << endl;
+
+    return 0;
+}
+
+// VISOS KITOS FUNKCIJOS -----------------------------
+
+void duomenu_ivedimas(string vardai[], int amziai[], int & kiekis)
+{
+    cout << "Kiek duomenu norite suvesti? ";
+    cin >> kiekis;
+    cout << endl;
+
+    for (int i = 0; i < kiekis; i++)
+    {
+        cout << i + 1 << "-asis zmogus\n";
+        cout << "Vardas: ";
+        cin >> vardai[i];
+        cout << "Amzius: ";
+        cin >> amziai[i];
+        cout << endl;
+    }
+}
+
+void duomenu_isvedimas(string vardai[], int amziai[], int kiekis, int & didz_amzius)
+{
+    didz_amzius = didziausias_amzius(amziai, kiekis);
+
+    cout << "+--------------------+--------+\n";
+    cout << "| Vardas             | Amzius |\n";
+    cout << "+--------------------+--------+\n";
+    
+    for (int i = 0; i < kiekis; i++)
+    {
+        cout << "| " << setw(18) << left << vardai[i]
+            << " | " << setw(6) << amziai[i] << " |\n";
+    }
+
+    cout << "+--------------------+--------+\n\n";
+    cout << "Ilgiausias vardas: " << ilgiausias_vardas(vardai, kiekis) << endl;
+    cout << "Didziausias amzius: " << didz_amzius << endl;
+    cout << "\n\n";
+}
+
+string ilgiausias_vardas(string vardai[], int kiekis)
+{
+    string ilgiausias = "";
+
+    for (int i = 0; i < kiekis; i++)
+    {
+        if (vardai[i].length() > ilgiausias.length())
+        {
+            ilgiausias = vardai[i];
+        }
+    }
+
+    return ilgiausias;
+}
+
+int didziausias_amzius(int amziai[], int kiekis)
+{
+    int didz_amzius = 0;
+
+    for (int i = 0; i < kiekis; i++)
+    {
+        if (amziai[i] > didz_amzius)
+        {
+            didz_amzius = amziai[i];
+        }
+    }
+
+    return didz_amzius;
+}
+```
+
+Rezultatai:
+
+```
+Kiek duomenu norite suvesti? 3
+
+1-asis zmogus
+Vardas: Tomas
+Amzius: 18
+
+2-asis zmogus
+Vardas: Gabriele
+Amzius: 23
+
+3-asis zmogus
+Vardas: Giedrius
+Amzius: 20
+
+Kiek duomenu norite suvesti? 5
+
+1-asis zmogus
+Vardas: Povilas
+Amzius: 19
+
+2-asis zmogus
+Vardas: Indre
+Amzius: 25
+
+3-asis zmogus
+Vardas: Zygimantas
+Amzius: 24
+
+4-asis zmogus
+Vardas: Paulius
+Amzius: 17
+
+5-asis zmogus
+Vardas: Greta
+Amzius: 21
+
++--------------------+--------+
+| Vardas             | Amzius |
++--------------------+--------+
+| Tomas              | 18     |
+| Gabriele           | 23     |
+| Giedrius           | 20     |
++--------------------+--------+
+
+Ilgiausias vardas: Gabriele
+Didziausias amzius: 23
+
+
++--------------------+--------+
+| Vardas             | Amzius |
++--------------------+--------+
+| Povilas            | 19     |
+| Indre              | 25     |
+| Zygimantas         | 24     |
+| Paulius            | 17     |
+| Greta              | 21     |
++--------------------+--------+
+
+Ilgiausias vardas: Zygimantas
+Didziausias amzius: 25
+
+
+Is didziausiu rastu amziu, pats didziausias yra: 25
+
+```
+
+### Pavyzdys 5
+
+Kodas:
+
 <code-group>
 <code-block title="programa.cpp">
 ```cpp

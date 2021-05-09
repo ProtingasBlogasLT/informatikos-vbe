@@ -66,45 +66,18 @@ int main()
 
 int skaicius()
 {
-    int sk = 5;
-    return sk;
+    return 5 + 3;
 }
 ```
 
 Rezultatai:
 
 ```
-5
+8
 
 ```
 
 ### Pavyzdys 2
-
-Kodas:
-
-```cpp
-#include <iostream>
-using namespace std;
-
-int skaicius()
-{
-    return 10;
-}
-
-int main()
-{
-    cout << skaicius();
-    return 0;
-}
-```
-
-Rezultatai:
-
-```
-10
-```
-
-### Pavyzdys 3
 
 Kodas:
 
@@ -134,7 +107,7 @@ Rezultatai:
 19
 ```
 
-### Pavyzdys 4
+### Pavyzdys 3
 
 Kodas:
 
@@ -149,83 +122,7 @@ int skaicius()
     return atsitiktinis;
 }
 
-int main()
-{
-    srand(time(NULL));
-
-    cout << skaicius() << endl;
-    cout << skaicius() << endl;
-    cout << skaicius() << endl;
-
-    return 0;
-}
-```
-
-Rezultatas 1:
-
-```
-31
-95
-5
-
-```
-
-Rezultatas 2:
-
-```
-61
-95
-43
-
-```
-
-### Pavyzdys 5
-
-Kodas:
-
-```cpp
-#include <iostream>
-#include <ctime>
-using namespace std;
-
-int skaicius()
-{
-    return rand() % 100 + 1;
-}
-
-int main()
-{
-    srand(time(NULL));
-
-    int sugeneruotas_skaicius = skaicius();
-    cout << sugeneruotas_skaicius;
-
-    return 0;
-}
-```
-
-Rezultatas 1:
-
-```
-87
-```
-
-Rezultatas 2:
-
-```
-54
-```
-
-### Pavyzdys 6
-
-Kodas:
-
-```cpp
-#include <iostream>
-#include <ctime>
-using namespace std;
-
-int skaicius(int nuo, int iki)
+int skaicius_reziuose(int nuo, int iki)
 {
     int max = iki - nuo;
     return rand() % max + nuo;
@@ -235,10 +132,13 @@ int main()
 {
     srand(time(NULL));
 
-    cout << "atsitiktiniai skaiciai:\n";
-    cout << "nuo 1 iki 10: " << skaicius(1, 10) << endl;
-    cout << "nuo 5 iki 10: " << skaicius(5, 10) << endl;
-    cout << "nuo 100 iki 1000: " << skaicius(100, 1000) << endl;
+    cout << skaicius() << endl;
+    cout << skaicius() << endl;
+    cout << skaicius() << endl;
+
+    cout << "nuo 1 iki 10: " << skaicius_reziuose(1, 10) << endl;
+    cout << "nuo 5 iki 10: " << skaicius_reziuose(5, 10) << endl;
+    cout << "nuo 100 iki 1000: " << skaicius_reziuose(100, 1000) << endl;
 
     return 0;
 }
@@ -247,64 +147,26 @@ int main()
 Rezultatas 1:
 
 ```
-atsitiktiniai skaiciai:
-nuo 1 iki 10: 4
+83
+69
+31
+nuo 1 iki 10: 8
 nuo 5 iki 10: 9
-nuo 100 iki 1000: 953
-
+nuo 100 iki 1000: 756
 ```
 
 Rezultatas 2:
 
 ```
-atsitiktiniai skaiciai:
-nuo 1 iki 10: 5
+5
+4
+8
+nuo 1 iki 10: 4
 nuo 5 iki 10: 7
-nuo 100 iki 1000: 992
-
+nuo 100 iki 1000: 875
 ```
 
-### Pavyzdys 7
-
-Kodas:
-
-```cpp
-#include <iostream>
-using namespace std;
-
-int suma(int pirmas, int antras)
-{
-    return pirmas + antras;
-}
-
-int main()
-{
-    int skaicius1, skaicius2;
-
-    cout << "Iveskite du skaicius: ";
-    cin >> skaicius1 >> skaicius2;
-
-    cout << skaicius1 << " + " << skaicius2 << " = " << suma(skaicius1, skaicius2);
-
-    return 0;
-}
-```
-
-Rezultatas 1:
-
-```
-Iveskite du skaicius: 6 8
-6 + 8 = 14
-```
-
-Rezultatas 2:
-
-```
-Iveskite du skaicius: 14 52
-14 + 52 = 66
-```
-
-### Pavyzdys 8
+### Pavyzdys 4
 
 Kodas:
 
@@ -324,7 +186,10 @@ int skirtumas(int sk1, int sk2)
 
 int main()
 {
-    int skaicius1 = 8, skaicius2 = 7;
+    int skaicius1, skaicius2;
+
+    cout << "Iveskite du skaicius: ";
+    cin >> skaicius1 >> skaicius2;
 
     cout << skaicius1 << " + " << skaicius2 << " = "
         << suma(skaicius1, skaicius2) << endl;
@@ -336,15 +201,23 @@ int main()
 }
 ```
 
-Rezultatai:
+Rezultatas 1:
 
 ```
+Iveskite du skaicius: 8 7
 8 + 7 = 15
 8 - 7 = 1
-
 ```
 
-### Pavyzdys 9
+Rezultatas 2:
+
+```
+Iveskite du skaicius: 14 9
+14 + 9 = 23
+14 - 9 = 5
+```
+
+### Pavyzdys 5
 
 Kodas:
 
@@ -388,7 +261,7 @@ Rezultatai:
 
 ```
 
-### Pavyzdys 10
+### Pavyzdys 6
 
 Kodas:
 
@@ -458,7 +331,7 @@ Rezultatai:
 
 ```
 
-### Pavyzdys 11
+### Pavyzdys 7
 
 Kodas:
 
@@ -522,7 +395,7 @@ Antras skaiciu masyvas
 Skaiciu suma: 34
 ```
 
-### Pavyzdys 12
+### Pavyzdys 8
 
 Kodas:
 
@@ -606,7 +479,7 @@ Skaiciu vidurkis
 
 ```
 
-### Pavyzdys 13
+### Pavyzdys 9
 
 Kodas:
 
@@ -729,199 +602,7 @@ Ilgiausias vardas: Gintare
 Didziausias amzius: 23
 ```
 
-### Pavyzdys 14
-
-Kodas:
-
-```cpp
-#include <iostream>
-#include <string>
-#include <iomanip>
-using namespace std;
-
-// FUNKCIJŲ PROTOTIPAI -------------------------------
-
-void duomenu_ivedimas(string vardai[], int amziai[], int & kiekis);
-void duomenu_isvedimas(string vardai[], int amziai[], int kiekis, int & didz_amzius);
-string ilgiausias_vardas(string vardai[], int kiekis);
-int didziausias_amzius(int amziai[], int kiekis);
-
-// PAGRINDINĖ PROGRAMOS FUNKCIJA ---------------------
-
-int main()
-{
-    string vardai1[10], vardai2[10];
-    int amziai1[10], amziai2[10];
-    int kiekis1 = 0, kiekis2 = 0;
-
-    duomenu_ivedimas(vardai1, amziai1, kiekis1);
-    duomenu_ivedimas(vardai2, amziai2, kiekis2);
-
-    int pirmo_didz_amzius = 0, antro_didz_amzius = 0;
-
-    duomenu_isvedimas(vardai1, amziai1, kiekis1, pirmo_didz_amzius);
-    duomenu_isvedimas(vardai2, amziai2, kiekis2, antro_didz_amzius);
-
-    cout << "Is didziausiu rastu amziu, pats didziausias yra: ";
-
-    if (pirmo_didz_amzius > antro_didz_amzius)
-    {
-        cout << pirmo_didz_amzius;
-    }
-    else if (antro_didz_amzius > pirmo_didz_amzius)
-    {
-        cout << antro_didz_amzius;
-    }
-    else
-    {
-        cout << "abu vienodi";
-    }
-
-    cout << endl;
-
-    return 0;
-}
-
-// VISOS KITOS FUNKCIJOS -----------------------------
-
-void duomenu_ivedimas(string vardai[], int amziai[], int & kiekis)
-{
-    cout << "Kiek duomenu norite suvesti? ";
-    cin >> kiekis;
-    cout << endl;
-
-    for (int i = 0; i < kiekis; i++)
-    {
-        cout << i + 1 << "-asis zmogus\n";
-        cout << "Vardas: ";
-        cin >> vardai[i];
-        cout << "Amzius: ";
-        cin >> amziai[i];
-        cout << endl;
-    }
-}
-
-void duomenu_isvedimas(string vardai[], int amziai[], int kiekis, int & didz_amzius)
-{
-    didz_amzius = didziausias_amzius(amziai, kiekis);
-
-    cout << "+--------------------+--------+\n";
-    cout << "| Vardas             | Amzius |\n";
-    cout << "+--------------------+--------+\n";
-    
-    for (int i = 0; i < kiekis; i++)
-    {
-        cout << "| " << setw(18) << left << vardai[i]
-            << " | " << setw(6) << amziai[i] << " |\n";
-    }
-
-    cout << "+--------------------+--------+\n\n";
-    cout << "Ilgiausias vardas: " << ilgiausias_vardas(vardai, kiekis) << endl;
-    cout << "Didziausias amzius: " << didz_amzius << endl;
-    cout << "\n\n";
-}
-
-string ilgiausias_vardas(string vardai[], int kiekis)
-{
-    string ilgiausias = "";
-
-    for (int i = 0; i < kiekis; i++)
-    {
-        if (vardai[i].length() > ilgiausias.length())
-        {
-            ilgiausias = vardai[i];
-        }
-    }
-
-    return ilgiausias;
-}
-
-int didziausias_amzius(int amziai[], int kiekis)
-{
-    int didz_amzius = 0;
-
-    for (int i = 0; i < kiekis; i++)
-    {
-        if (amziai[i] > didz_amzius)
-        {
-            didz_amzius = amziai[i];
-        }
-    }
-
-    return didz_amzius;
-}
-```
-
-Rezultatai:
-
-```
-Kiek duomenu norite suvesti? 3
-
-1-asis zmogus
-Vardas: Tomas
-Amzius: 18
-
-2-asis zmogus
-Vardas: Gabriele
-Amzius: 23
-
-3-asis zmogus
-Vardas: Giedrius
-Amzius: 20
-
-Kiek duomenu norite suvesti? 5
-
-1-asis zmogus
-Vardas: Povilas
-Amzius: 19
-
-2-asis zmogus
-Vardas: Indre
-Amzius: 25
-
-3-asis zmogus
-Vardas: Zygimantas
-Amzius: 24
-
-4-asis zmogus
-Vardas: Paulius
-Amzius: 17
-
-5-asis zmogus
-Vardas: Greta
-Amzius: 21
-
-+--------------------+--------+
-| Vardas             | Amzius |
-+--------------------+--------+
-| Tomas              | 18     |
-| Gabriele           | 23     |
-| Giedrius           | 20     |
-+--------------------+--------+
-
-Ilgiausias vardas: Gabriele
-Didziausias amzius: 23
-
-
-+--------------------+--------+
-| Vardas             | Amzius |
-+--------------------+--------+
-| Povilas            | 19     |
-| Indre              | 25     |
-| Zygimantas         | 24     |
-| Paulius            | 17     |
-| Greta              | 21     |
-+--------------------+--------+
-
-Ilgiausias vardas: Zygimantas
-Didziausias amzius: 25
-
-
-Is didziausiu rastu amziu, pats didziausias yra: 25
-
-```
-
-### Pavyzdys 15
+### Pavyzdys 10
 
 Kodas:
 

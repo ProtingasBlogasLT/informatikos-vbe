@@ -1,5 +1,9 @@
 # Atnaujinimai
 
+**2021-05-09**. Atnaujinta medžiaga prie funkcijų.
+
+**2021-05-08**. Atnaujintas paskaitų (2020-2021 m. m.) tvarkaraštis.
+
 **2021-05-06**. Atnaujintas paskaitų (2020-2021 m. m.) tvarkaraštis. Pridėtas vaizdo įrašas prie grafinės vartotojo sąsajos.
 
 **2021-05-04**. Atnaujintas paskaitų (2020-2021 m. m.) tvarkaraštis. Pridėti vaizdo įrašai prie funkcijų temų. Pataisyta informacija prie aritmetinių veiksmų temos.
