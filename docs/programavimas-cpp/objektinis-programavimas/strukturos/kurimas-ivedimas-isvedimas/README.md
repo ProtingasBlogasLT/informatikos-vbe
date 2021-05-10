@@ -461,5 +461,51 @@ gamino: rusai, jo darbinis turis 3.2 l
 ```
 
 ## Užduotys
+### Užduotis 1
 
-Informacija ruošiama.
+Susikurkite struktūrą saugoti šiems aukštosios mokyklos duomenims:
+
+- Pavadinimas.
+- Įsteigimo metai.
+- Miestas.
+- Studentų skaičius.
+- Darbuotojų skaičius.
+
+Susikurkite objektą ir leiskite vartotojui suvesti šiuos duomenis konsolės pagalba.
+
+Suvestus duomenis išveskite pasirinkta forma.
+
+### Užduotis 2
+
+Susikurkite struktūrą saugoti šiems kepyklos duomenims:
+
+- Pavadinimas.
+- Adresas.
+- Darbuotojų kiekis.
+- Vidutiniškai per dieną iškepamų kepalų kiekis.
+- Vidutinė vieno kepalo kaina.
+
+Susikurkite objektą ir užpildykite jį informacija bet kuria norima forma.
+
+Suvestus duomenis išveskite pasirinkta forma.
+
+### Užduotis 3
+
+Susikurkite struktūrą saugoti šiems knygos duomenims:
+
+- Autorius.
+- Pavadinimas.
+- Kaina.
+- Leidykla.
+- Puslapių skaičius.
+
+Susikurkite tris knygos struktūros objektus, juos užpildykite norima forma.
+
+Suvestus duomenis išveskite lentelės pavidalu.
+
+### Užduotis 4 (laisva forma)
+
+- Susikurkite savo susigalvotą struktūrą.
+- Susikurkite kelis objektus, juos užpildykite duomenimis.
+- Išveskite visus duomenis lentelės pavidalu.
+- Išveskite kai kuriuos pasirinktus duomenis.

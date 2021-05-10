@@ -1,6 +1,8 @@
 # Atnaujinimai
 
-**2021-05-09**. Atnaujinta medžiaga prie funkcijų. Pridėta medžiagos apie objektinį programavimą, struktūras. Atnaujintas paskaitų (2020-2021 m. m.) tvarkaraštis.
+**2021-05-10**. Pridėta medžiagos prie struktūrų.
+
+**2021-05-09**. Atnaujinta medžiaga prie funkcijų. Pridėta medžiagos apie objektinį programavimą ir struktūras. Atnaujintas paskaitų (2020-2021 m. m.) tvarkaraštis.
 
 **2021-05-08**. Atnaujintas paskaitų (2020-2021 m. m.) tvarkaraštis.
 
