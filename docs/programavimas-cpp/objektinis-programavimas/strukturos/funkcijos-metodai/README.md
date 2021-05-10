@@ -183,18 +183,81 @@ Vidurkis: 7.5
 Ar visi teigiami: 1
 ```
 
-<!-- ### Pavyzdys 3
+### Pavyzdys 3
 
 Kodas:
 
 ```cpp
+#include <iostream>
+using namespace std;
 
+struct zmogus
+{
+    string vardas;
+    int amzius;
+
+    void ivedimas(string vardas, int amzius)
+    {
+        this->vardas = vardas;
+        this->amzius = amzius;
+    }
+
+    void isvedimas()
+    {
+        cout << vardas << ", jo amzius " << amzius << " metu" << endl;
+    }
+
+    int gimes(int dabar_metai)
+    {
+        return dabar_metai - amzius;
+    }
+};
+
+void palyginimas(zmogus pirmas, zmogus antras)
+{
+    if (pirmas.amzius > antras.amzius)
+    {
+        cout << pirmas.vardas << " vyresnis" << endl;
+    }
+    else if (antras.amzius > pirmas.amzius)
+    {
+        cout << antras.vardas << " vyresnis" << endl;
+    }
+    else
+    {
+        cout << "abu zmones vienodo amziaus" << endl;
+    }
+}
+
+int main()
+{
+    zmogus pirmas, antras;
+
+    pirmas.ivedimas("Tomas", 18);
+    antras.ivedimas("Petras", 20);
+
+    pirmas.isvedimas();
+    cout << "Gimimo metai: " << pirmas.gimes(2021) << "\n\n";
+
+    antras.isvedimas();
+    cout << "Gimimo metai: " << antras.gimes(2021) << "\n\n";
+
+    palyginimas(pirmas, antras);
+
+    return 0;
+}
 ```
 
 Rezultatai:
 
 ```
+Tomas, jo amzius 18 metu
+Gimimo metai: 2003
 
+Petras, jo amzius 20 metu
+Gimimo metai: 2001
+
+Petras vyresnis
 ```
 
 ### Pavyzdys 4
@@ -202,70 +265,93 @@ Rezultatai:
 Kodas:
 
 ```cpp
+#include <iostream>
+using namespace std;
 
+struct medis
+{
+    int aukstis;
+    int amzius;
+
+    void ivedimas(int aukstis, int amzius)
+    {
+        this->aukstis = aukstis;
+        this->amzius = amzius;
+    }
+
+    void isvedimas(string komentaras, int dabar_metai)
+    {
+        cout << komentaras << endl;
+
+        cout << "Medzio aukstis " << aukstis
+            << ", jo amzius " << amzius << endl;
+
+        cout << "Paauga per metus: " << paauga_per_metus() << endl;
+
+        cout << "Medis buvo pasodintas " << pasodintas(dabar_metai)
+            << " metais\n\n";
+    }
+
+    double paauga_per_metus()
+    {
+        return (double)aukstis / amzius;
+    }
+
+    int pasodintas(int dabar_metai)
+    {
+        return dabar_metai - amzius;
+    }
+};
+
+medis aukstesnis_medis(medis pirmas, medis antras)
+{
+    if (pirmas.aukstis > antras.aukstis)
+    {
+        return pirmas;
+    }
+    else if (antras.aukstis > pirmas.aukstis)
+    {
+        return antras;
+    }
+    return pirmas;
+}
+
+int main()
+{
+    medis pirmas, antras;
+
+    pirmas.ivedimas(154, 23);
+    antras.ivedimas(175, 20);
+
+    pirmas.isvedimas("Pirmas medis", 2021);
+    antras.isvedimas("Antras medis", 2021);
+
+    medis aukstesnis = aukstesnis_medis(pirmas, antras);
+    aukstesnis.isvedimas("Aukstesnis medis", 2021);
+
+    return 0;
+}
 ```
 
 Rezultatai:
 
 ```
+Pirmas medis
+Medzio aukstis 154, jo amzius 23
+Paauga per metus: 6.69565
+Medis buvo pasodintas 1998 metais
+
+Antras medis
+Medzio aukstis 175, jo amzius 20
+Paauga per metus: 8.75
+Medis buvo pasodintas 2001 metais
+
+Aukstesnis medis
+Medzio aukstis 175, jo amzius 20
+Paauga per metus: 8.75
+Medis buvo pasodintas 2001 metais
 
 ```
-
-### Pavyzdys 5
-
-Kodas:
-
-```cpp
-
-```
-
-Rezultatai:
-
-```
-
-```
-
-### Pavyzdys 6
-
-Kodas:
-
-```cpp
-
-```
-
-Rezultatai:
-
-```
-
-```
-
-### Pavyzdys 7
-
-Kodas:
-
-```cpp
-
-```
-
-Rezultatai:
-
-```
-
-```
-
-### Pavyzdys 8
-
-Kodas:
-
-```cpp
-
-```
-
-Rezultatai:
-
-```
-
-``` -->
 
 ## Užduotys
 
