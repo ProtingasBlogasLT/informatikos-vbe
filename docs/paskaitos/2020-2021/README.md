@@ -68,7 +68,7 @@ Paskaitų tvarkaraštis sudaromas norintiems mokytis ar pagilinti žinias tik pr
 | **2021-05-15 (šeštadienis)** | **13 val.** | **Papildoma konsultacija** | **Vyks** |
 | **2021-05-17 (pirmadienis)** | **18 val.** | **Struktūros** | **Vyks ([tiesioginę transliaciją rasite čia](https://www.youtube.com/channel/UCP3MANaEkoW4LXa74e1xzgQ))** |
 | **2021-05-18 (antradienis)** | **18 val.** | **Struktūros** | **Vyks ([tiesioginę transliaciją rasite čia](https://www.youtube.com/channel/UCP3MANaEkoW4LXa74e1xzgQ))** |
-| **2021-05-19 (trečiadienis)** | **18 val.** | **Grafinė vartotojo sąsaja (GUI) (3 dalis)** | **Vyks ([tiesioginę transliaciją rasite čia](https://www.youtube.com/channel/UCP3MANaEkoW4LXa74e1xzgQ))** |
+| 2021-05-19 (trečiadienis) | 18 val. | Grafinė vartotojo sąsaja (GUI) (3 dalis) | Gali būti, kad vyks kitą savaitės dieną |
 | **2021-05-22 (šeštadienis)** | **13 val.** | **Papildoma konsultacija** | **Vyks** |
 | 2021-05-24 (pirmadienis) | 18 val. | Pasiruošimas informatikos VBE | Suplanuota |
 | 2021-05-25 (antradienis) | 18 val. | Pasiruošimas informatikos VBE | Suplanuota |
