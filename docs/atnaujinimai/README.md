@@ -1,6 +1,6 @@
 # Atnaujinimai
 
-**2021-05-12**. Pridėti vaizdo įrašai prie funkcijų ir objektinio programavimo temų.
+**2021-05-12**. Pridėti vaizdo įrašai prie funkcijų ir objektinio programavimo temų. Atnaujintas paskaitų (2020-2021 m. m.) tvarkaraštis.
 
 **2021-05-11**. Atnaujintas paskaitų (2020-2021 m. m.) tvarkaraštis.
 
