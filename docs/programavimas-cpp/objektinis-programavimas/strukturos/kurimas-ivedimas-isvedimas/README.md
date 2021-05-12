@@ -2,6 +2,12 @@
 
 ## Vaizdo pamoka
 
+1 dalis:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kG5RD53GMy8?start=3037&end=6835" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+2 dalis:
+
 Informacija ruošiama.
 
 ## Pavyzdžiai
