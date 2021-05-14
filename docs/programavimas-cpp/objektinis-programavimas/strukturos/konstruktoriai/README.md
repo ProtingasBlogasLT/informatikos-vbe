@@ -310,4 +310,99 @@ Ignas Ignavicius, dirba 1 etatu
 
 ## Užduotys
 
-Informacija ruošiama.
+### Užduotis 1
+
+Papildykite žemiau nurodytą struktūrą su konstruktoriumi, kuris leistų į objektą sukelti visus reikiamus duomenis:
+
+```cpp
+struct autobusas
+{
+    string modelis;
+    int vietu_skaicius;
+    int didziausias_greitis;
+    double darbinis_turis;
+
+    void isvedimas()
+    {
+        cout << "--------------------\n";
+        cout << "Autobuso duomenys:\n"
+            << "Modelis: " << modelis << endl
+            << "Vietu skaicius: " << vietu_skaicius << endl
+            << "Didziausias greitis: " << didziausias_greitis << " km/h\n"
+            << "Darbinis turis: " << darbinis_turis << " l\n";
+        cout << "--------------------\n\n";
+    }
+};
+```
+
+Susikurkite kelis objektus, kurie panaudotų aprašytą konstruktorių.
+
+Išveskite šių sukurtų objektų informaciją, tam galite panaudoti jau aprašytą išvedimo funkciją.
+
+### Užduotis 2
+
+Papildykite žemiau nurodytą struktūrą šiais konstruktoriais:
+
+- Tuščias konstruktorius, kuris negauna jokių duomenų, tačiau nustato numatytąsias reikšmes kintamiesiems.
+- Konstruktorių, kuris gauna tik pavadinimą ir kainą.
+- Konstruktorių, kuris gauna visus struktūroje esančius duomenis (pavadinimas kaina, kiekiai sandėliuose, sandėlių kiekis).
+
+```cpp
+struct preke
+{
+    string pavadinimas;
+    double kaina;
+    int kiekiai_sandeliuose[100] = { 0 };
+    int sandeliu_kiekis;
+
+    void isvedimas()
+    {
+        cout << "----------------------------\n";
+
+        cout << "PREKES DUOMENYS\n";
+
+        cout << "Preke " << pavadinimas << " kainuoja " << kaina << " eur./vnt.\n";
+        cout << "Prekes likuciai sandeliuose: ";
+
+        for (int i = 0; i < sandeliu_kiekis; i++)
+        {
+            cout << kiekiai_sandeliuose[i] << " vnt, ";
+        }
+
+        cout << "\n----------------------------\n";
+    }
+};
+```
+
+Susikurkite kelis objektus, su kuriais panaudotumėte visus aprašytus konstruktorius.
+
+Išveskite šių sukurtų objektų informaciją, tam galite panaudoti jau aprašytą išvedimo funkciją.
+
+### Užduotis 3
+
+Papildykite žemiau nurodytą struktūrą bent 3 savo nuožiūra aprašytais konstruktoriais.
+
+```cpp
+struct knyga
+{
+    string pavadinimas;
+    string autorius;
+    int puslapiu_sk;
+    double kaina;
+    int metai;
+
+    void isvedimas()
+    {
+        cout << "KNYGOS INFORMACIJA\n";
+        cout << "Knyga: " << pavadinimas << endl;
+        cout << "Autorius: " << autorius << endl;
+        cout << "Puslapiu skaicius: " << puslapiu_sk << endl;
+        cout << "Kaina: " << kaina << " eur." << endl;
+        cout << "Metai: " << metai << "\n\n";
+    }
+};
+```
+
+Susikurkite kelis objektus, su kuriais panaudotumėte visus aprašytus konstruktorius.
+
+Išveskite šių sukurtų objektų informaciją, tam galite panaudoti jau aprašytą išvedimo funkciją.
