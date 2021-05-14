@@ -355,4 +355,59 @@ Medis buvo pasodintas 2001 metais
 
 ## Užduotys
 
-Informacija ruošiama.
+### Užduotis 1
+
+Sukurkite struktūrą "Knyga", kuri saugotų šią informacija apie knygą:
+
+- Pavadinimas.
+- Autorius.
+- Kaina.
+- Puslapių skaičius.
+- Žanras.
+- Išleidimo metai.
+
+Šioje struktūroje parašykite tokias funkcijas:
+
+- Įvedimo, kuri priimtų visą reikiamą informaciją ir leistų patogiai sukelti duomenis į objektą.
+- Išvedimo, kuri išvestų objekto informaciją.
+- Knygos amžiaus paskaičiavimo funkciją, kuri grąžintų `int` tipo atsakymą, bei kuri priimtų dabartinius metus per argumentus ir paskaičiuotų knygos amžių (dabartiniai metai - išleidimo metai).
+- Funkciją, kuri nusako ar knyga yra apynaujė. Ši funkcija grąžintų `bool` tipo atsakymą. Ši funkcija grąžintų `true` jei knyga yra apynaujė (knygos amžius lygus ar mažesnis nei 2 metai), bei `false` jei knyga senesnė.
+
+Programoje sukurkite dviejų knygų objektus, juos užpildykite informacija, pabandykite iškviesti struktūros funkcijas (įvedimas, išvedimas, skaičiavimai).
+
+Sukurkite atskirą nuo struktūros funkciją, kuri priimtų du knygų objektus ir išvestų informaciją apie tai kuri knyga storesnė (turi daugiau puslapių). Iškvieskite šią funkciją, jai perduodant turimus knygų objektus.
+
+### Užduotis 2
+
+Sukurkite struktūrą "Filmas", kuri saugoti tokią informaciją apie filmą:
+
+- Pavadinimas.
+- Režisierius.
+- Išleidimo metai.
+- Išlaidos (kiek buvo išleista pinigų filmo gamybai).
+- Pajamos (kiek iš filmo buvo uždirbta).
+- Trukmė, minutėmis.
+
+Šioje struktūroje parašykite tokias funkcijas:
+
+- Įvedimo, kuri priimtų visą reikiamą informaciją ir leistų patogiai sukelti duomenis į objektą.
+- Išvedimo, kuri išvestų objekto informaciją.
+- Pelno paskaičiavimo funkciją, kuri atimtų išlaidas iš gautų pajamų ir grąžintų tai kaip atsakymą.
+- Formatuotos trukmės suformatavimo funkciją, kuri turimas minutes paverstų į valandas ir minutes, bei išvestų atitinkamu formatu, pavyzdžiui: `2 val. 12 min.` arba `2:12 val.`. Ši funkcija grąžina `string` tipo atsakymą.
+
+Programoje sukurkite trijų filmų objektus, juos užpildykite informacija, pabandykite iškviesti struktūros funkcijas (įvedimas, išvedimas, skaičiavimai).
+
+Papildomai: savo nuožiūra papildykite programą dar dviem funkcijom (galima struktūroje ir / ar atskirai nuo struktūros, bet turi kažką daryti su objektais ar jų informacija).
+
+### Užduotis 3 (laisva forma)
+
+Sukurkite struktūrą krepšininko duomenims saugoti.
+
+Šioje struktūroje sukurkite:
+
+- Bent 5 atributus (kintamuosius) krepšininko duomenims saugoti.
+- Bent 4 funkcijas (gali būti: įvedimas, išvedimas, skaičiavimai ar pan.).
+
+Programoje sukurkite norimą kiekį krepšininkų objektų. Panaudokite struktūros funkcijas ant visų šių objektų.
+
+Papildomai: aprašykite atskirų nuo struktūros funkcijų, kurios leistų kaip nors palyginti turimus krepšininkus tarpusavyje.
