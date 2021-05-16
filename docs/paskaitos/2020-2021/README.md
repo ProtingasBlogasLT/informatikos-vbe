@@ -65,7 +65,7 @@ Paskaitų tvarkaraštis sudaromas norintiems mokytis ar pagilinti žinias tik pr
 | 2021-05-08 (šeštadienis) | 13 val. | Papildoma konsultacija | Įvyko, įrašo nėra |
 | 2021-05-10 (pirmadienis) | 18 val. | Funkcijos su grąžinimo tipu. Reikšmių grąžinimas per funkcijos parametrus | [Paskaitos įrašas (1:59 val.)](https://www.youtube.com/watch?v=1-Wr7RLCFzE) |
 | 2021-05-11 (antradienis) | 18 val. | Įžanga į objektinį programavimą, struktūras. Informacijos įvedimas ir išvedimas iš objekto | [Paskaitos įrašas (2:01 val.)](https://www.youtube.com/watch?v=kG5RD53GMy8) |
-| **2021-05-15 (šeštadienis)** | **13 val.** | **Papildoma konsultacija** | **Vyks** |
+| 2021-05-15 (šeštadienis) | 13 val. | Papildoma konsultacija | Įvyko, įrašo nėra |
 | **2021-05-17 (pirmadienis)** | **18 val.** | **Struktūros** | **Vyks ([tiesioginę transliaciją rasite čia](https://www.youtube.com/channel/UCP3MANaEkoW4LXa74e1xzgQ))** |
 | **2021-05-18 (antradienis)** | **18 val.** | **Struktūros** | **Vyks ([tiesioginę transliaciją rasite čia](https://www.youtube.com/channel/UCP3MANaEkoW4LXa74e1xzgQ))** |
 | 2021-05-19 (trečiadienis) | 18 val. | Grafinė vartotojo sąsaja (GUI) (3 dalis) | Gali būti, kad vyks kitą savaitės dieną |
