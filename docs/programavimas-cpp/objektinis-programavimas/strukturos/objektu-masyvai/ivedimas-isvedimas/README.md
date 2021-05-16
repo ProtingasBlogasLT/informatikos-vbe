@@ -486,4 +486,60 @@ Ar visi pazymiai teigiami? ne
 
 ## Užduotys
 
-Informacija ruošiama.
+### Užduotis 1
+
+Sukurkite struktūrą knygos duomenims saugoti, kurioje būtų saugoma ši informacija:
+
+- Pavadinimas.
+- Autorius.
+- Kaina.
+- Puslapių skaičius.
+- Žanras.
+
+Šioje struktūroje sukurkite konstruktorių, kuris leistų į objektą sukelti norimus duomenis.
+
+Susikurkite šios struktūros objektų masyvą ir jį užpildykite duomenimis, pasinaudojant struktūros konstruktoriumi.
+
+### Užduotis 2
+
+Sukurkite struktūrą darbuotojo duomenims saugoti, kurioje būtų saugoma ši informacija:
+
+- Vardas.
+- Pavardė.
+- Atlyginimas.
+- Etatas.
+- Pareigos.
+
+Sukurkite dvi funkcijas ne struktūroje:
+
+- Įvedimo funkcija, kurios pagalba vartotojas galėtų suvesti norimą kiekį darbuotojų ir informacijos apie juos.
+- Išvedimo funkcija, kuri išvestų visų turimų darbuotojų duomenis lentelės pavidalu.
+
+Susikurkite šios struktūros objektų masyvą. Iškvieskite turimas įvedimo ir išvedimo funkcijas, perduodant turimą objektų masyvą ir kiekio kintamąjį.
+
+### Užduotis 3
+
+Antroje užduotyje parašytą programą pritaikykite darbui su failais.
+
+### Užduotis 4 (sudėtingesnė)
+
+Sukurkite struktūrą šiems studento duomenims saugoti:
+
+- Vardas.
+- Pavardė.
+- Amžius.
+- Pažymiai.
+
+Sukurkite struktūrą šiems grupės duomenims saugoti:
+
+- Grupės kodas.
+- Aukštoji mokykla.
+- Studijų programa.
+- Studentai (studentų objektų masyvas).
+
+Sukurkite šias dvi atskiras ir ne struktūrose esančias funkcijas:
+
+- Duomenų įvedimas ar nuskaitymas (pasirinktinai: suveda vartotojas konsolės pagalba arba nuskaitymas iš failo).
+- Duomenų išvedimas (pasirinktai: išvedama į konsolę norima forma arba išvedama į failą).
+
+Sukurkite dviejų grupių objektus. Juos užpildykite duomenimis, bei išveskite (pasinaudojant turimomis įvedimo ir išvedimo funkcijomis).
