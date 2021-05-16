@@ -1,5 +1,7 @@
 # Atnaujinimai
 
+**2021-05-16**. Atnaujintas paskaitų (2020-2021 m. m.) tvarkaraštis. Pridėta užduočių prie struktūrų.
+
 **2021-05-14**. Pridėta užduočių prie struktūrų.
 
 **2021-05-12**. Pridėti vaizdo įrašai prie funkcijų ir objektinio programavimo temų. Atnaujintas paskaitų (2020-2021 m. m.) tvarkaraštis.
