@@ -387,4 +387,195 @@ Prekiu kiekis, kuriu daugiau nei 100 vnt.: 2
 
 ## Užduotys
 
-Informacija ruošiama.
+### Užduotis 1
+
+Žemiau nurodytą programą papildykite tokiais skaičiavimais ar paieškos funkcijomis:
+
+- Brangiausia knyga.
+- Pigiausia knyga.
+- Kainų skirtumas tarp pigiausios ir brangiausios knygos.
+- Seniausios knygos puslapių skaičius.
+- Bendra visų knygų puslapių suma.
+- Knygų kainų vidurkis.
+- Kiek yra knygų, parašytų 2010 ar vėlesniais metais (metus perduoti per funkcijos parametrus, kad funkcijai būtų galima nurodyti ir kitus metus).
+
+Nepamirškite visų gautų atsakymų išvesti ekrane.
+
+```cpp
+#include <iostream>
+#include <iomanip>
+using namespace std;
+
+struct knyga
+{
+    string pavadinimas;
+    string autorius;
+    int puslapiu_sk;
+    double kaina;
+    int metai;
+
+    knyga(string pavadinimas, string autorius, int puslapiai, double kaina, int metai)
+    {
+        this->pavadinimas = pavadinimas;
+        this->autorius = autorius;
+        this->puslapiu_sk = puslapiai;
+        this->kaina = kaina;
+        this->metai = metai;
+    }
+
+    void isvedimas(string komentaras)
+    {
+        cout << "---------------------------------\n";
+        cout << komentaras << endl;
+        cout << "Knyga: " << pavadinimas << endl;
+        cout << "Autorius: " << autorius << endl;
+        cout << "Puslapiu skaicius: " << puslapiu_sk << endl;
+        cout << "Kaina: " << kaina << " eur." << endl;
+        cout << "Metai: " << metai << "\n";
+        cout << "---------------------------------\n\n";
+    }
+};
+
+void isvedimas(string komentaras, knyga knygos[], int kiekis)
+{
+    cout << komentaras << endl;
+
+    cout << "------------------------------------------------------------------------------------------------\n";
+    cout << "Knygos pavadinimas                            Autorius           Psl. sk.   Kaina, eur  Metai\n";
+    cout << "------------------------------------------------------------------------------------------------\n";
+
+    for (int i = 0; i < kiekis; i++)
+    {
+        cout << setw(45) << left << knygos[i].pavadinimas << " "
+            << setw(18) << knygos[i].autorius << " "
+            << setw(10) << knygos[i].puslapiu_sk << " "
+            << setw(11) << setprecision(2) << fixed << knygos[i].kaina << " "
+            << knygos[i].metai << endl;
+    }
+
+    cout << "------------------------------------------------------------------------------------------------\n\n";
+}
+
+int main()
+{
+    knyga knygos[] = {
+        knyga("Haris Poteris ir Azkabano kalinys", "Rowling", 250, 19.99, 2005),
+        knyga("7 efektyviai veikianciu zmoniu iprociai", "P. Petraitis", 200, 15.49, 2018),
+        knyga("Lietuvos istorija", "Istorikas Jonas", 320, 19.99, 2010),
+        knyga("Knyga apie automobilius", "Meistras M", 145, 10, 2008),
+        knyga("Programavimo ABC", "P. Progr", 149, 15.99, 2016),
+        knyga("Bibliografija apie A", "Albertas B.", 246, 18.45, 2017)
+    };
+
+    int kiekis = 6;
+
+    isvedimas("PRADINIAI DUOMENYS", knygos, kiekis);
+
+    return 0;
+}
+```
+
+### Užduotis 2
+
+Žemiau nurodytą programą papildykite tokiais skaičiavimais ar paieškos funkcijomis:
+
+- Studento vidurkis.
+- Studentas su didžiausiu vidurkiu.
+- Studentas, turintis mažiausiai pažymių (mažiausias pažymių kiekis);
+- Studentas su ilgiausiu vardu.
+- Visų studentų pažymių vidurkis.
+- Didžiausias gautas bet kurio studento pažymys.
+- Mažiausias gautas bet kurio studento pažymys.
+- Kurio pažymio yra didžiausias atsikartojimas (pavyzdžiui: pažymys 8 kartojasi 6 kartus).
+
+Nepamirškite visų gautų atsakymų išvesti ekrane.
+
+Papildomai: papildykite šią programą su studento amžiumi ir sugalvokite dar bent dvi skaičiavimų / paieškos funkcijas.
+
+```cpp
+#include <iostream>
+#include <iomanip>
+using namespace std;
+
+struct studentas
+{
+    string vardas;
+    string pavarde;
+    int pazymiai[20];
+    int paz_kiekis;
+
+    studentas(string vardas, string pavarde, int pazymiai[], int paz_kiekis)
+    {
+        this->vardas = vardas;
+        this->pavarde = pavarde;
+        for (int i = 0; i < paz_kiekis; i++)
+        {
+            this->pazymiai[i] = pazymiai[i];
+        }
+        this->paz_kiekis = paz_kiekis;
+    }
+
+    void isvedimas(string komentaras)
+    {
+        cout << "---------------------------------\n";
+        cout << komentaras << endl;
+        cout << "Vardas: " << vardas << endl;
+        cout << "Pavarde: " << pavarde << endl;
+        cout << "Pazymiai: ";
+        for (int i = 0; i < paz_kiekis; i++)
+        {
+            cout << pazymiai[i] << " ";
+        }
+        cout << endl;
+        cout << "---------------------------------\n\n";
+    }
+};
+
+void isvedimas(string komentaras, studentas studentai[], int kiekis)
+{
+    cout << komentaras << endl;
+
+    cout << "---------------------------------------------------\n";
+    cout << "Vardas          Pavarde         Pazymiai\n";
+    cout << "---------------------------------------------------\n";
+
+    for (int i = 0; i < kiekis; i++)
+    {
+        cout << setw(15) << left << studentai[i].vardas << " "
+            << setw(15) << studentai[i].pavarde << " ";
+        for (int j = 0; j < studentai[i].paz_kiekis; j++)
+        {
+            cout << studentai[i].pazymiai[j] << " ";
+        }
+        cout << endl;
+    }
+
+    cout << "---------------------------------------------------\n\n";
+}
+
+int main()
+{
+    studentas studentai[] = {
+        studentas("Petras", "Petraitis", new int [] {7, 8, 6, 5, 4}, 5),
+        studentas("Ignas", "Ignauskas", new int [] {8, 8, 9, 7, 5}, 5),
+        studentas("Gintare", "Gintaryte", new int [] {9, 8, 9}, 3),
+        studentas("Indre", "Indrute", new int [] {8, 7, 4, 8, 9, 6, 8}, 7),
+        studentas("Jolanta", "Jolantyte", new int [] {7, 8, 7, 8, 9}, 5),
+        studentas("Paulius", "Paulinskas", new int [] {9, 9, 8, 7, 9}, 5)
+    };
+
+    int kiekis = 6;
+
+    isvedimas("PRADINIAI DUOMENYS", studentai, kiekis);
+
+    return 0;
+}
+```
+
+### Užduotis 3
+
+Pasirinktą programą (užduotis 1 arba užduotis 2) pritaikykite darbui su failais.
+
+### Užduotis 4 (laisva forma)
+
+Sugalvokite savo norimą struktūrą su kuria pavyktų atlikti bent 5 skirtingus skaičiavimus ar paieškas.
