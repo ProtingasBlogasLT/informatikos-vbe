@@ -1,5 +1,7 @@
 # Atnaujinimai
 
+**2021-05-25**. Atnaujintas paskaitų (2020-2021 m. m.) tvarkaraštis.
+
 **2021-05-19**. Atnaujintas paskaitų (2020-2021 m. m.) tvarkaraštis.
 
 **2021-05-16**. Atnaujintas paskaitų (2020-2021 m. m.) tvarkaraštis. Pridėta užduočių prie struktūrų.
