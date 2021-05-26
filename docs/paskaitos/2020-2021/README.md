@@ -68,19 +68,24 @@ Paskaitų tvarkaraštis sudaromas norintiems mokytis ar pagilinti žinias tik pr
 | 2021-05-15 (šeštadienis) | 13 val. | Papildoma konsultacija | Įvyko, įrašo nėra |
 | 2021-05-17 (pirmadienis) | 18 val. | Struktūros (informacijos įvedimas ir išvedimas iš objekto, funkcijos struktūroje) | [Paskaitos įrašas (1:58 val.)](https://www.youtube.com/watch?v=vSLSH0ho_tY) |
 | 2021-05-18 (antradienis) | 18 val. | Struktūrų konstruktoriai. Objektų masyvai (kūrimas, informacijos įvedimas / išvedimas) | [Paskaitos įrašas (2:09 val.)](https://www.youtube.com/watch?v=aDiwp-5wbTg) |
-| ~~2021-05-19 (trečiadienis)~~ | ~~18 val.~~ | ~~Grafinė vartotojo sąsaja (GUI) (3 dalis)~~ | Bus perkelta į kitą laiką |
 | 2021-05-22 (šeštadienis) | 13 val. | Papildoma konsultacija | Įvyko, įrašo nėra |
 | 2021-05-24 (pirmadienis) | 18 val. | Struktūrų objektų masyvai (skaičiavimai, rikiavimas) | [Paskaitos įrašas (1:52 val.)](https://www.youtube.com/watch?v=9_abZQZZbgk) |
-| **2021-05-25 (antradienis)** | **18 val.** | **Diskusija, papildoma konsultacija** | **Vyks** |
+| 2021-05-25 (antradienis) | 18 val. | Diskusija, papildoma konsultacija | Įvyko, įrašo nėra |
 | **2021-05-29 (šeštadienis)** | **13 val.** | **Papildoma konsultacija** | **Vyks** |
+
+<!-- | ~~2021-05-19 (trečiadienis)~~ | ~~18 val.~~ | ~~Grafinė vartotojo sąsaja (GUI) (3 dalis)~~ | Bus perkelta į kitą laiką |
 | 2021-05-31 (pirmadienis) | 18 val. | Pasiruošimas informatikos VBE | Suplanuota |
 | 2021-06-01 (antradienis) | 18 val. | Pasiruošimas informatikos VBE | Suplanuota |
 | 2021-06-02 (trečiadienis) | 18 val. | Grafinė vartotojo sąsaja (GUI) (4 dalis) | Suplanuota |
 | 2021-06-05 (šeštadienis) | 13 val. | Papildoma konsultacija | Suplanuota |
 | 2021-06-07 (pirmadienis) | 18 val. | Pasiruošimas informatikos VBE | Suplanuota |
-| 2021-06-08 (antradienis) | 18 val. | Pasiruošimas informatikos VBE | Suplanuota |
+| 2021-06-08 (antradienis) | 18 val. | Pasiruošimas informatikos VBE | Suplanuota | -->
 
 <!-- **Vyks ([tiesioginę transliaciją rasite čia](https://www.youtube.com/channel/UCP3MANaEkoW4LXa74e1xzgQ))** -->
+
+Dėl papildomų konsultacijų po praėjusio kurso - kreiptis asmeniškai į lektorę.
+
+Dėl likusių paskaitų (papildomos GUI paskaitos ir prižadėtosios papildomos temos), bus informuota eigoje.
 
 ## Registracija
 
