@@ -1,5 +1,7 @@
 # Atnaujinimai
 
+**2021-05-28**. Pridėti vaizdo įrašai prie struktūrų temų.
+
 **2021-05-26**. Atnaujintas paskaitų (2020-2021 m. m.) tvarkaraštis.
 
 **2021-05-25**. Atnaujintas paskaitų (2020-2021 m. m.) tvarkaraštis.
