@@ -20,7 +20,7 @@ Paskaitos vyks nuotoliniu būdu, naudojant [Zoom](https://zoom.us/) platformą, 
 - **Būtų visos temos nuo pat pradžių** (per ką rašyti kodą, kintamieji, ...) **iki objektinio programavimo**. Pirmas dėmesys bus skiriamas sintaksės išmokimui, o tada po lengva bus pereinama prie loginių uždavinių. Šis kursas turėtų tikti ir jaunesniems nei 12-okai, bei tiems, kurie labai sunkiai gaudosi tai ką dabar mokosi, bei tiems kurie nori iki kauliukų išnarplioti visas subtilybes ir pan.
 - **Spėjant - būtų duodama daugiau** ir įdomiau nei reikalauja mokyklų programa, kad parodyti kas dar galima ir t. t.
 
-## Preliminarus paskaitų tvarkaraštis ir paskaitų įrašai
+## Paskaitų tvarkaraštis ir paskaitų įrašai
 
 Paskaitų tvarkaraštis sudaromas norintiems mokytis ar pagilinti žinias tik programavime C++.
 
@@ -71,7 +71,7 @@ Paskaitų tvarkaraštis sudaromas norintiems mokytis ar pagilinti žinias tik pr
 | 2021-05-22 (šeštadienis) | 13 val. | Papildoma konsultacija | Įvyko, įrašo nėra |
 | 2021-05-24 (pirmadienis) | 18 val. | Struktūrų objektų masyvai (skaičiavimai, rikiavimas) | [Paskaitos įrašas (1:52 val.)](https://www.youtube.com/watch?v=9_abZQZZbgk) |
 | 2021-05-25 (antradienis) | 18 val. | Diskusija, papildoma konsultacija | Įvyko, įrašo nėra |
-| **2021-05-29 (šeštadienis)** | **13 val.** | **Papildoma konsultacija** | **Vyks** |
+| 2021-05-29 (šeštadienis) | 13 val. | Papildoma konsultacija | Įvyko, įrašo nėra |
 
 <!-- | ~~2021-05-19 (trečiadienis)~~ | ~~18 val.~~ | ~~Grafinė vartotojo sąsaja (GUI) (3 dalis)~~ | Bus perkelta į kitą laiką |
 | 2021-05-31 (pirmadienis) | 18 val. | Pasiruošimas informatikos VBE | Suplanuota |
