@@ -26,7 +26,6 @@ Paskaitų tvarkaraštis sudaromas norintiems mokytis ar pagilinti žinias tik pr
 
 | Data | Laikas | Paskaita (temos) | Būsena / įrašas |
 |-|-|-|-|
-| 2021-03-11 (ketvirtadienis) | - | Informacija apie C++ kursą | [Vaizdo įrašas (9:08 min.)](https://www.youtube.com/watch?v=QEj41Spf0AE) |
 | 2021-03-11 (ketvirtadienis) | - | Darbo aplinka (Code Blocks) | [Vaizdo pamoka (22:02 min.)](https://www.youtube.com/watch?v=z350Cnw7IB0) |
 | 2021-03-11 (ketvirtadienis) | - | Darbo aplinka (Visual Studio Community) | [Vaizdo pamoka (33:35 min.)](https://www.youtube.com/watch?v=dkhjeOGf2h0) |
 | 2021-03-13 (šeštadienis) | 13 val. | Papildoma konsultacija, jeigu nepavyksta susitvarkyti darbo aplinkos | Įvyko, įrašo nėra |
@@ -70,6 +69,8 @@ Paskaitų tvarkaraštis sudaromas norintiems mokytis ar pagilinti žinias tik pr
 | 2021-05-24 (pirmadienis) | 18 val. | Struktūrų objektų masyvai (skaičiavimai, rikiavimas) | [Paskaitos įrašas (1:52 val.)](https://www.youtube.com/watch?v=9_abZQZZbgk) |
 | 2021-05-25 (antradienis) | 18 val. | Diskusija, papildoma konsultacija | Įvyko, įrašo nėra |
 | 2021-05-29 (šeštadienis) | 13 val. | Papildoma konsultacija | Įvyko, įrašo nėra |
+
+<!-- | 2021-03-11 (ketvirtadienis) | - | Informacija apie C++ kursą | [Vaizdo įrašas (9:08 min.)](https://www.youtube.com/watch?v=QEj41Spf0AE) | -->
 
 <!-- | ~~2021-05-19 (trečiadienis)~~ | ~~18 val.~~ | ~~Grafinė vartotojo sąsaja (GUI) (3 dalis)~~ | Bus perkelta į kitą laiką |
 | 2021-05-31 (pirmadienis) | 18 val. | Pasiruošimas informatikos VBE | Suplanuota |
