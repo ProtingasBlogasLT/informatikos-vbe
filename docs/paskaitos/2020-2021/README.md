@@ -6,8 +6,6 @@ sidebar: auto
 
 Paskaitos vyks nuotoliniu būdu, naudojant [Zoom](https://zoom.us/) platformą, taip pat, tiesioginę transliaciją žiūrėti bei rasti galutinius įrašus bus galima [mūsų Youtube kanale](https://www.youtube.com/channel/UCP3MANaEkoW4LXa74e1xzgQ). Dalyvauti gali visi norintis, paskaitos nemokamos.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QEj41Spf0AE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 ## Pagrindinė informacija
 
 ![Pagrindinė informacija](./2021-03-08-poster.jpg)

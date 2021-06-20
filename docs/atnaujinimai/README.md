@@ -1,5 +1,7 @@
 # Atnaujinimai
 
+**2021-06-20**. Atnaujinti kontaktai. Atnaujinta informacija apie 2020-2021 m. m. paskaitas. Atnaujinta informacija apie programavimo C++ skiltį.
+
 **2021-05-29**. Atnaujintas paskaitų (2020-2021 m. m.) tvarkaraštis.
 
 **2021-05-28**. Pridėti vaizdo įrašai prie struktūrų temų.
