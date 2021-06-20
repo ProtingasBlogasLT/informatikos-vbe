@@ -1,6 +1,6 @@
 # Atnaujinimai
 
-**2021-06-20**. Atnaujinti kontaktai.
+**2021-06-20**. Atnaujinti kontaktai. Atnaujinta informacija apie 2020-2021 m. m. paskaitas.
 
 **2021-05-29**. Atnaujintas paskaitų (2020-2021 m. m.) tvarkaraštis.
 
