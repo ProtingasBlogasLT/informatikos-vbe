@@ -228,6 +228,7 @@ module.exports = {
       //     ]
       //   }
       // ],
+      // Saugus ir teisėtas informacijos ir interneto naudojimas (testas)
       // '/testas/': [
       //   {
       //     title: 'Testas',
@@ -237,6 +238,7 @@ module.exports = {
       //     ]
       //   }
       // ],
+      // Tekstinių dokumentų maketavimas (Microsoft Word)
       // '/word/': [
       //   {
       //     title: 'Microsoft Word',
@@ -246,6 +248,7 @@ module.exports = {
       //     ]
       //   }
       // ],
+      // Skaitinės informacijos apdorojimas skaičiuokle (Microsoft Excel)
       // '/excel/': [
       //   {
       //     title: 'Microsoft Excel',
