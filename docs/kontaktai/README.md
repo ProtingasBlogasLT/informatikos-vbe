@@ -10,7 +10,7 @@
 - Facebook grupė: [Informatikos VBE](https://www.facebook.com/groups/763460060950942).
 - Discord serveris: [Discord](https://discord.gg/VVnnC34NcM).
 
-## Ieva
+## Projekto autorė Ieva Jakšaitytė
 
 - Messenger: [m.me/ieva.jaksaityte](http://m.me/ieva.jaksaityte).
 - El. pašto adresas: [ieva@informatikosvbe.lt](mailto:ieva@informatikosvbe.lt).
