@@ -1,0 +1,3 @@
+# Programavimas Python
+
+Informacija ruošiama.

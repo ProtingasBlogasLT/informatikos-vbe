@@ -46,14 +46,39 @@ module.exports = {
       // { text: 'Testas', link: '/testas/' },
       // { text: 'Word', link: '/word/' },
       // { text: 'Excel', link: '/excel/' },
-      { text: 'Programavimas C++', link: '/programavimas-cpp/' },
+      {
+        text: 'Programavimas',
+        items: [
+          { text: 'Python', link: '/programavimas-python/' },
+          { text: 'C++', link: '/programavimas-cpp/' },
+        ]
+      },
       { text: 'Paskaitos', link: '/paskaitos/2020-2021/' },
       // { text: 'Egzaminų užduotys', link: '/egzaminu-uzduotys/' },
       // { text: 'Apie projektą', link: '/apie-projekta/' },
-      { text: 'Atnaujinimai', link: '/atnaujinimai/' },
-      { text: 'Kontaktai', link: '/kontaktai/' },
+      { text: 'Pasiūlymai', link: '/pasiulymai/' },
+      { text: 'Apie mus',
+        items: [
+          { text: 'Atnaujinimai', link: '/atnaujinimai/' },
+          { text: 'Kontaktai', link: '/kontaktai/' },
+        ]
+      },
     ],
     sidebar: {
+      '/programavimas-python/': [
+        {
+          title: 'Programavimas Python',
+          children: [
+            '/programavimas-python/',
+          ]
+        },
+        // {
+        //   title: 'Darbo aplinka',
+        //   children: [
+        //     '/programavimas-cpp/darbo-aplinka/',
+        //   ]
+        // },
+      ],
       '/programavimas-cpp/': [
         {
           title: 'Programavimas C++',
