@@ -4,7 +4,15 @@ Susitarimai turi skatinti mokinių algoritminį mąstymą, kadangi pasiruošimas
 
 Aptariant VBE užduotis yra remiamasi NŠA pateikiama informacija [https://www.nsa.smm.lt/stebesenos-ir-vertinimo-departamentas/pasiekimu-patikrinimai/brandos-egzaminai/egzaminu-uzduotys/](https://www.nsa.smm.lt/stebesenos-ir-vertinimo-departamentas/pasiekimu-patikrinimai/brandos-egzaminai/egzaminu-uzduotys/).
 
-**1. Tekstinius duomenis VBE užduotyse rekomenduojama pateikti skyriklių pagalba, atsisakant vyravusio pozicinio pateikimo.**
+**1. Programavimo vardų susitarimai (Naming conventions)**
+
+Siūlymo argumentai: lig šiol mokyklose nebuvo aiškaus vieningo stiliaus kaip konstruoti įvairių tipų kintamųjų, masyvų, struktūrų funkcijų vardus, todėl kai kurie vertinimo kriterijai yra abstraktūs, kaip "Prasmingai pavadinti kintamieji. Komentuojamos programos dalys, laikomasi rašybos taisyklių". Susitarimas palengvins mokytojų darbą aiškinant apie programavimo rašymo stilių.
+
+Metodiniai sprendimai: yra pakankamai įvairių susitarimų pavyzdžių, reikėtų unifikuoti jau esamus stilius ir pritaikyti prie mūsų mokyklų poreikių.
+
+Argumentai prieš: ...
+
+**2. Tekstinius duomenis VBE užduotyse rekomenduojama pateikti skyriklių pagalba, atsisakant vyravusio pozicinio pateikimo.**
 
 Siūlymo argumentai: naudotas pozicinis teksto pateikimas yra neaktualus duomenų pasikeitimo sistemose, jo programavimui mokiniai turi naudoti senosios C kalbos stiliumi tarpinį `char` masyvą. Mokymo eigoje veltui gaištamas laikas specifinio šablono įsiminimui. Dar papildomai reikėtų nukirpti baigiamuosius tarpus.
 
@@ -12,7 +20,7 @@ Metodiniai sprendimai: paieškos uždaviniuose reikia naudoti vieną žodį, tuo
 
 Argumentai prieš: ...
 
-**2. Sąrašo tipo duomenis rekomenduojama pateikti be perteklinio sąrašo elementų skaičiaus.**
+**3. Sąrašo tipo duomenis rekomenduojama pateikti be perteklinio sąrašo elementų skaičiaus.**
 
 Siūlymo argumentai: sąrašo pateikimas be pertekliaus yra natūralus, lengviau suprantama užduoties sąlyga. Elementų skaičiaus pateikimas prieš elementus prieštarauja sprendimo logikai, todėl mokiniams turi kilti klausimas kodėl tą daryti ruošiant duomenis.
 
@@ -20,21 +28,13 @@ Metodiniai sprendimai: kai duomenys pateikiami eilutėmis, naudojamas ciklas `wh
 
 Argumentai prieš: ...
 
-**3. VBE užduotyse reikalavimuose rekomenduojama vector traktuoti kaip masyvo sinonimą.**
+**4. VBE užduotyse reikalavimuose rekomenduojama vector traktuoti kaip masyvo sinonimą.**
 
 Siūlymo argumentai: C++ `vector` tipas faktiškai atitinka dabartinėse programavimo kalbose naudojamą sąrašo sąvoką. Lig šiol mokyklose praktikuojamas masyvas poroje su elementų skaičiumi yra senosios C kalbos palikimas ir metodiškai nenaudotinas, kadangi reikia iš anksto rezervuoti atmintį. Jau daug metų pažangesni mokiniai kelia šį klausimą, neformaliai lyg tai leidžiama `vector` naudoti, bet gali būti mažinami balai dėl VBE reikalavimų. Naudojant masyvus mokiniai praranda galimybę naudoti `foreach` tipo ciklus. Pats uždavinių su sąrašais mokymas masyvų pagalba yra nerekomenduojamas programavimo edukologijos specialistų. C++ standartizavimo komitetas rekomenduoja naudoti vektorius vietoj masyvų. Taip pat, rekomenduojama vietoj vektoriaus `operator[]` naudoti `at()` metodą, nes jis tikrina ar argumentas yra tinkamame rėžyje. Žiūr.: [http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2018/p1231r0.pdf](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2018/p1231r0.pdf).
 
 Metodiniai sprendimai: perėjimo metodika nuo masyvų prie `vector` jau buvo pristata FB mokytojų grupėje pavyzdžių pagalba ir dar bus pateikiama atskirai.  
 
 Argumentai prieš: `vector` nenaudojamas oficialiuose LT vadovėliuose.
-
-**4. Programavimo vardų susitarimai (Naming conventions)**
-
-Siūlymo argumentai: lig šiol mokyklose nebuvo aiškaus vieningo stiliaus kaip konstruoti įvairių tipų kintamųjų, masyvų, struktūrų funkcijų vardus, todėl kai kurie vertinimo kriterijai yra abstraktūs, kaip "Prasmingai pavadinti kintamieji. Komentuojamos programos dalys, laikomasi rašybos taisyklių". Susitarimas palengvins mokytojų darbą aiškinant apie programavimo rašymo stilių.
-
-Metodiniai sprendimai: yra pakankamai įvairių susitarimų pavyzdžių, reikėtų unifikuoti jau esamus stilius ir pritaikyti prie mūsų mokyklų poreikių.
-
-Argumentai prieš: ...
 
 <!-- **5. Apie tai dar nebuvo :)**
 
