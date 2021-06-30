@@ -1,4 +1,4 @@
-# Pasiūlymai IT VBE susitarimams 2021-22 mokslo metams
+# Pasiūlymai IT VBE susitarimams 2021/22 mokslo metams
 
 Susitarimai turi skatinti mokinių algoritminį mąstymą, kadangi pasiruošimas VBE yra svarbi mokymo dalis. Šiuo metu de facto yra nusistovėję susitarimai ankstesnių VBE pagrindu, dalis jų yra pagrįsti mokymo efektyvumo prasme, pvz. duomenyse nenaudojami lietuviški simboliai su nosinėmis ir varnelėmis ir tai gali toliau likti mokymo ir VBE metu. Kiti jau tampa neaktualūs   ir nėra efektyvūs mokymo eigoje.
 
