@@ -54,7 +54,7 @@ module.exports = {
           { text: 'C++', link: '/programavimas-cpp/' },
         ]
       },
-      { text: 'Paskaitos', link: '/paskaitos/2020-2021/' },
+      { text: 'Paskaitos', link: '/paskaitos/2021-2022/' },
       // { text: 'Egzaminų užduotys', link: '/egzaminu-uzduotys/' },
       // { text: 'Apie projektą', link: '/apie-projekta/' },
       { text: 'Pasiūlymai', link: '/pasiulymai/' },
@@ -73,10 +73,158 @@ module.exports = {
             '/programavimas-python/',
           ]
         },
+        {
+          title: 'Darbo aplinka',
+          children: [
+            '/programavimas-python/darbo-aplinka/',
+          ]
+        },
+        {
+          title: 'Kodo tvarkingumas',
+          children: [
+            '/programavimas-python/kodo-tvarkingumas/',
+          ]
+        },
+        {
+          title: 'Kintamieji',
+          children: [
+            '/programavimas-python/kintamieji/',
+          ]
+        },
+        {
+          title: 'Informacijos išvedimas į konsolę',
+          children: [
+            '/programavimas-python/informacijos-isvedimas-i-konsole/',
+            '/programavimas-python/informacijos-isvedimas-i-konsole/paprasto-teksto-isvedimas/',
+            '/programavimas-python/informacijos-isvedimas-i-konsole/kintamuju-isvedimas/',
+            '/programavimas-python/informacijos-isvedimas-i-konsole/teksto-ir-kintamuju-isvedimas/',
+          ]
+        },
         // {
-        //   title: 'Darbo aplinka',
+        //   title: 'Python programos struktūra',
         //   children: [
-        //     '/programavimas-cpp/darbo-aplinka/',
+        //     '/programavimas-python/python-programos-struktura/'
+        //   ]
+        // },
+        {
+          title: 'Aritmetiniai veiksmai',
+          children: [
+            '/programavimas-python/aritmetiniai-veiksmai/',
+          ]
+        },
+        {
+          title: 'Informacijos nuskaitymas iš konsolės',
+          children: [
+            '/programavimas-python/informacijos-nuskaitymas-is-konsoles/',
+            '/programavimas-python/informacijos-nuskaitymas-is-konsoles/paprasto-teksto-nuskaitymas/',
+            '/programavimas-python/informacijos-nuskaitymas-is-konsoles/skaiciu-nuskaitymas/',
+            '/programavimas-python/informacijos-nuskaitymas-is-konsoles/tiesos-netiesos-nuskaitymas/',
+            '/programavimas-python/informacijos-nuskaitymas-is-konsoles/simbolio-nuskaitymas/',
+            '/programavimas-python/informacijos-nuskaitymas-is-konsoles/papildomos-uzduotys/',
+          ]
+        },
+        {
+          title: 'Patikrinimo sąlygos (if, switch)',
+          children: [
+            '/programavimas-python/patikrinimo-salygos/if/',
+            '/programavimas-python/patikrinimo-salygos/if/if-dalis/',
+            '/programavimas-python/patikrinimo-salygos/if/else-if-dalis/',
+            '/programavimas-python/patikrinimo-salygos/if/else-dalis/',
+            '/programavimas-python/patikrinimo-salygos/if/pilna-if-salyga/',
+            '/programavimas-python/patikrinimo-salygos/loginiai-patikrinimo-operatoriai/',
+            '/programavimas-python/patikrinimo-salygos/switch/',
+          ]
+        },
+        {
+          title: 'Ciklai (for, while, do while)',
+          children: [
+            '/programavimas-python/ciklai/',
+            '/programavimas-python/ciklai/for/',
+            '/programavimas-python/ciklai/while/',
+            '/programavimas-python/ciklai/do-while/',
+          ]
+        },
+        {
+          title: 'Papildomos užduotys',
+          children: [
+            '/programavimas-python/papildomos-uzduotys-1/'
+          ]
+        },
+        {
+          title: 'Masyvai ir algoritmai',
+          children: [
+            '/programavimas-python/masyvai-ir-algoritmai/',
+            '/programavimas-python/masyvai-ir-algoritmai/vienmaciai/',
+            '/programavimas-python/masyvai-ir-algoritmai/vienmaciai/ivedimas-isvedimas/',
+            '/programavimas-python/masyvai-ir-algoritmai/algoritmai/',
+            '/programavimas-python/masyvai-ir-algoritmai/vienmaciai/skaiciavimai/',
+            '/programavimas-python/masyvai-ir-algoritmai/vienmaciai/atrinkimas-filtravimas/',
+            '/programavimas-python/masyvai-ir-algoritmai/vienmaciai/paieska/',
+            '/programavimas-python/masyvai-ir-algoritmai/vienmaciai/rikiavimas/',
+            '/programavimas-python/masyvai-ir-algoritmai/vienmaciai/keitimas/',
+            '/programavimas-python/masyvai-ir-algoritmai/dvimaciai/',
+            '/programavimas-python/masyvai-ir-algoritmai/sarasai/',
+          ]
+        },
+        {
+          title: 'Papildomos užduotys',
+          children: [
+            '/programavimas-python/papildomos-uzduotys-2/'
+          ]
+        },
+        {
+          title: 'Darbas su duomenų failais',
+          children: [
+            '/programavimas-python/darbas-su-duomenu-failais/',
+            '/programavimas-python/darbas-su-duomenu-failais/nuskaitymas/',
+            '/programavimas-python/darbas-su-duomenu-failais/isvedimas/',
+            '/programavimas-python/darbas-su-duomenu-failais/darbas-su-keliais-failais/',
+          ]
+        },
+        {
+          title: 'Funkcijos',
+          children: [
+            '/programavimas-python/funkcijos/',
+            '/programavimas-python/funkcijos/paprasciausios-funkcijos/',
+            '/programavimas-python/funkcijos/funkcijos-su-argumentais/',
+            '/programavimas-python/funkcijos/funkcijos-su-grazinimo-tipu/',
+            '/programavimas-python/funkcijos/reiksmiu-grazinimas-per-funkcijos-parametrus/',
+            '/programavimas-python/funkcijos/bendravardes-funkcijos/',
+          ]
+        },
+        {
+          title: 'Objektinis programavimas',
+          children: [
+            '/programavimas-python/objektinis-programavimas/',
+            // '/programavimas-python/objektinis-programavimas/strukturos/',
+            // '/programavimas-python/objektinis-programavimas/strukturos/kurimas-ivedimas-isvedimas/',
+            // '/programavimas-python/objektinis-programavimas/strukturos/funkcijos-metodai/',
+            // '/programavimas-python/objektinis-programavimas/strukturos/konstruktoriai/',
+            // '/programavimas-python/objektinis-programavimas/strukturos/objektu-masyvai/ivedimas-isvedimas/',
+            // '/programavimas-python/objektinis-programavimas/strukturos/objektu-masyvai/skaiciavimai/',
+            // '/programavimas-python/objektinis-programavimas/strukturos/objektu-masyvai/rikiavimas/',
+            // '/programavimas-python/objektinis-programavimas/klases/',
+          ]
+        },
+        {
+          title: 'Pasiruošimas informatikos VBE',
+          children: [
+            '/programavimas-python/pasiruosimas-informatikos-vbe/',
+          ]
+        },
+        // {
+        //   title: 'Papildomai: GUI (Grafinė vartotojo sąsaja)',
+        //   children: [
+        //     // '/programavimas-python/gui/',
+        //     '/programavimas-python/gui/aplinkos-pasiruosimas/',
+        //     '/programavimas-python/gui/1-dalis/',
+        //     '/programavimas-python/gui/2-dalis/',
+        //   ]
+        // },
+        // {
+        //   title: 'aaaaa',
+        //   children: [
+        //     '/programavimas-python/aaaaa/',
         //   ]
         // },
       ],
@@ -284,16 +432,17 @@ module.exports = {
       //     ]
       //   }
       // ],
-      // '/paskaitos/': [
-      //   {
-      //     title: 'Paskaitos',
-      //     path: '/paskaitos/',
-      //     children: [
-      //       // '',
-      //       '/paskaitos/2020m/',
-      //     ]
-      //   }
-      // ],
+      '/paskaitos/': [
+        {
+          title: 'Paskaitos',
+          path: '/paskaitos/',
+          children: [
+            // '/paskaitos/',
+            '/paskaitos/2021-2022/',
+            '/paskaitos/2020-2021/',
+          ]
+        }
+      ],
       // '/naujienos/': [
       //   {
       //     title: 'Naujienos',

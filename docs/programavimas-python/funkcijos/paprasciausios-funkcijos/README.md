@@ -1,0 +1,3 @@
+# Paprasčiausios funkcijos
+
+Informacija ruošiama.

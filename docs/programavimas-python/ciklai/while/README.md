@@ -1,0 +1,3 @@
+# Ciklas while
+
+Informacija ruošiama.

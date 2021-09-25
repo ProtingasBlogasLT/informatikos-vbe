@@ -1,5 +1,7 @@
 # Atnaujinimai
 
+**2021-09-25**. Pridėta skiltis 2021-2022 m. m. paskaitų informacijai. Skiltis "Programavimas Python" papildytas temų sąrašu.
+
 **2021-06-30**. Pridėta skiltis "Pasiūlymai IT VBE susitarimams 2021/22 mokslo metams".
 
 **2021-06-20**. Atnaujinti kontaktai. Atnaujinta informacija apie 2020-2021 m. m. paskaitas. Atnaujinta informacija apie programavimo C++ skiltį. Pridėtas skyrius "Programavimas Python".

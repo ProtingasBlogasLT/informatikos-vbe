@@ -1,0 +1,3 @@
+# Funkcijos
+
+Informacija ruošiama.
