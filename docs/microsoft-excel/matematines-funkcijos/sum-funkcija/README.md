@@ -1,0 +1,3 @@
+# SUM funkcija
+
+Informacija ruošiama.

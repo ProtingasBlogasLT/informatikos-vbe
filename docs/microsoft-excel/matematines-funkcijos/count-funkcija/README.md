@@ -1,0 +1,3 @@
+# COUNT funkcija
+
+Informacija ruošiama.

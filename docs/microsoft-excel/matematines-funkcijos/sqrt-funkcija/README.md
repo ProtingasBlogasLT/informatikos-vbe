@@ -1,0 +1,3 @@
+# SQRT funkcija
+
+Informacija ruošiama.

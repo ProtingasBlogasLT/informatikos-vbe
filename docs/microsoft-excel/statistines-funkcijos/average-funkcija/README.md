@@ -1,0 +1,3 @@
+# AVERAGE funkcija
+
+Informacija ruošiama.

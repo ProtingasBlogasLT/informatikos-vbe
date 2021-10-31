@@ -506,6 +506,102 @@ module.exports = {
             '/microsoft-excel/',
           ]
         },
+        {
+          title: 'Įvadas į Microsoft Excel (skirtumai tarp skirtingų Office versijų)',
+          children: [
+            '/microsoft-excel/ivadas-i-microsoft-excel/',
+          ]
+        },
+        {
+          title: 'Santykinės, absoliučiosios ir mišriosios langelių koordinatės',
+          children: [
+            '/microsoft-excel/santykines-absoliuciosios-ir-misriosios-langeliu-koordinates/',
+          ]
+        },
+        {
+          title: 'Matematinės funkcijos',
+          children: [
+            '/microsoft-excel/matematines-funkcijos/',
+            '/microsoft-excel/matematines-funkcijos/sum-funkcija/',
+            '/microsoft-excel/matematines-funkcijos/abs-funkcija/',
+            '/microsoft-excel/matematines-funkcijos/sqrt-funkcija/',
+            '/microsoft-excel/matematines-funkcijos/count-funkcija/',
+            '/microsoft-excel/matematines-funkcijos/trunc-funkcija/',
+            '/microsoft-excel/matematines-funkcijos/round-funkcija/',
+          ]
+        },
+        {
+          title: 'Trigonometrinės funkcijos',
+          children: [
+            '/microsoft-excel/trigonometrines-funkcijos/',
+            '/microsoft-excel/trigonometrines-funkcijos/pi-funkcija/',
+            '/microsoft-excel/trigonometrines-funkcijos/radians-funkcija/',
+            '/microsoft-excel/trigonometrines-funkcijos/sin-funkcija/',
+            '/microsoft-excel/trigonometrines-funkcijos/cos-funkcija/',
+            '/microsoft-excel/trigonometrines-funkcijos/cot-funkcija/',
+            '/microsoft-excel/trigonometrines-funkcijos/tan-funkcija/',
+            '/microsoft-excel/trigonometrines-funkcijos/log-funkcija/',
+          ]
+        },
+        {
+          title: 'Statistinės funkcijos',
+          children: [
+            '/microsoft-excel/statistines-funkcijos/',
+            '/microsoft-excel/statistines-funkcijos/average-funkcija/',
+            '/microsoft-excel/statistines-funkcijos/min-funkcija/',
+            '/microsoft-excel/statistines-funkcijos/max-funkcija/',
+          ]
+        },
+        {
+          title: 'Datos ir laiko funkcijos',
+          children: [
+            '/microsoft-excel/datos-ir-laiko-funkcijos/',
+            '/microsoft-excel/datos-ir-laiko-funkcijos/today-funkcija/',
+            '/microsoft-excel/datos-ir-laiko-funkcijos/date-funkcija/',
+          ]
+        },
+        {
+          title: 'Sudėtingesnės (loginės) matematinės funkcijos',
+          children: [
+            '/microsoft-excel/sudetingesnes-logines-matematines-funkcijos/',
+            '/microsoft-excel/sudetingesnes-logines-matematines-funkcijos/countif-funkcija/',
+            '/microsoft-excel/sudetingesnes-logines-matematines-funkcijos/sumif-funkcija/',
+          ]
+        },
+        {
+          title: 'Loginės funkcijos',
+          children: [
+            '/microsoft-excel/logines-funkcijos/',
+            '/microsoft-excel/logines-funkcijos/if-funkcija/',
+            '/microsoft-excel/logines-funkcijos/and-funkcija/',
+            '/microsoft-excel/logines-funkcijos/or-funkcija/',
+            '/microsoft-excel/logines-funkcijos/not-funkcija/',
+          ]
+        },
+        {
+          title: 'Duomenų rikiavimas pagal kelis raktus',
+          children: [
+            '/microsoft-excel/duomenu-rikiavimas-pagal-kelis-raktus/',
+          ]
+        },
+        {
+          title: 'Filtravimas',
+          children: [
+            '/microsoft-excel/filtravimas/',
+          ]
+        },
+        {
+          title: 'Duomenų atvaizdavimas diagramomis',
+          children: [
+            '/microsoft-excel/duomenu-atvaizdavimas-diagramomis/',
+          ]
+        },
+        {
+          title: 'Dokumento paruošimas spausdinimui',
+          children: [
+            '/microsoft-excel/dokumento-paruosimas-spausdinimui/',
+          ]
+        },
       ],
       // '/egzaminu-uzduotys/': [
       //   {

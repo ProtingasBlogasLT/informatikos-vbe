@@ -1,0 +1,3 @@
+# TRUNC funkcija
+
+Informacija ruošiama.

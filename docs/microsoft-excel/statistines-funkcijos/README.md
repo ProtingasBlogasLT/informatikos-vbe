@@ -1,0 +1,3 @@
+# Statistinės funkcijos
+
+Informacija ruošiama.

@@ -1,0 +1,3 @@
+# SIN funkcija
+
+Informacija ruošiama.

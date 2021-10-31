@@ -1,0 +1,3 @@
+# ABS funkcija
+
+Informacija ruošiama.
