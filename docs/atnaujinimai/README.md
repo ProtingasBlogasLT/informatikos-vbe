@@ -1,5 +1,7 @@
 # Atnaujinimai
 
+**2021-10-31**. Pridėti skyriai "Microsoft Word" ir "Microsoft Excel".
+
 **2021-09-25**. Pridėta skiltis 2021-2022 m. m. paskaitų informacijai. Skiltis "Programavimas Python" papildytas temų sąrašu.
 
 **2021-06-30**. Pridėta skiltis "Pasiūlymai IT VBE susitarimams 2021/22 mokslo metams".

@@ -54,12 +54,19 @@ module.exports = {
           { text: 'C++', link: '/programavimas-cpp/' },
         ]
       },
+      {
+        text: 'Dokumentų tvarkymas',
+        items: [
+          { text: 'Microsoft Word', link: '/microsoft-word/' },
+          { text: 'Microsoft Excel', link: '/microsoft-excel/' },
+        ]
+      },
       { text: 'Paskaitos', link: '/paskaitos/2021-2022/' },
       // { text: 'Egzaminų užduotys', link: '/egzaminu-uzduotys/' },
-      // { text: 'Apie projektą', link: '/apie-projekta/' },
       { text: 'Pasiūlymai', link: '/pasiulymai/' },
       { text: 'Apie mus',
         items: [
+          // { text: 'Apie mus', link: '/apie-mus/' },
           { text: 'Atnaujinimai', link: '/atnaujinimai/' },
           { text: 'Kontaktai', link: '/kontaktai/' },
         ]
@@ -381,6 +388,122 @@ module.exports = {
             '/programavimas-cpp/gui/aplinkos-pasiruosimas/',
             '/programavimas-cpp/gui/1-dalis/',
             '/programavimas-cpp/gui/2-dalis/',
+          ]
+        },
+      ],
+      '/microsoft-word/': [
+        {
+          title: 'Microsoft Word',
+          children: [
+            '/microsoft-word/',
+          ]
+        },
+        {
+          title: 'Įvadas į Microsoft Word (skirtumai tarp skirtingų Office versijų)',
+          children: [
+            '/microsoft-word/ivadas-i-microsoft-word/'
+          ]
+        },
+        {
+          title: 'Kelių lygių ženklinti / numeruoti sąrašai',
+          children: [
+            '/microsoft-word/keliu-lygiu-zenklinti-numeruoti-sarasai/',
+            '/microsoft-word/keliu-lygiu-zenklinti-numeruoti-sarasai/naujo-saraso-sukurimas/',
+            '/microsoft-word/keliu-lygiu-zenklinti-numeruoti-sarasai/numeruoto-zenklinto-saraso-modifikavimas/',
+          ]
+        },
+        {
+          title: 'Dokumento stiliai',
+          children: [
+            '/microsoft-word/dokumento-stiliai/',
+            '/microsoft-word/dokumento-stiliai/simbolio-stilius/',
+            '/microsoft-word/dokumento-stiliai/pastraipos-stilius/',
+            '/microsoft-word/dokumento-stiliai/naujo-stiliaus-sukurimas/',
+            '/microsoft-word/dokumento-stiliai/stiliaus-modifikavimas/',
+          ]
+        },
+        {
+          title: 'Dokumento automatinis turinys',
+          children: [
+            '/microsoft-word/dokumento-automatinis-turinys/',
+            '/microsoft-word/dokumento-automatinis-turinys/turinio-lygiai/',
+            '/microsoft-word/dokumento-automatinis-turinys/automatinio-turinio-formatavimas/',
+          ]
+        },
+        {
+          title: 'Nuorodos',
+          children: [
+            '/microsoft-word/nuorodos/',
+            '/microsoft-word/nuorodos/zymeles/',
+            '/microsoft-word/nuorodos/saitai/',
+            '/microsoft-word/nuorodos/isnasos/',
+          ]
+        },
+        {
+          title: 'Objektų numeravimas',
+          children: [
+            '/microsoft-word/objektu-numeravimas/',
+            '/microsoft-word/objektu-numeravimas/naujos-etiketes-sukurimas/',
+            '/microsoft-word/objektu-numeravimas/kryzmines-nuorodos/',
+            '/microsoft-word/objektu-numeravimas/automatinis-objektu-turinio-sudarymas-pagal-etikete/',
+          ]
+        },
+        {
+          title: 'Dalykinė rodyklė',
+          children: [
+            '/microsoft-word/dalykine-rodykle/',
+            '/microsoft-word/dalykine-rodykle/zodziu-itraukimas-i-dalykine-rodykle/',
+            '/microsoft-word/dalykine-rodykle/dalykines-rodykles-iterpimas/',
+          ]
+        },
+        {
+          title: 'Teksto skiltys',
+          children: [
+            '/microsoft-word/teksto-skiltys/',
+            '/microsoft-word/teksto-skiltys/skilciu-stulpeliu-sudarymas/',
+            '/microsoft-word/teksto-skiltys/luziai-ju-tipai-ir-iterpimas/',
+          ]
+        },
+        {
+          title: 'Puslapinės antraštės / poraštės',
+          children: [
+            '/microsoft-word/puslapines-antrastes-porastes/',
+            '/microsoft-word/puslapines-antrastes-porastes/puslapio-numerio-iterpimas/',
+            '/microsoft-word/puslapines-antrastes-porastes/skirtingos-antrastes-porastes/',
+          ]
+        },
+        {
+          title: 'Tabuliacija',
+          children: [
+            '/microsoft-word/tabuliacija/',
+            '/microsoft-word/tabuliacija/tabuliacijos-zymu-tipai/',
+            '/microsoft-word/tabuliacija/zymiu-atidejimas-modifikavimas-pasalinimas/',
+          ]
+        },
+        {
+          title: 'Lentelės',
+          children: [
+            '/microsoft-word/lenteles/',
+            '/microsoft-word/lenteles/rikiavimas/',
+            '/microsoft-word/lenteles/lenteles-formatavimas/',
+            '/microsoft-word/lenteles/langelio-parastes/',
+          ]
+        },
+        {
+          title: 'Dokumento parengimas spausdinimui',
+          children: [
+            '/microsoft-word/dokumento-parengimas-spausdinimui/',
+            '/microsoft-word/dokumento-parengimas-spausdinimui/puslapio-orientacija/',
+            '/microsoft-word/dokumento-parengimas-spausdinimui/parasciu-dydis/',
+            '/microsoft-word/dokumento-parengimas-spausdinimui/dokumento-eksportavimas-i-pdf/',
+          ]
+        },
+      ],
+      '/microsoft-excel/': [
+        {
+          title: 'Microsoft Excel',
+          children: [
+            '/microsoft-excel/',
           ]
         },
       ],
