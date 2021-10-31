@@ -46,20 +46,27 @@ module.exports = {
       // { text: 'Testas', link: '/testas/' },
       // { text: 'Word', link: '/word/' },
       // { text: 'Excel', link: '/excel/' },
-      { text: 'Programavimas C++', link: '/programavimas-cpp/' },
-      // {
-      //   text: 'Programavimas',
-      //   items: [
-      //     { text: 'Python', link: '/programavimas-python/' },
-      //     { text: 'C++', link: '/programavimas-cpp/' },
-      //   ]
-      // },
-      { text: 'Paskaitos', link: '/paskaitos/2020-2021/' },
+      // { text: 'Programavimas C++', link: '/programavimas-cpp/' },
+      {
+        text: 'Programavimas',
+        items: [
+          { text: 'Python', link: '/programavimas-python/' },
+          { text: 'C++', link: '/programavimas-cpp/' },
+        ]
+      },
+      {
+        text: 'Dokumentų tvarkymas',
+        items: [
+          { text: 'Microsoft Word', link: '/microsoft-word/' },
+          { text: 'Microsoft Excel', link: '/microsoft-excel/' },
+        ]
+      },
+      { text: 'Paskaitos', link: '/paskaitos/2021-2022/' },
       // { text: 'Egzaminų užduotys', link: '/egzaminu-uzduotys/' },
-      // { text: 'Apie projektą', link: '/apie-projekta/' },
       { text: 'Pasiūlymai', link: '/pasiulymai/' },
       { text: 'Apie mus',
         items: [
+          // { text: 'Apie mus', link: '/apie-mus/' },
           { text: 'Atnaujinimai', link: '/atnaujinimai/' },
           { text: 'Kontaktai', link: '/kontaktai/' },
         ]
@@ -73,10 +80,158 @@ module.exports = {
             '/programavimas-python/',
           ]
         },
+        {
+          title: 'Darbo aplinka',
+          children: [
+            '/programavimas-python/darbo-aplinka/',
+          ]
+        },
+        {
+          title: 'Kodo tvarkingumas',
+          children: [
+            '/programavimas-python/kodo-tvarkingumas/',
+          ]
+        },
+        {
+          title: 'Kintamieji',
+          children: [
+            '/programavimas-python/kintamieji/',
+          ]
+        },
+        {
+          title: 'Informacijos išvedimas į konsolę',
+          children: [
+            '/programavimas-python/informacijos-isvedimas-i-konsole/',
+            '/programavimas-python/informacijos-isvedimas-i-konsole/paprasto-teksto-isvedimas/',
+            '/programavimas-python/informacijos-isvedimas-i-konsole/kintamuju-isvedimas/',
+            '/programavimas-python/informacijos-isvedimas-i-konsole/teksto-ir-kintamuju-isvedimas/',
+          ]
+        },
         // {
-        //   title: 'Darbo aplinka',
+        //   title: 'Python programos struktūra',
         //   children: [
-        //     '/programavimas-cpp/darbo-aplinka/',
+        //     '/programavimas-python/python-programos-struktura/'
+        //   ]
+        // },
+        {
+          title: 'Aritmetiniai veiksmai',
+          children: [
+            '/programavimas-python/aritmetiniai-veiksmai/',
+          ]
+        },
+        {
+          title: 'Informacijos nuskaitymas iš konsolės',
+          children: [
+            '/programavimas-python/informacijos-nuskaitymas-is-konsoles/',
+            '/programavimas-python/informacijos-nuskaitymas-is-konsoles/paprasto-teksto-nuskaitymas/',
+            '/programavimas-python/informacijos-nuskaitymas-is-konsoles/skaiciu-nuskaitymas/',
+            '/programavimas-python/informacijos-nuskaitymas-is-konsoles/tiesos-netiesos-nuskaitymas/',
+            '/programavimas-python/informacijos-nuskaitymas-is-konsoles/simbolio-nuskaitymas/',
+            '/programavimas-python/informacijos-nuskaitymas-is-konsoles/papildomos-uzduotys/',
+          ]
+        },
+        {
+          title: 'Patikrinimo sąlygos (if, switch)',
+          children: [
+            '/programavimas-python/patikrinimo-salygos/if/',
+            '/programavimas-python/patikrinimo-salygos/if/if-dalis/',
+            '/programavimas-python/patikrinimo-salygos/if/else-if-dalis/',
+            '/programavimas-python/patikrinimo-salygos/if/else-dalis/',
+            '/programavimas-python/patikrinimo-salygos/if/pilna-if-salyga/',
+            '/programavimas-python/patikrinimo-salygos/loginiai-patikrinimo-operatoriai/',
+            '/programavimas-python/patikrinimo-salygos/switch/',
+          ]
+        },
+        {
+          title: 'Ciklai (for, while, do while)',
+          children: [
+            '/programavimas-python/ciklai/',
+            '/programavimas-python/ciklai/for/',
+            '/programavimas-python/ciklai/while/',
+            '/programavimas-python/ciklai/do-while/',
+          ]
+        },
+        {
+          title: 'Papildomos užduotys',
+          children: [
+            '/programavimas-python/papildomos-uzduotys-1/'
+          ]
+        },
+        {
+          title: 'Masyvai ir algoritmai',
+          children: [
+            '/programavimas-python/masyvai-ir-algoritmai/',
+            '/programavimas-python/masyvai-ir-algoritmai/vienmaciai/',
+            '/programavimas-python/masyvai-ir-algoritmai/vienmaciai/ivedimas-isvedimas/',
+            '/programavimas-python/masyvai-ir-algoritmai/algoritmai/',
+            '/programavimas-python/masyvai-ir-algoritmai/vienmaciai/skaiciavimai/',
+            '/programavimas-python/masyvai-ir-algoritmai/vienmaciai/atrinkimas-filtravimas/',
+            '/programavimas-python/masyvai-ir-algoritmai/vienmaciai/paieska/',
+            '/programavimas-python/masyvai-ir-algoritmai/vienmaciai/rikiavimas/',
+            '/programavimas-python/masyvai-ir-algoritmai/vienmaciai/keitimas/',
+            '/programavimas-python/masyvai-ir-algoritmai/dvimaciai/',
+            '/programavimas-python/masyvai-ir-algoritmai/sarasai/',
+          ]
+        },
+        {
+          title: 'Papildomos užduotys',
+          children: [
+            '/programavimas-python/papildomos-uzduotys-2/'
+          ]
+        },
+        {
+          title: 'Darbas su duomenų failais',
+          children: [
+            '/programavimas-python/darbas-su-duomenu-failais/',
+            '/programavimas-python/darbas-su-duomenu-failais/nuskaitymas/',
+            '/programavimas-python/darbas-su-duomenu-failais/isvedimas/',
+            '/programavimas-python/darbas-su-duomenu-failais/darbas-su-keliais-failais/',
+          ]
+        },
+        {
+          title: 'Funkcijos',
+          children: [
+            '/programavimas-python/funkcijos/',
+            '/programavimas-python/funkcijos/paprasciausios-funkcijos/',
+            '/programavimas-python/funkcijos/funkcijos-su-argumentais/',
+            '/programavimas-python/funkcijos/funkcijos-su-grazinimo-tipu/',
+            '/programavimas-python/funkcijos/reiksmiu-grazinimas-per-funkcijos-parametrus/',
+            '/programavimas-python/funkcijos/bendravardes-funkcijos/',
+          ]
+        },
+        {
+          title: 'Objektinis programavimas',
+          children: [
+            '/programavimas-python/objektinis-programavimas/',
+            // '/programavimas-python/objektinis-programavimas/strukturos/',
+            // '/programavimas-python/objektinis-programavimas/strukturos/kurimas-ivedimas-isvedimas/',
+            // '/programavimas-python/objektinis-programavimas/strukturos/funkcijos-metodai/',
+            // '/programavimas-python/objektinis-programavimas/strukturos/konstruktoriai/',
+            // '/programavimas-python/objektinis-programavimas/strukturos/objektu-masyvai/ivedimas-isvedimas/',
+            // '/programavimas-python/objektinis-programavimas/strukturos/objektu-masyvai/skaiciavimai/',
+            // '/programavimas-python/objektinis-programavimas/strukturos/objektu-masyvai/rikiavimas/',
+            // '/programavimas-python/objektinis-programavimas/klases/',
+          ]
+        },
+        {
+          title: 'Pasiruošimas informatikos VBE',
+          children: [
+            '/programavimas-python/pasiruosimas-informatikos-vbe/',
+          ]
+        },
+        // {
+        //   title: 'Papildomai: GUI (Grafinė vartotojo sąsaja)',
+        //   children: [
+        //     // '/programavimas-python/gui/',
+        //     '/programavimas-python/gui/aplinkos-pasiruosimas/',
+        //     '/programavimas-python/gui/1-dalis/',
+        //     '/programavimas-python/gui/2-dalis/',
+        //   ]
+        // },
+        // {
+        //   title: 'aaaaa',
+        //   children: [
+        //     '/programavimas-python/aaaaa/',
         //   ]
         // },
       ],
@@ -236,6 +391,218 @@ module.exports = {
           ]
         },
       ],
+      '/microsoft-word/': [
+        {
+          title: 'Microsoft Word',
+          children: [
+            '/microsoft-word/',
+          ]
+        },
+        {
+          title: 'Įvadas į Microsoft Word (skirtumai tarp skirtingų Office versijų)',
+          children: [
+            '/microsoft-word/ivadas-i-microsoft-word/'
+          ]
+        },
+        {
+          title: 'Kelių lygių ženklinti / numeruoti sąrašai',
+          children: [
+            '/microsoft-word/keliu-lygiu-zenklinti-numeruoti-sarasai/',
+            '/microsoft-word/keliu-lygiu-zenklinti-numeruoti-sarasai/naujo-saraso-sukurimas/',
+            '/microsoft-word/keliu-lygiu-zenklinti-numeruoti-sarasai/numeruoto-zenklinto-saraso-modifikavimas/',
+          ]
+        },
+        {
+          title: 'Dokumento stiliai',
+          children: [
+            '/microsoft-word/dokumento-stiliai/',
+            '/microsoft-word/dokumento-stiliai/simbolio-stilius/',
+            '/microsoft-word/dokumento-stiliai/pastraipos-stilius/',
+            '/microsoft-word/dokumento-stiliai/naujo-stiliaus-sukurimas/',
+            '/microsoft-word/dokumento-stiliai/stiliaus-modifikavimas/',
+          ]
+        },
+        {
+          title: 'Dokumento automatinis turinys',
+          children: [
+            '/microsoft-word/dokumento-automatinis-turinys/',
+            '/microsoft-word/dokumento-automatinis-turinys/turinio-lygiai/',
+            '/microsoft-word/dokumento-automatinis-turinys/automatinio-turinio-formatavimas/',
+          ]
+        },
+        {
+          title: 'Nuorodos',
+          children: [
+            '/microsoft-word/nuorodos/',
+            '/microsoft-word/nuorodos/zymeles/',
+            '/microsoft-word/nuorodos/saitai/',
+            '/microsoft-word/nuorodos/isnasos/',
+          ]
+        },
+        {
+          title: 'Objektų numeravimas',
+          children: [
+            '/microsoft-word/objektu-numeravimas/',
+            '/microsoft-word/objektu-numeravimas/naujos-etiketes-sukurimas/',
+            '/microsoft-word/objektu-numeravimas/kryzmines-nuorodos/',
+            '/microsoft-word/objektu-numeravimas/automatinis-objektu-turinio-sudarymas-pagal-etikete/',
+          ]
+        },
+        {
+          title: 'Dalykinė rodyklė',
+          children: [
+            '/microsoft-word/dalykine-rodykle/',
+            '/microsoft-word/dalykine-rodykle/zodziu-itraukimas-i-dalykine-rodykle/',
+            '/microsoft-word/dalykine-rodykle/dalykines-rodykles-iterpimas/',
+          ]
+        },
+        {
+          title: 'Teksto skiltys',
+          children: [
+            '/microsoft-word/teksto-skiltys/',
+            '/microsoft-word/teksto-skiltys/skilciu-stulpeliu-sudarymas/',
+            '/microsoft-word/teksto-skiltys/luziai-ju-tipai-ir-iterpimas/',
+          ]
+        },
+        {
+          title: 'Puslapinės antraštės / poraštės',
+          children: [
+            '/microsoft-word/puslapines-antrastes-porastes/',
+            '/microsoft-word/puslapines-antrastes-porastes/puslapio-numerio-iterpimas/',
+            '/microsoft-word/puslapines-antrastes-porastes/skirtingos-antrastes-porastes/',
+          ]
+        },
+        {
+          title: 'Tabuliacija',
+          children: [
+            '/microsoft-word/tabuliacija/',
+            '/microsoft-word/tabuliacija/tabuliacijos-zymu-tipai/',
+            '/microsoft-word/tabuliacija/zymiu-atidejimas-modifikavimas-pasalinimas/',
+          ]
+        },
+        {
+          title: 'Lentelės',
+          children: [
+            '/microsoft-word/lenteles/',
+            '/microsoft-word/lenteles/rikiavimas/',
+            '/microsoft-word/lenteles/lenteles-formatavimas/',
+            '/microsoft-word/lenteles/langelio-parastes/',
+          ]
+        },
+        {
+          title: 'Dokumento parengimas spausdinimui',
+          children: [
+            '/microsoft-word/dokumento-parengimas-spausdinimui/',
+            '/microsoft-word/dokumento-parengimas-spausdinimui/puslapio-orientacija/',
+            '/microsoft-word/dokumento-parengimas-spausdinimui/parasciu-dydis/',
+            '/microsoft-word/dokumento-parengimas-spausdinimui/dokumento-eksportavimas-i-pdf/',
+          ]
+        },
+      ],
+      '/microsoft-excel/': [
+        {
+          title: 'Microsoft Excel',
+          children: [
+            '/microsoft-excel/',
+          ]
+        },
+        {
+          title: 'Įvadas į Microsoft Excel (skirtumai tarp skirtingų Office versijų)',
+          children: [
+            '/microsoft-excel/ivadas-i-microsoft-excel/',
+          ]
+        },
+        {
+          title: 'Santykinės, absoliučiosios ir mišriosios langelių koordinatės',
+          children: [
+            '/microsoft-excel/santykines-absoliuciosios-ir-misriosios-langeliu-koordinates/',
+          ]
+        },
+        {
+          title: 'Matematinės funkcijos',
+          children: [
+            '/microsoft-excel/matematines-funkcijos/',
+            '/microsoft-excel/matematines-funkcijos/sum-funkcija/',
+            '/microsoft-excel/matematines-funkcijos/abs-funkcija/',
+            '/microsoft-excel/matematines-funkcijos/sqrt-funkcija/',
+            '/microsoft-excel/matematines-funkcijos/count-funkcija/',
+            '/microsoft-excel/matematines-funkcijos/trunc-funkcija/',
+            '/microsoft-excel/matematines-funkcijos/round-funkcija/',
+          ]
+        },
+        {
+          title: 'Trigonometrinės funkcijos',
+          children: [
+            '/microsoft-excel/trigonometrines-funkcijos/',
+            '/microsoft-excel/trigonometrines-funkcijos/pi-funkcija/',
+            '/microsoft-excel/trigonometrines-funkcijos/radians-funkcija/',
+            '/microsoft-excel/trigonometrines-funkcijos/sin-funkcija/',
+            '/microsoft-excel/trigonometrines-funkcijos/cos-funkcija/',
+            '/microsoft-excel/trigonometrines-funkcijos/cot-funkcija/',
+            '/microsoft-excel/trigonometrines-funkcijos/tan-funkcija/',
+            '/microsoft-excel/trigonometrines-funkcijos/log-funkcija/',
+          ]
+        },
+        {
+          title: 'Statistinės funkcijos',
+          children: [
+            '/microsoft-excel/statistines-funkcijos/',
+            '/microsoft-excel/statistines-funkcijos/average-funkcija/',
+            '/microsoft-excel/statistines-funkcijos/min-funkcija/',
+            '/microsoft-excel/statistines-funkcijos/max-funkcija/',
+          ]
+        },
+        {
+          title: 'Datos ir laiko funkcijos',
+          children: [
+            '/microsoft-excel/datos-ir-laiko-funkcijos/',
+            '/microsoft-excel/datos-ir-laiko-funkcijos/today-funkcija/',
+            '/microsoft-excel/datos-ir-laiko-funkcijos/date-funkcija/',
+          ]
+        },
+        {
+          title: 'Sudėtingesnės (loginės) matematinės funkcijos',
+          children: [
+            '/microsoft-excel/sudetingesnes-logines-matematines-funkcijos/',
+            '/microsoft-excel/sudetingesnes-logines-matematines-funkcijos/countif-funkcija/',
+            '/microsoft-excel/sudetingesnes-logines-matematines-funkcijos/sumif-funkcija/',
+          ]
+        },
+        {
+          title: 'Loginės funkcijos',
+          children: [
+            '/microsoft-excel/logines-funkcijos/',
+            '/microsoft-excel/logines-funkcijos/if-funkcija/',
+            '/microsoft-excel/logines-funkcijos/and-funkcija/',
+            '/microsoft-excel/logines-funkcijos/or-funkcija/',
+            '/microsoft-excel/logines-funkcijos/not-funkcija/',
+          ]
+        },
+        {
+          title: 'Duomenų rikiavimas pagal kelis raktus',
+          children: [
+            '/microsoft-excel/duomenu-rikiavimas-pagal-kelis-raktus/',
+          ]
+        },
+        {
+          title: 'Filtravimas',
+          children: [
+            '/microsoft-excel/filtravimas/',
+          ]
+        },
+        {
+          title: 'Duomenų atvaizdavimas diagramomis',
+          children: [
+            '/microsoft-excel/duomenu-atvaizdavimas-diagramomis/',
+          ]
+        },
+        {
+          title: 'Dokumento paruošimas spausdinimui',
+          children: [
+            '/microsoft-excel/dokumento-paruosimas-spausdinimui/',
+          ]
+        },
+      ],
       // '/egzaminu-uzduotys/': [
       //   {
       //     title: 'Egzaminų užduotys',
@@ -284,16 +651,17 @@ module.exports = {
       //     ]
       //   }
       // ],
-      // '/paskaitos/': [
-      //   {
-      //     title: 'Paskaitos',
-      //     path: '/paskaitos/',
-      //     children: [
-      //       // '',
-      //       '/paskaitos/2020m/',
-      //     ]
-      //   }
-      // ],
+      '/paskaitos/': [
+        {
+          title: 'Paskaitos',
+          path: '/paskaitos/',
+          children: [
+            // '/paskaitos/',
+            '/paskaitos/2021-2022/',
+            '/paskaitos/2020-2021/',
+          ]
+        }
+      ],
       // '/naujienos/': [
       //   {
       //     title: 'Naujienos',

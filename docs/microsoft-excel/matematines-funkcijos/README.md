@@ -1,0 +1,3 @@
+# Matematinės funkcijos
+
+Informacija ruošiama.

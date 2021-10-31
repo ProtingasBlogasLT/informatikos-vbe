@@ -1,3 +1,3 @@
-# Apie projektą
+# Funkcijos
 
 Informacija ruošiama.

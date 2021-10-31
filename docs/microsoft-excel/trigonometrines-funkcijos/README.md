@@ -1,0 +1,3 @@
+# Trigonometrinės funkcijos
+
+Informacija ruošiama.

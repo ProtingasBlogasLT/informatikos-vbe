@@ -1,0 +1,3 @@
+# Skaičių nuskaitymas
+
+Informacija ruošiama.

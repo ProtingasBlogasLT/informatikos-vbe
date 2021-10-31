@@ -1,0 +1,3 @@
+# Simbolio nuskaitymas
+
+Informacija ruošiama.
