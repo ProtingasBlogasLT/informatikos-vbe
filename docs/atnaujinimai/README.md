@@ -1,6 +1,6 @@
 # Atnaujinimai
 
-**2021-12-19**. Pridėta informacija prie skyriaus "Santykinės, absoliučiosios ir mišriosios langelių koordinatės".
+**2021-12-19**. Pridėta informacija prie skyrių "Santykinės, absoliučiosios ir mišriosios langelių koordinatės", "Matematinės funkcijos".
 
 **2021-10-31**. Pridėti skyriai "Microsoft Word" ir "Microsoft Excel".
 

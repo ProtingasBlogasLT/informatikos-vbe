@@ -525,9 +525,9 @@ module.exports = {
             '/microsoft-excel/matematines-funkcijos/sum-funkcija/',
             '/microsoft-excel/matematines-funkcijos/abs-funkcija/',
             '/microsoft-excel/matematines-funkcijos/sqrt-funkcija/',
-            '/microsoft-excel/matematines-funkcijos/count-funkcija/',
             '/microsoft-excel/matematines-funkcijos/trunc-funkcija/',
             '/microsoft-excel/matematines-funkcijos/round-funkcija/',
+            '/microsoft-excel/matematines-funkcijos/count-funkcija/',
           ]
         },
         {
