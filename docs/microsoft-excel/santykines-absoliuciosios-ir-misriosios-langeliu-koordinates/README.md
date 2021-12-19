@@ -1,5 +1,7 @@
 # Santykinės, absoliučiosios ir mišriosios langelių koordinatės
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O_HK1eafsvs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Microsoft Excel aplinkoje kiekvienas langelis turi savo koordinates. Pavyzdžiui: `A1`; `B5`; `C9`; `F8` ir pan.
 
 ![Koordinatės](./koordinates.png)
@@ -17,6 +19,8 @@ Skaičių sekas galima kurti ir iš kitokių žingsnių. Tam vėlgi reikia nurod
 ![Sekos kūrimas nr. 3](./sekos-kurimas-3.png)
 
 ## Santykinės langelių koordinatės
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wBDBZ2-nKlQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Dėl santykinių langelių koordinačių pavyzdžių naudosime žemiau matomas skaičių sekas:
 
@@ -53,7 +57,7 @@ Bei šį langelį pratempti pro visą stulpelį.
 
 ![Santykinės langelių koordinatės nr. 6](./santykines-6.png)
 
-Rezultatuose vėlgi galima pastebėti, kad kiekvieo langelio formulė buvo pritaikyta imant santykinai kitų langelių reikšmes.
+Rezultatuose vėlgi galima pastebėti, kad kiekvieno langelio formulė buvo pritaikyta imant santykinai kitų langelių reikšmes.
 
 ![Santykinės langelių koordinatės nr. 7](./santykines-7.png)
 
@@ -61,12 +65,10 @@ Rezultatuose vėlgi galima pastebėti, kad kiekvieo langelio formulė buvo prita
 
 ## Mišriosios langelių koordinatės
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WqdFf3_wQ5M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
-
+<!-- Mišriosios koordinatės yra tuomet, kai vieną (arba stulpelį, arba eilutę) mes padarome absoliučiomis. Tai padaryti galima su dolerio ženklu (`$`) arba spaudžiant `F4` mygtuką. -->
 
 ## Absoliučiosios langelių koordinatės
 
-
-
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YL23XS6D2ys" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
