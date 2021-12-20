@@ -506,12 +506,12 @@ module.exports = {
             '/microsoft-excel/',
           ]
         },
-        {
-          title: 'Įvadas į Microsoft Excel (skirtumai tarp skirtingų Office versijų)',
-          children: [
-            '/microsoft-excel/ivadas-i-microsoft-excel/',
-          ]
-        },
+        // {
+        //   title: 'Įvadas į Microsoft Excel (skirtumai tarp skirtingų Office versijų)',
+        //   children: [
+        //     '/microsoft-excel/ivadas-i-microsoft-excel/',
+        //   ]
+        // },
         {
           title: 'Santykinės, absoliučiosios ir mišriosios langelių koordinatės',
           children: [
