@@ -556,8 +556,8 @@ module.exports = {
           title: 'Datos ir laiko funkcijos',
           children: [
             '/microsoft-excel/datos-ir-laiko-funkcijos/',
-            '/microsoft-excel/datos-ir-laiko-funkcijos/today-funkcija/',
-            '/microsoft-excel/datos-ir-laiko-funkcijos/date-funkcija/',
+            // '/microsoft-excel/datos-ir-laiko-funkcijos/today-funkcija/',
+            // '/microsoft-excel/datos-ir-laiko-funkcijos/date-funkcija/',
           ]
         },
         {
