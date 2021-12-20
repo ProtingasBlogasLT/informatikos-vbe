@@ -1,3 +1,0 @@
-# SUMIF funkcija
-
-Informacija ruošiama.

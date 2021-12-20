@@ -564,8 +564,8 @@ module.exports = {
           title: 'Sudėtingesnės (loginės) matematinės funkcijos',
           children: [
             '/microsoft-excel/sudetingesnes-logines-matematines-funkcijos/',
-            '/microsoft-excel/sudetingesnes-logines-matematines-funkcijos/countif-funkcija/',
-            '/microsoft-excel/sudetingesnes-logines-matematines-funkcijos/sumif-funkcija/',
+            // '/microsoft-excel/sudetingesnes-logines-matematines-funkcijos/countif-funkcija/',
+            // '/microsoft-excel/sudetingesnes-logines-matematines-funkcijos/sumif-funkcija/',
           ]
         },
         {

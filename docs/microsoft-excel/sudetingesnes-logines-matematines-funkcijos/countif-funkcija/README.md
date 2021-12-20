@@ -1,3 +1,0 @@
-# COUNTIF funkcija
-
-Informacija ruošiama.
