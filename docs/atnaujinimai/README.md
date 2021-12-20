@@ -1,5 +1,7 @@
 # Atnaujinimai
 
+**2021-12-20**. Pridėta informacija prie skyriaus "Sudėtingesnės (loginės) matematinės funkcijos".
+
 **2021-12-19**. Pridėta informacija prie skyrių "Santykinės, absoliučiosios ir mišriosios langelių koordinatės", "Matematinės funkcijos", "Trigonometrinės funkcijos", "Statistinės funkcijos", "Datos ir laiko funkcijos".
 
 **2021-10-31**. Pridėti skyriai "Microsoft Word" ir "Microsoft Excel".
