@@ -1,3 +1,0 @@
-# COS funkcija
-
-Informacija ruošiama.

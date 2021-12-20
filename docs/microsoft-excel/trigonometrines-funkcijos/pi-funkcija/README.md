@@ -1,3 +1,0 @@
-# PI funkcija
-
-Informacija ruošiama.
