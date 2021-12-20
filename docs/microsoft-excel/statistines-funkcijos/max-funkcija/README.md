@@ -1,3 +1,0 @@
-# MAX funkcija
-
-Informacija ruošiama.

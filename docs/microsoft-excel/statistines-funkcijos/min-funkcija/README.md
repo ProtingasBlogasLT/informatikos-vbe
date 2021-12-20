@@ -1,3 +1,0 @@
-# MIN funkcija
-
-Informacija ruošiama.

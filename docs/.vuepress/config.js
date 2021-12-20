@@ -547,9 +547,9 @@ module.exports = {
           title: 'Statistinės funkcijos',
           children: [
             '/microsoft-excel/statistines-funkcijos/',
-            '/microsoft-excel/statistines-funkcijos/average-funkcija/',
-            '/microsoft-excel/statistines-funkcijos/min-funkcija/',
-            '/microsoft-excel/statistines-funkcijos/max-funkcija/',
+            // '/microsoft-excel/statistines-funkcijos/average-funkcija/',
+            // '/microsoft-excel/statistines-funkcijos/min-funkcija/',
+            // '/microsoft-excel/statistines-funkcijos/max-funkcija/',
           ]
         },
         {
