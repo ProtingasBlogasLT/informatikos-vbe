@@ -506,12 +506,12 @@ module.exports = {
             '/microsoft-excel/',
           ]
         },
-        {
-          title: 'Įvadas į Microsoft Excel (skirtumai tarp skirtingų Office versijų)',
-          children: [
-            '/microsoft-excel/ivadas-i-microsoft-excel/',
-          ]
-        },
+        // {
+        //   title: 'Įvadas į Microsoft Excel (skirtumai tarp skirtingų Office versijų)',
+        //   children: [
+        //     '/microsoft-excel/ivadas-i-microsoft-excel/',
+        //   ]
+        // },
         {
           title: 'Santykinės, absoliučiosios ir mišriosios langelių koordinatės',
           children: [
@@ -547,17 +547,17 @@ module.exports = {
           title: 'Statistinės funkcijos',
           children: [
             '/microsoft-excel/statistines-funkcijos/',
-            '/microsoft-excel/statistines-funkcijos/average-funkcija/',
-            '/microsoft-excel/statistines-funkcijos/min-funkcija/',
-            '/microsoft-excel/statistines-funkcijos/max-funkcija/',
+            // '/microsoft-excel/statistines-funkcijos/average-funkcija/',
+            // '/microsoft-excel/statistines-funkcijos/min-funkcija/',
+            // '/microsoft-excel/statistines-funkcijos/max-funkcija/',
           ]
         },
         {
           title: 'Datos ir laiko funkcijos',
           children: [
             '/microsoft-excel/datos-ir-laiko-funkcijos/',
-            '/microsoft-excel/datos-ir-laiko-funkcijos/today-funkcija/',
-            '/microsoft-excel/datos-ir-laiko-funkcijos/date-funkcija/',
+            // '/microsoft-excel/datos-ir-laiko-funkcijos/today-funkcija/',
+            // '/microsoft-excel/datos-ir-laiko-funkcijos/date-funkcija/',
           ]
         },
         {

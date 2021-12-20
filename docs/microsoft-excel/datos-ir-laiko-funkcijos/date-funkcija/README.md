@@ -1,3 +1,0 @@
-# DATE funkcija
-
-Informacija ruošiama.

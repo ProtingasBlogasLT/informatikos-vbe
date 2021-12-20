@@ -1,3 +1,0 @@
-# TODAY funkcija
-
-Informacija ruošiama.
