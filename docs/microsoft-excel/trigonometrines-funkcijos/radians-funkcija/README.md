@@ -1,3 +1,0 @@
-# RADIANS funkcija
-
-Informacija ruošiama.

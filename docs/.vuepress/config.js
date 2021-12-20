@@ -534,13 +534,13 @@ module.exports = {
           title: 'Trigonometrinės funkcijos',
           children: [
             '/microsoft-excel/trigonometrines-funkcijos/',
-            '/microsoft-excel/trigonometrines-funkcijos/pi-funkcija/',
-            '/microsoft-excel/trigonometrines-funkcijos/radians-funkcija/',
-            '/microsoft-excel/trigonometrines-funkcijos/sin-funkcija/',
-            '/microsoft-excel/trigonometrines-funkcijos/cos-funkcija/',
-            '/microsoft-excel/trigonometrines-funkcijos/cot-funkcija/',
-            '/microsoft-excel/trigonometrines-funkcijos/tan-funkcija/',
-            '/microsoft-excel/trigonometrines-funkcijos/log-funkcija/',
+            // '/microsoft-excel/trigonometrines-funkcijos/pi-funkcija/',
+            // '/microsoft-excel/trigonometrines-funkcijos/radians-funkcija/',
+            // '/microsoft-excel/trigonometrines-funkcijos/sin-funkcija/',
+            // '/microsoft-excel/trigonometrines-funkcijos/cos-funkcija/',
+            // '/microsoft-excel/trigonometrines-funkcijos/cot-funkcija/',
+            // '/microsoft-excel/trigonometrines-funkcijos/tan-funkcija/',
+            // '/microsoft-excel/trigonometrines-funkcijos/log-funkcija/',
           ]
         },
         {
