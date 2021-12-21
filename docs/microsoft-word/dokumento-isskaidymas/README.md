@@ -1,0 +1,3 @@
+# Dokumento išskaidymas
+
+Informacija ruošiama.
