@@ -1,6 +1,6 @@
 # Atnaujinimai
 
-**2021-12-21**. Pridėta informacija prie Microsoft Word skyrių "Kelių lygių sąrašai", "Lentelės", "Dokumento išskaidymas", "Puslapių lūžiai", "Nuorodos", "Puslapinės antraštės ir poraštės", "Puslapių numeravimas", "Antraščių ir pastraipų stilius", "Tabuliavimo žymės".
+**2021-12-21**. Pridėta informacija prie Microsoft Word skyrių "Kelių lygių sąrašai", "Lentelės", "Dokumento išskaidymas", "Puslapių lūžiai", "Nuorodos", "Puslapinės antraštės ir poraštės", "Puslapių numeravimas", "Antraščių ir pastraipų stilius", "Tabuliavimo žymės", "Dalykinės rodyklės".
 
 **2021-12-20**. Pridėta informacija prie Microsoft Excel skyriaus "Sudėtingesnės (loginės) matematinės funkcijos".
 
