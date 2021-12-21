@@ -1,6 +1,6 @@
 # Atnaujinimai
 
-**2021-12-21**. Pridėta informacija prie Microsoft Word skyrių "Kelių lygių sąrašai", "Lentelės", "Dokumento išskaidymas".
+**2021-12-21**. Pridėta informacija prie Microsoft Word skyrių "Kelių lygių sąrašai", "Lentelės", "Dokumento išskaidymas", "Puslapių lūžiai".
 
 **2021-12-20**. Pridėta informacija prie Microsoft Excel skyriaus "Sudėtingesnės (loginės) matematinės funkcijos".
 
