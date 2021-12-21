@@ -1,5 +1,7 @@
 # Atnaujinimai
 
+**2021-12-21**. Pridėta informacija prie Microsoft Word skyriaus "Kelių lygių sąrašai".
+
 **2021-12-20**. Pridėta informacija prie Microsoft Excel skyriaus "Sudėtingesnės (loginės) matematinės funkcijos".
 
 **2021-12-19**. Pridėta informacija prie Microsoft Excel skyrių "Santykinės, absoliučiosios ir mišriosios langelių koordinatės", "Matematinės funkcijos", "Trigonometrinės funkcijos", "Statistinės funkcijos", "Datos ir laiko funkcijos".
