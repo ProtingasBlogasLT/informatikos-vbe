@@ -1,3 +1,0 @@
-# Kintamieji
-
-Informacija ruošiama.

@@ -83,55 +83,48 @@ module.exports = {
         {
           title: 'Darbo aplinka',
           children: [
-            '/programavimas-python/darbo-aplinka/',
+            '/programavimas-python/darbo-aplinka/aplinkos-pasiruosimas/',
+            '/programavimas-python/darbo-aplinka/interpretitoriaus-ir-darbo-faile-skirtumai/',
+          ]
+        },
+        {
+          title: 'Skaičiai ir matematika (1)',
+          children: [
+            '/programavimas-python/skaiciai-ir-matematika-1/'
           ]
         },
         {
           title: 'Kodo tvarkingumas',
           children: [
-            '/programavimas-python/kodo-tvarkingumas/',
+            '/programavimas-python/kodo-tvarkingumas/'
           ]
         },
         {
-          title: 'Kintamieji',
+          title: 'Kintamieji ir duomenų tipai',
           children: [
-            '/programavimas-python/kintamieji/',
+            '/programavimas-python/kintamieji-ir-duomenu-tipai/'
           ]
         },
         {
           title: 'Informacijos išvedimas į konsolę',
           children: [
-            '/programavimas-python/informacijos-isvedimas-i-konsole/',
-            '/programavimas-python/informacijos-isvedimas-i-konsole/paprasto-teksto-isvedimas/',
-            '/programavimas-python/informacijos-isvedimas-i-konsole/kintamuju-isvedimas/',
-            '/programavimas-python/informacijos-isvedimas-i-konsole/teksto-ir-kintamuju-isvedimas/',
+            '/programavimas-python/informacijos-isvedimas-i-konsole/'
           ]
         },
-        // {
-        //   title: 'Python programos struktūra',
-        //   children: [
-        //     '/programavimas-python/python-programos-struktura/'
-        //   ]
-        // },
         {
-          title: 'Aritmetiniai veiksmai',
+          title: 'Skaičiai ir matematika (2) / Aritmetiniai veiksmai',
           children: [
-            '/programavimas-python/aritmetiniai-veiksmai/',
+            '/programavimas-python/skaiciai-ir-matematika-2/'
           ]
         },
         {
           title: 'Informacijos nuskaitymas iš konsolės',
           children: [
             '/programavimas-python/informacijos-nuskaitymas-is-konsoles/',
-            '/programavimas-python/informacijos-nuskaitymas-is-konsoles/paprasto-teksto-nuskaitymas/',
-            '/programavimas-python/informacijos-nuskaitymas-is-konsoles/skaiciu-nuskaitymas/',
-            '/programavimas-python/informacijos-nuskaitymas-is-konsoles/tiesos-netiesos-nuskaitymas/',
-            '/programavimas-python/informacijos-nuskaitymas-is-konsoles/simbolio-nuskaitymas/',
-            '/programavimas-python/informacijos-nuskaitymas-is-konsoles/papildomos-uzduotys/',
           ]
         },
         {
-          title: 'Patikrinimo sąlygos (if, switch)',
+          title: 'Patikrinimo sąlygos (if, loginiai operatoriai)',
           children: [
             '/programavimas-python/patikrinimo-salygos/if/',
             '/programavimas-python/patikrinimo-salygos/if/if-dalis/',
@@ -139,40 +132,56 @@ module.exports = {
             '/programavimas-python/patikrinimo-salygos/if/else-dalis/',
             '/programavimas-python/patikrinimo-salygos/if/pilna-if-salyga/',
             '/programavimas-python/patikrinimo-salygos/loginiai-patikrinimo-operatoriai/',
-            '/programavimas-python/patikrinimo-salygos/switch/',
           ]
         },
         {
-          title: 'Ciklai (for, while, do while)',
+          title: 'Žinių užtvirtinimas (1)',
+          children: [
+            '/programavimas-python/ziniu-uztvirtinimas-1/',
+          ]
+        },
+        {
+          title: 'range() arba ranges',
+          children: [
+            '/programavimas-python/range/',
+          ]
+        },
+        {
+          title: 'Ciklai (for, while)',
           children: [
             '/programavimas-python/ciklai/',
             '/programavimas-python/ciklai/for/',
             '/programavimas-python/ciklai/while/',
-            '/programavimas-python/ciklai/do-while/',
           ]
         },
+        // {
+        //   title: 'Papildomos užduotys',
+        //   children: [
+        //     '/programavimas-python/papildomos-uzduotys-1/'
+        //   ]
+        // },
         {
-          title: 'Papildomos užduotys',
+          title: 'Sąrašai (lists)',
           children: [
-            '/programavimas-python/papildomos-uzduotys-1/'
+            '/programavimas-python/sarasai/'
           ]
         },
-        {
-          title: 'Masyvai ir algoritmai',
-          children: [
-            '/programavimas-python/masyvai-ir-algoritmai/',
-            '/programavimas-python/masyvai-ir-algoritmai/vienmaciai/',
-            '/programavimas-python/masyvai-ir-algoritmai/vienmaciai/ivedimas-isvedimas/',
-            '/programavimas-python/masyvai-ir-algoritmai/algoritmai/',
-            '/programavimas-python/masyvai-ir-algoritmai/vienmaciai/skaiciavimai/',
-            '/programavimas-python/masyvai-ir-algoritmai/vienmaciai/atrinkimas-filtravimas/',
-            '/programavimas-python/masyvai-ir-algoritmai/vienmaciai/paieska/',
-            '/programavimas-python/masyvai-ir-algoritmai/vienmaciai/rikiavimas/',
-            '/programavimas-python/masyvai-ir-algoritmai/vienmaciai/keitimas/',
-            '/programavimas-python/masyvai-ir-algoritmai/dvimaciai/',
-            '/programavimas-python/masyvai-ir-algoritmai/sarasai/',
-          ]
-        },
+        // {
+        //   title: 'Masyvai ir algoritmai',
+        //   children: [
+        //     '/programavimas-python/masyvai-ir-algoritmai/',
+        //     '/programavimas-python/masyvai-ir-algoritmai/vienmaciai/',
+        //     '/programavimas-python/masyvai-ir-algoritmai/vienmaciai/ivedimas-isvedimas/',
+        //     '/programavimas-python/masyvai-ir-algoritmai/algoritmai/',
+        //     '/programavimas-python/masyvai-ir-algoritmai/vienmaciai/skaiciavimai/',
+        //     '/programavimas-python/masyvai-ir-algoritmai/vienmaciai/atrinkimas-filtravimas/',
+        //     '/programavimas-python/masyvai-ir-algoritmai/vienmaciai/paieska/',
+        //     '/programavimas-python/masyvai-ir-algoritmai/vienmaciai/rikiavimas/',
+        //     '/programavimas-python/masyvai-ir-algoritmai/vienmaciai/keitimas/',
+        //     '/programavimas-python/masyvai-ir-algoritmai/dvimaciai/',
+        //     '/programavimas-python/masyvai-ir-algoritmai/sarasai/',
+        //   ]
+        // },
         {
           title: 'Papildomos užduotys',
           children: [

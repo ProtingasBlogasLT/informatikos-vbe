@@ -1,5 +1,7 @@
 # Atnaujinimai
 
+**2022-12-09**. Atnaujintas Python skyriaus temų sąrašas.
+
 **2021-12-21**. Pridėta informacija prie Microsoft Word skyrių "Kelių lygių sąrašai", "Lentelės", "Dokumento išskaidymas", "Puslapių lūžiai", "Nuorodos", "Puslapinės antraštės ir poraštės", "Puslapių numeravimas", "Antraščių ir pastraipų stilius", "Tabuliavimo žymės", "Dalykinės rodyklės", "Puslapio turinys".
 
 **2021-12-20**. Pridėta informacija prie Microsoft Excel skyriaus "Sudėtingesnės (loginės) matematinės funkcijos".

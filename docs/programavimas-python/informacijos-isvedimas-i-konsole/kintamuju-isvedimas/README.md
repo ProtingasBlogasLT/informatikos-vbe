@@ -1,3 +1,0 @@
-# Kintamųjų išvedimas
-
-Informacija ruošiama.

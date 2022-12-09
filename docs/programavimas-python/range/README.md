@@ -1,3 +1,3 @@
-# Ciklas do while
+# range() arba ranges
 
 Informacija ruošiama.

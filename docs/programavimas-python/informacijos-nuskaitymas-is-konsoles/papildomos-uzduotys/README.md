@@ -1,3 +1,0 @@
-# Papildomos užduotys
-
-Informacija ruošiama.

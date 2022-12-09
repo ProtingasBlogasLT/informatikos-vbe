@@ -1,3 +1,0 @@
-# Vienmačiai masyvai
-
-Informacija ruošiama.

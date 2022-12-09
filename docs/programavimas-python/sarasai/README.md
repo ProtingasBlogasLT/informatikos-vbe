@@ -1,3 +1,3 @@
-# Masyvai
+# Sąrašai (lists)
 
 Informacija ruošiama.
