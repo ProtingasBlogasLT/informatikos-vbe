@@ -1,6 +1,6 @@
 # Atnaujinimai
 
-**2022-12-09**. Atnaujintas Python skyriaus temų sąrašas. Python skyriuje pridėta medžiagos į šias temas: "skaičiai ir matematika (1)", "kodo tvarkingumas", "kintamieji ir duomenų tipai".
+**2022-12-09**. Atnaujintas Python skyriaus temų sąrašas. Python skyriuje pridėta medžiagos į šias temas: "skaičiai ir matematika (1)", "kodo tvarkingumas", "kintamieji ir duomenų tipai", "informacijos išvedimas į konsolę".
 
 **2021-12-21**. Pridėta informacija prie Microsoft Word skyrių "Kelių lygių sąrašai", "Lentelės", "Dokumento išskaidymas", "Puslapių lūžiai", "Nuorodos", "Puslapinės antraštės ir poraštės", "Puslapių numeravimas", "Antraščių ir pastraipų stilius", "Tabuliavimo žymės", "Dalykinės rodyklės", "Puslapio turinys".
 
