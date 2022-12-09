@@ -1,3 +1,0 @@
-# Algoritmai
-
-Informacija ruošiama.

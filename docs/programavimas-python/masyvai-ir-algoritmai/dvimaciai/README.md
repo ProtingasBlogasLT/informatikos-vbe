@@ -1,3 +1,0 @@
-# Dvimačiai masyvai
-
-Informacija ruošiama.

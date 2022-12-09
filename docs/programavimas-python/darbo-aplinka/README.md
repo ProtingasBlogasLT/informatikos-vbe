@@ -1,3 +1,0 @@
-# Darbo aplinka
-
-Informacija ruošiama.

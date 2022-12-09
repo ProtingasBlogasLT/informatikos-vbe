@@ -1,3 +1,0 @@
-# Aritmetiniai veiksmai
-
-Informacija ruošiama.
