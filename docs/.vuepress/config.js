@@ -128,7 +128,7 @@ module.exports = {
           children: [
             '/programavimas-python/patikrinimo-salygos/if/',
             '/programavimas-python/patikrinimo-salygos/if/if-dalis/',
-            '/programavimas-python/patikrinimo-salygos/if/else-if-dalis/',
+            '/programavimas-python/patikrinimo-salygos/if/elif-dalis/',
             '/programavimas-python/patikrinimo-salygos/if/else-dalis/',
             '/programavimas-python/patikrinimo-salygos/if/pilna-if-salyga/',
             '/programavimas-python/patikrinimo-salygos/loginiai-patikrinimo-operatoriai/',

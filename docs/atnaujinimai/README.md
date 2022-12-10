@@ -1,5 +1,7 @@
 # Atnaujinimai
 
+**2022-12-10**. Python skyriuje pridėta medžiagos į šias temas: "patikrinimo sąlyga if", "loginiai patikrinimo operatoriai", "žinių užtvirtinimas (1)", "range() arba ranges", "ciklai", "ciklas for", "ciklas while".
+
 **2022-12-09**. Atnaujintas Python skyriaus temų sąrašas. Python skyriuje pridėta medžiagos į šias temas: "skaičiai ir matematika (1)", "kodo tvarkingumas", "kintamieji ir duomenų tipai", "informacijos išvedimas į konsolę", "skaičiai ir matematika (2) / aritmetiniai veiksmai", "informacijos nuskaitymas iš konsolės".
 
 **2021-12-21**. Pridėta informacija prie Microsoft Word skyrių "Kelių lygių sąrašai", "Lentelės", "Dokumento išskaidymas", "Puslapių lūžiai", "Nuorodos", "Puslapinės antraštės ir poraštės", "Puslapių numeravimas", "Antraščių ir pastraipų stilius", "Tabuliavimo žymės", "Dalykinės rodyklės", "Puslapio turinys".
