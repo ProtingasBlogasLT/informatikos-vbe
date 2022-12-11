@@ -1,3 +1,3 @@
-# Papildomos užduotys
+# Rinkiniai (sets)
 
 Informacija ruošiama.

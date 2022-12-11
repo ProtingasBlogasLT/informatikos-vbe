@@ -154,47 +154,37 @@ module.exports = {
             '/programavimas-python/ciklai/while/',
           ]
         },
-        // {
-        //   title: 'Papildomos užduotys',
-        //   children: [
-        //     '/programavimas-python/papildomos-uzduotys-1/'
-        //   ]
-        // },
         {
           title: 'Sąrašai (lists)',
           children: [
-            '/programavimas-python/sarasai/'
-          ]
-        },
-        // {
-        //   title: 'Masyvai ir algoritmai',
-        //   children: [
-        //     '/programavimas-python/masyvai-ir-algoritmai/',
-        //     '/programavimas-python/masyvai-ir-algoritmai/vienmaciai/',
-        //     '/programavimas-python/masyvai-ir-algoritmai/vienmaciai/ivedimas-isvedimas/',
-        //     '/programavimas-python/masyvai-ir-algoritmai/algoritmai/',
-        //     '/programavimas-python/masyvai-ir-algoritmai/vienmaciai/skaiciavimai/',
-        //     '/programavimas-python/masyvai-ir-algoritmai/vienmaciai/atrinkimas-filtravimas/',
-        //     '/programavimas-python/masyvai-ir-algoritmai/vienmaciai/paieska/',
-        //     '/programavimas-python/masyvai-ir-algoritmai/vienmaciai/rikiavimas/',
-        //     '/programavimas-python/masyvai-ir-algoritmai/vienmaciai/keitimas/',
-        //     '/programavimas-python/masyvai-ir-algoritmai/dvimaciai/',
-        //     '/programavimas-python/masyvai-ir-algoritmai/sarasai/',
-        //   ]
-        // },
-        {
-          title: 'Papildomos užduotys',
-          children: [
-            '/programavimas-python/papildomos-uzduotys-2/'
+            '/programavimas-python/lists/'
           ]
         },
         {
-          title: 'Darbas su duomenų failais',
+          title: 'Žodynai (dictionaries)',
           children: [
-            '/programavimas-python/darbas-su-duomenu-failais/',
-            '/programavimas-python/darbas-su-duomenu-failais/nuskaitymas/',
-            '/programavimas-python/darbas-su-duomenu-failais/isvedimas/',
-            '/programavimas-python/darbas-su-duomenu-failais/darbas-su-keliais-failais/',
+            '/programavimas-python/dictionaries/'
+          ]
+        },
+        {
+          title: 'Nekeičiami sąrašai (tuples)',
+          children: [
+            '/programavimas-python/tuples/'
+          ]
+        },
+        {
+          title: 'Rinkiniai (sets)',
+          children: [
+            '/programavimas-python/sets/'
+          ]
+        },
+        {
+          title: 'Darbas su failais',
+          children: [
+            '/programavimas-python/darbas-su-failais/',
+            '/programavimas-python/darbas-su-failais/nuskaitymas/',
+            '/programavimas-python/darbas-su-failais/isvedimas/',
+            '/programavimas-python/darbas-su-failais/darbas-su-keliais-failais/',
           ]
         },
         {
@@ -204,8 +194,6 @@ module.exports = {
             '/programavimas-python/funkcijos/paprasciausios-funkcijos/',
             '/programavimas-python/funkcijos/funkcijos-su-argumentais/',
             '/programavimas-python/funkcijos/funkcijos-su-grazinimo-tipu/',
-            '/programavimas-python/funkcijos/reiksmiu-grazinimas-per-funkcijos-parametrus/',
-            '/programavimas-python/funkcijos/bendravardes-funkcijos/',
           ]
         },
         {
