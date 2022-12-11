@@ -1,6 +1,6 @@
 # Atnaujinimai
 
-**2022-12-11**. Atnaujintas Python skyriaus temų sąrašas. Python skyriuje pridėta medžiagos į šias temas: "nekeičiami sąrašai (tuples)".
+**2022-12-11**. Atnaujintas Python skyriaus temų sąrašas. Python skyriuje pridėta medžiagos į šias temas: "nekeičiami sąrašai (tuples)", "rinkiniai (sets)".
 
 **2022-12-10**. Python skyriuje pridėta medžiagos į šias temas: "patikrinimo sąlyga if", "loginiai patikrinimo operatoriai", "žinių užtvirtinimas (1)", "range() arba ranges", "ciklai", "ciklas for", "ciklas while". Pridėtas įžanginis tekstas apie Python skyrių.
 
